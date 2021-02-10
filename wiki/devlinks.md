@@ -7,6 +7,11 @@ Collection of URL's
 
 ### UI Utils
 
+#### Layout and Views
+
+[Layoutit!](https://layoutit.com/)  advanced Layout tool with drag/drop
+
+#### Tools
 [dom-to-image](https://github.com/tsayen/dom-to-image)  convert a DOM element to an image
 
 #### Graphic and Charts
