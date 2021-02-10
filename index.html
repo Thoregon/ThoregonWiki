@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>My Docs</title>
+    <link rel="stylesheet" href="https://unpkg.com/docute@4/dist/docute.css">
+    <style>
+        :root {}
+        body {
+            font-family : Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size   : 13px;
+            font-weight : 400;
+        }
+    </style>
+</head>
+<body>
+<div id="docute"></div>
+<script src="https://unpkg.com/docute@4/dist/docute.js"></script>
+<script>
+    new Docute({
+                   title          : 'Thore͛gon Knowledgbase',
+                   darkThemeToggle: true,
+                   sourcePath     : './wiki/',
+                   theme          : 'dark',
+                   nav            : [
+                       {
+                           title: 'Home',
+                           link : 'README.md'
+                       },
+                       {
+                           title: 'Github',
+                           link : 'https://github.com/Thoregon'
+                       },
+                   ],
+                   sidebar        : [
+                       {
+                           title   : 'Guide',
+                           children: [
+                               {
+                                   title: 'Getting Started',
+                                   link : 'getting-started'
+                               },
+                               {
+                                   title: 'Installation',
+                                   link : 'installation'
+                               },
+                               {
+                                   title: 'Minimal Survival Guide',
+                                   link : 'survival'
+                               }
+                           ]
+                       },
+                       {
+                           title   : 'Thore͛gon',
+                           children: [
+                               {
+                                   title: 'Arcitecture',
+                                   link : 'architecture'
+                               },
+                               {
+                                   title: 'Development Handbook',
+                                   link : 'dev'
+                               }
+                           ]
+                       },
+                       {
+                           title   : 'Thatsme',
+                           children: [
+                               {
+                                   title: 'Self Sovereign Identities',
+                                   link : 'ssi'
+                               },
+                               {
+                                   title: 'Overview',
+                                   link : 'thatsmeoverview'
+                               }
+                           ]
+                       },
+                       {
+                           title: "Dev URL's",
+                           link : 'devlinks'
+                       },
+                       {
+                           title: 'GitHub',
+                           link : 'https://github.com/Thoregon'
+                       }
+                   ]
+               });
+
+    /*
+    new Docute({
+  title: 'Docute',
+  nav: [
+    {
+      title: 'Home',
+      link: '/'
+    },
+    {
+      title: 'GitHub',
+      link: 'https://github.com/egoist/docute'
+    },
+    // A dropdown menu
+    {
+      title: 'Community',
+      children: [
+        {
+          title: 'Spectrum',
+          link: 'https://spectrum.chat/your-community'
+        },
+        {
+          title: 'Discord',
+          link: 'https://discord.app/your-discord-server'
+        }
+      ]
+    }
+  ]
+})
+     */
+</script>
+</body>
+</html>
