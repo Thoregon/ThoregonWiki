@@ -17,3 +17,10 @@ Collection of URL's
 #### Graphic and Charts
 
 [Chart.js](https://www.chartjs.org/)
+
+## Video 
+[d.tube](https://d.tube/)
+
+[peertube](https://joinpeertube.org/de/)
+
+[veezee.tube](https://veezee.tube/)
