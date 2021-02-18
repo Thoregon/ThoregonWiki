@@ -5,6 +5,15 @@ Collection of URL's
 
 ## Components
 
+### JS
+
+#### QR Code
+- Reader [jsQR]( )https://github.com/cozmo/jsQR)
+- Generator 
+    - https://github.com/janantala/qrcode.js
+    - https://github.com/soldair/node-qrcode
+- https://github.com/manuelottlik/ct-js-qr
+
 ### UI Utils
 
 #### Layout and Views
