@@ -22,6 +22,7 @@ Collection of URL's
 
 #### Tools
 [dom-to-image](https://github.com/tsayen/dom-to-image)  convert a DOM element to an image
+[international Holidays](https://github.com/nager/Nager.Date)
 
 #### Graphic and Charts
 
