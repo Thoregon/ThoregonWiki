@@ -52,12 +52,15 @@ class MyWebService extends RestFull {
      * @param {Object} config - the config you specified at addTerminalRoot()
      */
      connect(wwwroot, config) {
+        // check authorization for all request 
+        wwwroot.isAuthorized = ({ auth, url, params, query, content }) => authcheck();  
 
         /** @param {Request} req - request as known for express */
         /** @param {Response} res - response as known for express */
         /** @param {params, query, content} data - convenience, provides already extracted data from the request */
         /** @param {ResponseUtils} utils - easier responding  (/evolux.web/lib/responseutils.mjs) */
-        wwwroot.post('postendpoint', async (req, res, data, utils) => { your.code.here() });
+        // for each method an authorization check can be provided. overrules auth check from above
+        wwwroot.post('postendpoint', async (req, res, data, utils) => { your.code.here() }, ({ auth, url, params, query, content }) => authcheck());
         wwwroot.put('putendpoint', async (req, res, data, utils) => { your.code.here() });
         wwwroot.get('getendpoint', async (req, res, data, utils) => { your.code.here() });
         wwwroot.patch('patchendpoint', async (req, res, data, utils) => { your.code.here() });
