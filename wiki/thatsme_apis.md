@@ -43,3 +43,5 @@ requires signatures from Service SSI
 
 #### Lock/unlock hosted SSI
 
+Later: create service ID 
+

@@ -28,6 +28,14 @@ Collection of URL's
 
 [Chart.js](https://www.chartjs.org/)
 
+
+## Sample code: learn, clone or rebiuld
+
+Cart with Credentials Mgmt API
+- https://polykart-credential-payment.appspot.com/account
+- https://github.com/agektmr/shop/tree/credential-payment
+
+
 ## Video 
 [d.tube](https://d.tube/)
 
