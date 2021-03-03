@@ -6,6 +6,11 @@ Collection of URL's
 ## Components
 
 ### JS
+@see github 
+
+- voca
+- has-values
+- @sindresorhus/is
 
 #### QR Code
 - Reader [jsQR]( )https://github.com/cozmo/jsQR)
