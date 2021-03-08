@@ -26,7 +26,7 @@ Thoregon Collaboration
     
 #### Get
 
-    PUT https://apps.thoregon.io/collaboration/channel/:id  (replace :id with the channel id)
+    GET https://apps.thoregon.io/collaboration/channel/:id  (replace :id with the channel id)
         Header: '' : 'thoregon <jwt>'
 
     Result (Body): {
