@@ -7,9 +7,8 @@ Thoregon Collaboration
 
 #### Create
 
-
     POST https://apps.thoregon.io/collaboration/channel
-        Header: '' : 'thoregon <jwt>'
+        Header: 'Authorization' : 'thoregon <jwt>'
         Body: {
             "name": "channel",
             "description": "desctiption",
@@ -27,7 +26,7 @@ Thoregon Collaboration
 #### Get
 
     GET https://apps.thoregon.io/collaboration/channel/:id  (replace :id with the channel id)
-        Header: '' : 'thoregon <jwt>'
+        Header: 'Authorization' : 'thoregon <jwt>'
 
     Result (Body): {
             "name": "channel",
@@ -43,7 +42,7 @@ Modify also activates the channel if it was inactive.
 To just activate a channel omit params
 
     PUT https://apps.thoregon.io/collaboration/channel/:id  (replace :id with the channel id)
-        Header: '' : 'thoregon <jwt>'
+        Header: 'Authorization' : 'thoregon <jwt>'
         Body: {
             "name": "channel name"
         }
@@ -60,7 +59,7 @@ To just activate a channel omit params
 
 
     DELETE https://apps.thoregon.io/collaboration/channel/:id  (replace :id with the channel id)
-        Header: '' : 'thoregon <jwt>'
+        Header: 'Authorization' : 'thoregon <jwt>'
 
     Result (Body): {
             "name": "channel name",
