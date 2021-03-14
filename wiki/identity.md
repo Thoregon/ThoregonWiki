@@ -3,5 +3,5 @@ Self Sovereign Identities
 
 
 Define Protocols for attests
-- data (class)
-- behavior
+- data (class) -> verifiyable claims
+- behavior (like contract on blockchain)
