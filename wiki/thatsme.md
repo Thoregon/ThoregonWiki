@@ -1,6 +1,9 @@
 Thatsme
 =======
 
+Evolve from a platform to a network of identities!
+
+
 Messages and attests with Behavior
 - User decides what will be executed
 - Answer questions and make decissions

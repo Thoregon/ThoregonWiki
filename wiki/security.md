@@ -1,14 +1,7 @@
 Security
 ========
 
-## Client
-
-Browser Javascript is hostile to cryptography. The problem with running crypto code in Javascript is that
-practically any function that the crypto depends on could be overridden silently by any piece of content 
-used to build the hosting page!
-
-A reference to the original 'crypto' will be established right at the beginning. 
-Workers are not affected by exchanging the 'crypto' library. 
+General Security requirements
 
 ### Browser Key & Crypto handling
 ! https://blog.engelke.com/2014/09/19/saving-cryptographic-keys-in-the-browser/
