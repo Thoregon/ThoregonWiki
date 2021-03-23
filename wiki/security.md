@@ -12,12 +12,17 @@ https://www.ibiblio.org/hhalpin/homepage/presentations/webcrypto/Overview5.html
 https://beaglesecurity.com/blog/article/how-to-store-and-secure-sensitive-data-in-web-applications.html
 https://pragmaticwebsecurity.com/files/cheatsheets/browsersecrets.pdf
 
+https://github.com/ipfs-shipyard/js-human-crypto-keys
+
+Add interface to https://docs.metamask.io/guide/
+
 ### CryptoConditions
 
 https://github.com/bigchaindb/js-crypto-conditions
 
 ### Crendentials
 
+! check: may not work proper at 'localhost'
 https://pierreprinetti.github.io/credential-api-password/
 
 ### Issues
@@ -35,4 +40,4 @@ FIDO, U2F
 
 ## Blockchain
 
-https://consensys.github.io/smart-contract-best-practices/known_attacks/
+Ethereum    https://consensys.github.io/smart-contract-best-practices/known_attacks/

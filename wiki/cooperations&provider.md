@@ -1,9 +1,8 @@
 # Cooperations
 
+- https://www.derstandard.at/story/2000121472205/investor-oesterreich-ist-so-weit-hinterher-dass-es-fast-ein
 
-
-
-
+- https://github.com/w3c/WebAppSec
 
 # Service Provider
 

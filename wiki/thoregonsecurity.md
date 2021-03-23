@@ -97,6 +97,13 @@ we need to recover security to be able to run several apps within the same origi
         - indexDB
         - ...
 
+- Specialized Sandboxes 
+    - https://github.com/ysmood/nisp
+
+- documents
+    - https://www.html5rocks.com/en/tutorials/security/sandboxed-iframes/
+    - https://blog.logrocket.com/a-complete-guide-to-threads-in-node-js-4fa3898fe74f/
+    
 ## Library of Babel
 
 - https://libraryofbabel.info/theory.html
