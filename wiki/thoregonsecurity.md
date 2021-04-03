@@ -103,6 +103,22 @@ we need to recover security to be able to run several apps within the same origi
 - documents
     - https://www.html5rocks.com/en/tutorials/security/sandboxed-iframes/
     - https://blog.logrocket.com/a-complete-guide-to-threads-in-node-js-4fa3898fe74f/
+
+## Repositories
+
+### Universe
+
+The Thoregon system must identitfy itself to the loaded apps.
+- Tool to check signature of PULS in IPFS 
+    - Browser extension
+    - Thoregon website 
+
+- the thoregon package includes a zero knowledge proof  
+- the app package includes a challenge to check the zero knowledge proof 
+
+### Apps
+
+Apps needs to be signed by the distributor
     
 ## Library of Babel
 

@@ -18,6 +18,10 @@ Contains:
 - puls
     - service worker
     
+Two flavors:
+- with dev loader
+- w/o dev loader -> public available in IPFS
+    
 ## Environments
 
 create basic thoregon system packages for fast system load and startup.

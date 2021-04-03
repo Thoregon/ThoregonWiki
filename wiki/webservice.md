@@ -98,9 +98,9 @@ directory ws/<wsrootname>
     
     put.<endpointname>.mjs
 
-## OpenAPI
+## OpenAPI & AsyncAPI
 
-To provide a [OpenAPI](https://www.openapis.org/) 
+To provide a [OpenAPI](https://www.openapis.org/) and a [AsyncAPI](https://www.asyncapi.com/) 
 add specific information for params and entities by using evolux.schema 
 
 ## GraphQL

@@ -47,6 +47,14 @@ Zero Knowledge Proofs
 
 # Hints
 
+Browser JS
+- Capture 'click' anywhere: https://stackoverflow.com/questions/8054429/how-do-i-handle-a-click-anywhere-in-the-page-even-when-a-certain-element-stops
+- Streams in Browser
+    - https://developer.mozilla.org/en-US/docs/Web/API/Streams_API
+    - https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Using_readable_streams
+    - https://web.dev/streams/
+    - https://github.com/AnthumChris/fetch-progress-indicators/blob/master/fetch-basic/supported-browser.js
+
 PWA
 - https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Add_to_home_screen
 

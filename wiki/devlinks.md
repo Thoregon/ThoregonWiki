@@ -42,8 +42,16 @@ Cart with Credentials Mgmt API
 
 
 ## Video 
-[d.tube](https://d.tube/)
+- [d.tube](https://d.tube/)
+- [peertube](https://joinpeertube.org/de/)
+- [veezee.tube](https://veezee.tube/)
 
-[peertube](https://joinpeertube.org/de/)
+## Distibuted Storage
 
-[veezee.tube](https://veezee.tube/)
+- [IPFS](https://ipfs.io/)
+    - [JS IPFS](https://js.ipfs.io/)
+- [WebTorrent](https://github.com/webtorrent/webtorrent)
+- [BitTorrent](https://www.bittorrent.com/)
+    - [BitTorrent FileSystem](https://www.bittorrent.com/token/bittorrent-file-system/)
+    - [BTFS Github](https://github.com/TRON-US/go-btfs)
+- [Skynet](https://siasky.net/)
