@@ -12,6 +12,8 @@ https://www.ibiblio.org/hhalpin/homepage/presentations/webcrypto/Overview5.html
 https://beaglesecurity.com/blog/article/how-to-store-and-secure-sensitive-data-in-web-applications.html
 https://pragmaticwebsecurity.com/files/cheatsheets/browsersecrets.pdf
 
+https://code.google.com/archive/p/crypto-js/
+
 https://github.com/ipfs-shipyard/js-human-crypto-keys
 
 Add interface to https://docs.metamask.io/guide/

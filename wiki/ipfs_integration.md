@@ -23,3 +23,18 @@ Streaming
     
 - https://github.com/ipfs-search/ipfs-search 
 - https://www.jsdelivr.com/package/npm/js-ipfs-fetch
+
+## Testing 
+
+Playground/www/ipfs.html
+
+Enter on console
+
+    > for await (const chunk of blipfs.ipfs.cat('QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG/quick-start')) { console.log(new TextDecoder().decode(chunk)) }
+    > for await (const chunk of blipfs.ipfs.cat('QmQPeNsJPyVWPFDVHb77w8G42Fvo15z4bG2X8D2GhfbSXc/readme')) { console.log(new TextDecoder().decode(chunk)) }
+    
+    > for await (const chunk of blipfs.ipfs.cat('QmRguchncQtxtyCRy3UjnkmhSboTBnaGizT1Xib523NeTM/blwelcome.txt')) { console.log(new TextDecoder().decode(chunk)) }
+    > for await (const chunk of blipfs.ipfs.cat('QmXBiwfoavQWyz7Jg5KR1ruFM94tUjoytGJj3Xmq51vCMw')) { console.log(new TextDecoder().decode(chunk)) }
+
+    > ipfs cat Qme5bsBSdt8FDbv7AJan5GDTwTWAzhdmn8vLcDfhrNgerc
+

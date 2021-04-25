@@ -2,6 +2,16 @@
 
 - https://www.heise.de/ratgeber/The-Art-of-State-Zustandsmanagement-in-React-Anwendung-Teil-2-4990188.html
 
+# Glossaries
+
+Astronomical
+- https://www.univie.ac.at/EPH/SoFi/glos1.htm
+- https://de.wiktionary.org/wiki/Verzeichnis:Deutsch/Astronomie
+- https://en.wikipedia.org/wiki/Glossary_of_astronomy
+
+Perrypedia (Perry Rhodan)
+- https://www.perrypedia.de/
+
 # Howtos & Guides
 
 - Prompt Users of New App Versions With Service Workers https://betterprogramming.pub/prompting-new-app-versions-with-the-service-worker-and-create-react-app-bf3350d3bed1
@@ -46,6 +56,11 @@ Zero Knowledge Proofs
 - https://eprint.iacr.org/2018/046.pdf
 
 # Hints
+
+Javascript
+- async iterators
+    - https://javascript.info/async-iterators-generators
+    - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for-await...of
 
 Browser JS
 - Capture 'click' anywhere: https://stackoverflow.com/questions/8054429/how-do-i-handle-a-click-anywhere-in-the-page-even-when-a-certain-element-stops

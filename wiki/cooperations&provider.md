@@ -6,7 +6,11 @@
 
 # Service Provider
 
-- Cloud: https://www.heroku.com/pricing
+- Cloud/Container 
+    -> https://geekflare.com/de/docker-hosting-platforms/
+    -> https://t3n.de/news/docker-hosting-613802/
+    - https://www.heroku.com/pricing
+    - https://paketo.io/
 
 - SMS https://sakari.io/pricing/
 - SMS etc. https://www.twilio.com/docs

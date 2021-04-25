@@ -1,6 +1,8 @@
 Security in Thoregon
 ====================
 
+beware of 🐉..
+
 ## Client
 
 Browser Javascript is hostile to cryptography. The problem with running crypto code in Javascript is that
