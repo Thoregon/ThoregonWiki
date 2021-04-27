@@ -22,14 +22,19 @@ Distributed ID
 - https://medium.com/dev-channel/sign-in-on-the-web-credential-management-api-and-best-practices-d21aed14b6fe
 
 IPFS
+- [Hottest IPFS Answers - stackoverflow](https://stackoverflow.com/tags/ipfs/hot?filter=year)
 - https://docs.ipfs.io/
     - https://js.ipfs.io/   https://github.com/ipfs/js-ipfs
     - https://proto.school/tutorials 
     - https://github.com/ipfs/js-ipfs/blob/master/docs/core-api/FILES.md#ipfsadddata-options
-    - https://www.jsdelivr.com/package/npm/js-ipfs-fetch
     - Using JS IPFS in the Browser https://github.com/ipfs/js-ipfs/blob/master/docs/BROWSERS.md
     - https://awesome.ipfs.io/
 - https://blog.ipfs.io/2020-05-13-ipfs-pinning-summit-recap/
+- https://multiformats.io/
+
+- detect mime types:
+    - https://golang.org/src/net/http/sniff.go
+    - https://mimesniff.spec.whatwg.org/
     
 - https://dweb-primer.ipfs.io/publishing-changes/generate-keypair
 - https://docs.ipfs.io/concepts/ipns/#example-ipns-setup-with-cli
@@ -69,6 +74,8 @@ Browser JS
     - https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Using_readable_streams
     - https://web.dev/streams/
     - https://github.com/AnthumChris/fetch-progress-indicators/blob/master/fetch-basic/supported-browser.js
+    - https://developers.google.com/web/updates/2016/06/sw-readablestreams
+    - https://jakearchibald.com/2016/streams-ftw/#creating-your-own-readable-stream
 
 PWA
 - https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Add_to_home_screen
@@ -76,6 +83,7 @@ PWA
 ServiceWorker
 - https://stackoverflow.com/questions/42127148/service-worker-communicate-to-clients
 - https://webdesign.tutsplus.com/tutorials/how-to-display-update-notifications-in-the-browser-tab--cms-23458
+- https://gist.github.com/Rich-Harris/fd6c3c73e6e707e312d7c5d7d0f3b2f9
 
 JS VM
 - https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API/Microtask_guide/In_depth
@@ -94,3 +102,13 @@ Credentials
 
 - Design doc of ES Modules for Shared Workers   https://docs.google.com/document/d/1sSdYdSOLd5zvnNGeVNlBqfTZs_VRPIrrigV3SlMnWjg/edit#heading=h.tv6it51h1itl
 
+# Content Delivery
+
+- https://unpkg.com/
+- https://www.jsdelivr.com/
+
+# Linux
+
+## Linux Tools
+
+- [nnn -  terminal file manager](https://github.com/jarun/nnn)
