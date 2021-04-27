@@ -32,6 +32,8 @@ Browser
 
 - http://localhost:7777/ipfs/QmQPeNsJPyVWPFDVHb77w8G42Fvo15z4bG2X8D2GhfbSXc/about
 
+- http://localhost:7777/matter/martin
+
 Enter on console
 
     > for await (const chunk of blipfs.ipfs.cat('QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG/quick-start')) { console.log(new TextDecoder().decode(chunk)) }
