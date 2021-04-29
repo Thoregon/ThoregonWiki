@@ -3,16 +3,26 @@ Self Sovereign Identities
 
 ## Types of SSI's
 
-- ghost: is to maintain the protocol, not a real identity
-- guest: created by other SSI's, service or individual
-    - annonymous    e.g. like
-    - personalized  e.g. reply to a comment
-- hosted: maintained ba a service, needs a service SSI
-- service: full SSI, owned by an individual
-- individual: mostly a real person
+### Individual
+This is the typical SSI for a Person and will be issued on the registration website from Thatsme.plus
+It will hold attributes of the owner as well as all the claims.
 
+### Individual - hosted
+This is a hosted identity and will be issued by a service.agent if the user does not have an SSI. 
+This ID is not sovereign as it belongs to the service.agent ( service provider ). 
+the SSIs will be stored e.g. in the database of wordpress.
 
-   
+### Individual - limited
+created by a service.agent and will exist within the Browser only  ( as Key pair ).
+    - anonymous
+    - personalized e.g. for example if the user wants to reply to a comment.
+    - TODO: prevent that guest IDs can takeover the control of another guest as they share the same key pair. ( Hint: generate a key-pair in the browser for signature ) 
+
+### Pseudo SSI
+A Pseudo SSI will always exist in the system internal and is there to simplify the protocol. It is only used if no other ID is signed on.
+
+### Organization
+owned by individuals. It will allow describing and organization. Act on behalf of the owners.
 
 https://finema.co/2020-guidance-for-decentralized-identity-and-verifiable-claims/
 
