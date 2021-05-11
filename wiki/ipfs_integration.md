@@ -29,10 +29,18 @@ Streaming
 Playground/www/ipfs.html
 
 Browser
+- http://localhost:7777/thoregon.html
 
 - http://localhost:7777/ipfs/QmQPeNsJPyVWPFDVHb77w8G42Fvo15z4bG2X8D2GhfbSXc/about
+- http://localhost:7777/ipfs/QmRguchncQtxtyCRy3UjnkmhSboTBnaGizT1Xib523NeTM/blwelcome.txt
+- http://localhost:7777/ipfs/Qmbs9MSm9iW5HpE9LM5Fvw2xRfZDevw4UK27wKsFuJ9Wtp/Gabi_IMG_2410.mp4
 
-- http://localhost:7777/matter/martin
+- http://localhost:7777/matter/root1
+- http://localhost:7777/matter/root1/b
+
+added QmepXSPVhFhFb5YkvaDufZMpFkGsxJrsZNeBvbrbEWyhmF video/Gabi_IMG_2410.mp4
+added Qmbs9MSm9iW5HpE9LM5Fvw2xRfZDevw4UK27wKsFuJ9Wtp video
+
 
 Enter on console
 

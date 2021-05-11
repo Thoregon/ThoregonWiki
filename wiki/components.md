@@ -20,6 +20,9 @@ The Thore͛gon system is based on components
 - http://microjs.com/
 - https://github.com/cjb/serverless-webrtc
 
+- http://ldapjs.org/
+- http://restify.com/docs/home/     (replacement for express)
+
 (Service) Worker
 
 - https://github.com/fxos-components/serviceworkerware

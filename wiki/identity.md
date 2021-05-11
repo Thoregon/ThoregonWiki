@@ -38,8 +38,15 @@ duplicate self (friend harvey)
 - Orbiter
 - Seconder
 
+## Claims
+
+- contract between exctly two particpants
+- verifiable attributes from both sides
+- one issuer
+- extended claim 
+    - allowed usage (DSGVO)
   
-DID Auth
+## DID Auth
 - [What is DID-Auth and how does it work?](https://medium.com/@sethisaab/what-is-did-auth-and-how-does-it-works-1e4884383a53)
 
 
