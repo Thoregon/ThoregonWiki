@@ -1,7 +1,7 @@
 Loaders
 =======
 
-Origin
+## Origin
  
 - store resource in matter (ipfs) and 'symlink' from original URL
     - https://thatsme.plus/wp-content/uploads/2020/12/logo.png
@@ -14,3 +14,10 @@ Origin
     - Move hardcoded links to settings (file or resource)
     - implement better check (method, ...) if it can be redirected
     - be extremly restictive! This is a tracking source!
+
+## Repo resource mappings
+
+- tapped repos
+- map import urls to target (versions)
+- muliple versions?
+

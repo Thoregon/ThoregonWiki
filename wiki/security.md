@@ -3,6 +3,12 @@ Security
 
 General Security requirements
 
+## General
+
+- [Sicher kommunizieren](https://www.heise.de/hintergrund/Sicher-kommunizieren-Wie-moderne-Kommunikationsverschluesselung-funktioniert-5023121.html)
+
+## Crypto
+
 ### Browser Key & Crypto handling
 ! https://blog.engelke.com/2014/09/19/saving-cryptographic-keys-in-the-browser/
 ! https://pomcor.com/2017/06/02/keys-in-browser/

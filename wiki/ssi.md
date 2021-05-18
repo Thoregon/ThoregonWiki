@@ -26,4 +26,36 @@ owned by individuals. It will allow describing and organization. Act on behalf o
 
 https://finema.co/2020-guidance-for-decentralized-identity-and-verifiable-claims/
 
+## User Settings
+
+- i18n
+    - dateformat, numberformat
+    - language
+-a11y
+    - reading aids
+- ui settings
+    - theme ...
+
+## User Stories
+
+- New SSI
+
+- Connect Device
+
+## Recovery
+
+all options can be used together 
+
+1 PBKDF2 encrypt ServiceAgent and SSI address 
+    a generate QR code (later: generate 5 QR codes, need min 3 to recover)
+    b vault file to store on an USB stick or other portable storage
+    
+2 Thatsme recovery service with URL 
+
+3 SSI Wallet
+    a Native App
+    b Browser Extension (see MetaMask)
+
+4 2FA Hardware Tokens
+
 
