@@ -4,6 +4,10 @@
 
 - https://github.com/w3c/WebAppSec
 
+# Backup
+
+- https://www.veeam.com/de
+
 # Service Provider
 
 - Cloud/Container 
@@ -12,9 +16,10 @@
     - https://www.heroku.com/pricing
     - https://paketo.io/
 
-- SMS https://sakari.io/pricing/
-- SMS etc. https://www.twilio.com/docs
-
+- SMS
+    - https://sakari.io/pricing/
+    - https://www.twilio.com/de/sms/pricing/at
+    - https://www.esendex.de/preisliste/
 
 # Features to rebuild
 

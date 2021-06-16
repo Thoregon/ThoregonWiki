@@ -13,3 +13,9 @@ https://www.heise.de/news/Corona-Tracking-Luca-Ueberwachung-laesst-sich-mit-Fake
 https://www.heise.de/news/Sicherheitsforscher-Risiken-der-Luca-App-voellig-unverhaeltnismaessig-6031770.html
 https://www.heise.de/tp/features/Dieses-IT-Desaster-hinterlaesst-die-Grosse-Koalition-6037761.html?seite=all
 https://www.derstandard.at/story/2000126522723/schwere-sicherheitsluecke-ermoeglicht-abhoeren-von-telefongespraechen-bei-einem-drittel-aller
+https://www.heise.de/news/Ueberwachungsgesetze-EU-Gerichtshof-verurteilt-Schweden-und-Grossbritannien-6054035.html
+https://www.heise.de/news/Ueberwachungsspirale-Staendige-Politik-gegen-die-Grundrechte-in-der-Kritik-6054279.html
+https://www.heise.de/news/EU-Parlament-Weg-frei-fuer-flaechendeckende-Scans-nach-Kinderpornografie-6055601.html
+https://www.heise.de/news/Analyse-und-Recherchesystem-der-Polizei-Wird-VeRA-zum-Datenschutz-Albtraum-6056252.html
+https://www.heise.de/news/Bundestag-gibt-Staatstrojaner-fuer-Geheimdienste-und-Bundespolizei-frei-6067818.html
+https://www.heise.de/tp/features/Der-glaeserne-Grieche-6067384.html

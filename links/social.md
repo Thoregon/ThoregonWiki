@@ -10,6 +10,12 @@
 - https://www.heise.de/news/Frankreich-Hoechstes-Gericht-kippt-Vorratsdatenspeicherung-6023940.html
 - https://www.heise.de/news/Nationaler-Pakt-Cybersicherheit-Verschluesselung-muss-einfach-verfuegbar-sein-6027210.html
 - https://www.heise.de/tp/features/Schufa-ausser-Kontrolle-6037749.html
+- https://www.heise.de/news/Forscher-Karlsruhe-mahnt-mit-Klimaurteil-auch-Schutz-der-Netzfreiheit-an-6052587.html
+- https://www.heise.de/hintergrund/Kommentar-Was-Buddhismus-fuer-die-Ethik-der-Kuenstlichen-Intelligenz-tun-kann-6054358.html
+- https://www.derstandard.at/story/2000127041316/massnahmenvollzug-in-oesterreich-weggesperrt-und-rechtlos
+- https://www.heise.de/news/USA-Hacking-Strafrecht-eingeschraenkt-Millionen-User-gerettet-6061973.html
+- https://www.heise.de/tp/features/Verfassungsschutzbericht-2020-Der-Staat-und-seine-Delegitimierer-6071522.html
+- https://www.heise.de/hintergrund/Auflagen-fuer-Online-Plattformen-Das-neue-Jugendschutzgesetz-in-der-Kritik-6058700.html
 
 Energy
 - https://www.heise.de/meinung/Kommentar-Was-wirkliche-Technologieoffenheit-fuer-die-Gasbranche-bedeuten-wuerde-6037332.html

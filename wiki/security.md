@@ -7,6 +7,12 @@ General Security requirements
 
 - [Sicher kommunizieren](https://www.heise.de/hintergrund/Sicher-kommunizieren-Wie-moderne-Kommunikationsverschluesselung-funktioniert-5023121.html)
 
+
+## Tracking
+https://www.heise.de/news/Browser-Fingerprinting-Installierte-Apps-als-Tracking-Komplizen-6071347.html
+--> see https://schemeflood.com/
+--> https://github.com/fingerprintjs/external-protocol-flooding
+
 ## Crypto
 
 ### Browser Key & Crypto handling

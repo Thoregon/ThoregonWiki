@@ -3,6 +3,7 @@ Thatsme
 
 Evolve from a platform to a network of identities!
 
+The thatsme.app can handle a bunch of SSI's from multiple providers
 
 Messages and attests with Behavior
 - User decides what will be executed
