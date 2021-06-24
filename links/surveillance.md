@@ -19,3 +19,4 @@ https://www.heise.de/news/EU-Parlament-Weg-frei-fuer-flaechendeckende-Scans-nach
 https://www.heise.de/news/Analyse-und-Recherchesystem-der-Polizei-Wird-VeRA-zum-Datenschutz-Albtraum-6056252.html
 https://www.heise.de/news/Bundestag-gibt-Staatstrojaner-fuer-Geheimdienste-und-Bundespolizei-frei-6067818.html
 https://www.heise.de/tp/features/Der-glaeserne-Grieche-6067384.html
+https://www.derstandard.at/story/2000127575701/sicherheitsforscher-finden-absichtlich-platzierte-hintertuer-in-altem-mobilfunkstandard

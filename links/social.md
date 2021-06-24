@@ -16,6 +16,7 @@
 - https://www.heise.de/news/USA-Hacking-Strafrecht-eingeschraenkt-Millionen-User-gerettet-6061973.html
 - https://www.heise.de/tp/features/Verfassungsschutzbericht-2020-Der-Staat-und-seine-Delegitimierer-6071522.html
 - https://www.heise.de/hintergrund/Auflagen-fuer-Online-Plattformen-Das-neue-Jugendschutzgesetz-in-der-Kritik-6058700.html
+- https://www.heise.de/news/EU-Datenschuetzer-fordern-klares-Verbot-biometrischer-Gesichtserkennung-6113288.html
 
 Energy
 - https://www.heise.de/meinung/Kommentar-Was-wirkliche-Technologieoffenheit-fuer-die-Gasbranche-bedeuten-wuerde-6037332.html
