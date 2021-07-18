@@ -1,7 +1,7 @@
 Blockchain Integration
 ======================
 
-## Blockchain w/o Blockchain
+## CRDT - Blockchain w/o Blockchain
 
 - CRDT instead of bockchain
 - Firewalls for distributed DB must ensure fulfill/reject of transaction
@@ -14,6 +14,17 @@ Blockchain Integration
 
 ## Ethereum
 - https://developers.cloudflare.com/distributed-web/ethereum-gateway
+Identities
+- ERC725: https://erc725alliance.org/
+
+Tokens
+- ERC20: https://ethereum.org/en/developers/docs/standards/tokens/erc-20/
+- ERC23: https://github.com/iam-dev/ERC23
+- https://sharpcode.pro/difference-between-erc20-erc721-erc23-and-erc223-tokens/
+
+NFT
+s- ERC721: https://ethereum.org/en/developers/docs/standards/tokens/erc-721/
+- EIP1155: https://eips.ethereum.org/EIPS/eip-1155
 
 ## Cardano
 - https://cardano.org/

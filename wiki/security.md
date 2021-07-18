@@ -30,6 +30,11 @@ https://github.com/ipfs-shipyard/js-human-crypto-keys
 
 Add interface to https://docs.metamask.io/guide/
 
+### Post Quantum Cryptography
+
+https://www.heise.de/hintergrund/Quantencomputing-Was-Post-Quanten-Verschluesselung-leisten-muss-6130476.html?seite=all
+https://www.heise.de/hintergrund/Verschluesselungssysteme-Kryptoagil-gegen-hackende-Quantencomputer-6135175.html?seite=all
+
 ### CryptoConditions
 
 https://github.com/bigchaindb/js-crypto-conditions

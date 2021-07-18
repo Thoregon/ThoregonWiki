@@ -20,3 +20,11 @@ https://www.heise.de/news/Analyse-und-Recherchesystem-der-Polizei-Wird-VeRA-zum-
 https://www.heise.de/news/Bundestag-gibt-Staatstrojaner-fuer-Geheimdienste-und-Bundespolizei-frei-6067818.html
 https://www.heise.de/tp/features/Der-glaeserne-Grieche-6067384.html
 https://www.derstandard.at/story/2000127575701/sicherheitsforscher-finden-absichtlich-platzierte-hintertuer-in-altem-mobilfunkstandard
+https://www.heise.de/news/Konzerte-Co-Bayerische-Polizei-soll-Helfer-und-Besucher-durchleuchten-duerfen-6120537.html
+https://www.heise.de/news/Digitale-Gewalt-Wie-die-NSO-Group-Staatsterror-ermoeglicht-6128257.html
+https://www.heise.de/news/RED-Umsetzung-Open-Source-Szene-droht-Ausschluss-aus-der-Funktechnik-6129525.html
+https://www.heise.de/news/Studie-Immer-mehr-biometrische-Massenueberwachung-in-Deutschland-6131367.html
+https://www.derstandard.at/story/2000128029843/google-facebook-co-steuersuendern-auf-der-digitalen-spur
+https://www.heise.de/news/EU-Kommission-lotet-Optionen-fuer-neue-Vorratsdatenspeicherung-aus-6135749.html
+https://www.heise.de/news/Tails-4-20-Neuer-Tor-Assistent-fuer-ueberwachte-Nutzer-6139286.html
+https://www.heise.de/news/Analyse-Schnueffelwerkzeuge-fuer-Geheimdienste-6135918.html

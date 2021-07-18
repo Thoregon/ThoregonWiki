@@ -146,3 +146,31 @@ e.g. kredit nicht bewilligt weil einkommen zu niedrig, wenn einkommen > X wird k
 - multiple networks (also mesh)
     - MESH WLAN
     - [Thread](https://www.heise.de/hintergrund/Smart-Home-Das-Funkprotokoll-Thread-im-ersten-Praxistest-6049222.html)
+
+
+## Exchange of secret information
+e.g. between SSI and Service Agent (SA)
+
+- there is no direct communication 
+- request queue (soul)
+    - DH secret between both paricipants
+- write to Q, encrypted and signed
+- read from Q, verify and decrypt
+- remove Q entry
+
+## Information Roots
+
+### Universe
+
+the root for all information
+
+### Dorifer
+
+root for all repositories
+
+shortcut for universe.dorifer
+
+### Me
+
+shortcut for universe.identity
+

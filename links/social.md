@@ -17,6 +17,15 @@
 - https://www.heise.de/tp/features/Verfassungsschutzbericht-2020-Der-Staat-und-seine-Delegitimierer-6071522.html
 - https://www.heise.de/hintergrund/Auflagen-fuer-Online-Plattformen-Das-neue-Jugendschutzgesetz-in-der-Kritik-6058700.html
 - https://www.heise.de/news/EU-Datenschuetzer-fordern-klares-Verbot-biometrischer-Gesichtserkennung-6113288.html
+- https://www.heise.de/hintergrund/Wie-FBI-Spionagevorwuerfe-ein-Forscherleben-ruinierten-der-Fall-Anming-Hu-6123591.html
+- https://www.heise.de/tp/features/Chinas-Rolle-in-einer-neuen-globalen-Ordnung-6131404.html?seite=all
+- https://www.heise.de/tp/features/Redispatch-2-0-6131472.html
+- https://www.heise.de/news/IT-Ethik-Wenn-mir-die-App-keine-Schokolade-goennt-6131648.html
+- https://www.heise.de/tp/features/Krisenzustand-mit-Verpflichtung-zu-persoenlichen-Diensten-6132238.html
+- https://www.heise.de/hintergrund/Warum-die-Generation-Z-auf-Fake-News-im-Netz-hereinfaellt-6133760.html
+- https://www.heise.de/news/Medienstaatsvertrag-EU-Kommission-legt-sich-bei-Plattform-Regeln-quer-6135745.html
+- https://www.heise.de/news/Digitale-Pruefaufsicht-Grundrechte-der-Studierenden-geraten-unter-die-Raeder-6139005.html
+- https://www.heise.de/tp/features/Nicht-gewusst-womit-E-Autos-fahren-Die-Stromluege-des-Peter-Altmaier-6139171.html
 
 Energy
 - https://www.heise.de/meinung/Kommentar-Was-wirkliche-Technologieoffenheit-fuer-die-Gasbranche-bedeuten-wuerde-6037332.html

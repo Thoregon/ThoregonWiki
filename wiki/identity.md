@@ -1,6 +1,11 @@
 Self Sovereign Identities
 =========================
 
+Every SSI founds its personal cloud. It acts now in a network, not on a platform anymore.
+
+To access content in the universe, the SSI needs a claim for each content or content collection.
+Content is not just a data structure anymore, it comes with behavior. 
+
 Kinds of identity
 - siloed (centralized, account for each provider)
 - federated (third-party like facebook, google, ...)
@@ -20,7 +25,7 @@ Elements of a DID
 
 resolving DID to DID Document
     did:ipid:Qme5bsBSdt8FDbv7AJan5GDTwTWAzhdmn8vLcDfhrNgerc
-    did:thor:neuland:GXud1pe6IudFFUodE737wrW4JhNl5mZ8
+    did:thoregon:neuland:GXud1pe6IudFFUodE737wrW4JhNl5mZ8
      ^    ^       ^        ^
      |    |       |        |
   scheme method network identifier
@@ -32,20 +37,60 @@ see also
 - DID Universal Resolver Driver Configuration
 - https://github.com/jolocom/jolo-did-method
 
-duplicate self (friend harvey)
+Service Agent - duplicate self (friend harvey)
 ! Fellow
 - Companion
 - Orbiter
 - Seconder
 
+## Basic structure of an identity (SSI)
+
+- claims  (certificates/attests/claims received)
+- grants  (certificates/attests/claims issued to others)
+- galaxies
+- devices
+- repos
+
+
 ## Claims
 
-- contract between exctly two particpants
+- contract between exactly two particpants
 - verifiable attributes from both sides
 - one issuer
 - extended claim 
     - allowed usage (DSGVO)
-  
+
+When a SSI is created, or a thoregon identity with an external SSI,
+it will get claims (invitations) for all 'global' collections e.g. the dorifer repository.
+
+## Verifications
+
+Access verifications: Verifies only access to a certain comminucation possibility, not authenticity.
+
+- phone
+- email
+- address
+
+Qualified verifications: Verifies the identity 
+
+- person
+    - qualified electronic signature (e.g. handysignatur)
+    - identity service provider (e.g. banks, specialized services, authorities, government, ...)
+
+Contracts
+    
+- sign documents to accept and participate
+    - Thoregon Constitution
+        - civil law, inheritance law
+    - UNCITRAL (UN-Kaufrecht) https://de.wikipedia.org/wiki/UNCITRAL
+
+## Request Queue
+
+Every SSI, can also be a service, has a request queue to receive inquiries.
+This can be request for invitations, e.g. to a channel.
+The request must contain a queue (reference) where to send the answer.
+A request can contain an invitation, the recipient decides whether to accept it. 
+
 ## DID Auth
 - [What is DID-Auth and how does it work?](https://medium.com/@sethisaab/what-is-did-auth-and-how-does-it-works-1e4884383a53)
 

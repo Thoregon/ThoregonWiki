@@ -17,3 +17,21 @@ Messages and attests with Behavior
 
 https://www.heise.de/hintergrund/Messenger-IDs-Warum-Messenger-nach-Ihrer-Telefonnummer-fragen-5066901.html?seite=all
 -> Einserschmäh: da wir weiter messenger wie Telegram, Signal & Co. einbinden, wird die Thatsme Einladung über einen anderen sicheren Messenger Kannal gesendet.
+
+## Thatsme App
+
+In the Thatsme App arbitrary galaxies and even single objects in a galaxy can
+be placed on the screen.
+
+Galaxies and objects have behavior (application) attached.
+
+The user can organize everything in groups,
+a set of groups comes as proposal from thatsme.
+e.g. 'my shoppingcart'
+
+
+### native thatsme app
+
+is basically a browser, allowing more functions
+enables objects to be placed as widgets on the smartphone screen
+
