@@ -1,6 +1,8 @@
 Self Sovereign Identities
 =========================
 
+see also [identity](./identity.md)
+
 ## Types of SSI's
 
 ### Individual
@@ -18,13 +20,13 @@ created by a service.agent and will exist within the Browser only  ( as Key pair
     - personalized e.g. for example if the user wants to reply to a comment.
     - TODO: prevent that guest IDs can takeover the control of another guest as they share the same key pair. ( Hint: generate a key-pair in the browser for signature ) 
 
-### Pseudo SSI
+### Ghost SSI
 A Pseudo SSI will always exist in the system internal and is there to simplify the protocol. It is only used if no other ID is signed on.
 
 ### Organization
 owned by individuals. It will allow describing and organization. Act on behalf of the owners.
 
-https://finema.co/2020-guidance-for-decentralized-identity-and-verifiable-claims/
+[Guidance for decentralized identity and verifiable claims (2020)](https://finema.co/2020-guidance-for-decentralized-identity-and-verifiable-claims/)
 
 ## User Settings
 

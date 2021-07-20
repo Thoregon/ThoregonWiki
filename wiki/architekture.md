@@ -174,3 +174,10 @@ shortcut for universe.dorifer
 
 shortcut for universe.identity
 
+## Public direcories
+
+since the network DB has no root and cannot be searched, every
+public information must be published via trustable public directories.
+
+another possibility is to publish special datastructures in IPFS, which is
+hierarchical and can be searched.

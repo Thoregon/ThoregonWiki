@@ -25,10 +25,12 @@
 - https://www.heise.de/hintergrund/Warum-die-Generation-Z-auf-Fake-News-im-Netz-hereinfaellt-6133760.html
 - https://www.heise.de/news/Medienstaatsvertrag-EU-Kommission-legt-sich-bei-Plattform-Regeln-quer-6135745.html
 - https://www.heise.de/news/Digitale-Pruefaufsicht-Grundrechte-der-Studierenden-geraten-unter-die-Raeder-6139005.html
-- https://www.heise.de/tp/features/Nicht-gewusst-womit-E-Autos-fahren-Die-Stromluege-des-Peter-Altmaier-6139171.html
+- https://www.heise.de/news/BGH-hebt-Verurteilung-des-Mitgliedes-einer-Trojaner-Bande-teilweise-auf-6142431.html
 
 Energy
 - https://www.heise.de/meinung/Kommentar-Was-wirkliche-Technologieoffenheit-fuer-die-Gasbranche-bedeuten-wuerde-6037332.html
+- https://www.heise.de/tp/features/Warum-die-Bitcoin-Apokalypse-ausbleibt-6141273.html?seite=all
+- https://www.heise.de/tp/features/Nicht-gewusst-womit-E-Autos-fahren-Die-Stromluege-des-Peter-Altmaier-6139171.html
 
 Companies
 - https://www.heise.de/news/Discord-Zugriff-auf-nicht-jugendfreie-Inhalte-in-iPhone-App-generell-blockiert-6015178.html

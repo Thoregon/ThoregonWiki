@@ -28,3 +28,5 @@ https://www.derstandard.at/story/2000128029843/google-facebook-co-steuersuendern
 https://www.heise.de/news/EU-Kommission-lotet-Optionen-fuer-neue-Vorratsdatenspeicherung-aus-6135749.html
 https://www.heise.de/news/Tails-4-20-Neuer-Tor-Assistent-fuer-ueberwachte-Nutzer-6139286.html
 https://www.heise.de/news/Analyse-Schnueffelwerkzeuge-fuer-Geheimdienste-6135918.html
+https://www.heise.de/meinung/Kommentar-zu-Pegasus-Wie-der-Spyware-Sumpf-ausgetrocknet-werden-kann-6142156.html
+https://www.heise.de/tp/features/Pegasus-Spionagesoftware-gegen-Journalisten-und-Aktivisten-im-Einsatz-6142288.html?seite=all
