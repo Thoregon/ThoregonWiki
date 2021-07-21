@@ -3,12 +3,17 @@ Self Sovereign Identities
 
 Every SSI founds its personal cloud. It acts now in a network, not on a platform anymore.
 
+see also [SSI](./ssi.md)
+
 To access content in the universe, the SSI needs a claim for each content or content collection.
 Content is not just a data structure anymore, it comes with behavior. 
 
 Kinds of identity
-- siloed (centralized, account for each provider)
-- federated (third-party like facebook, google, ...)
+- hosted
+    - siloed (centralized, account for each provider)
+    - federated (third-party like facebook, google, ...)
+- guest identity
+- ghost identity
 - self-sovereign
 
 Define Protocols for attests

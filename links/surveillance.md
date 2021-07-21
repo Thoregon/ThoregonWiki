@@ -30,3 +30,4 @@ https://www.heise.de/news/Tails-4-20-Neuer-Tor-Assistent-fuer-ueberwachte-Nutzer
 https://www.heise.de/news/Analyse-Schnueffelwerkzeuge-fuer-Geheimdienste-6135918.html
 https://www.heise.de/meinung/Kommentar-zu-Pegasus-Wie-der-Spyware-Sumpf-ausgetrocknet-werden-kann-6142156.html
 https://www.heise.de/tp/features/Pegasus-Spionagesoftware-gegen-Journalisten-und-Aktivisten-im-Einsatz-6142288.html?seite=all
+!! https://www.heise.de/news/Geldwaesche-Bitcoin-Co-sollen-in-der-EU-vollends-nachverfolgt-werden-koennen-6143506.html

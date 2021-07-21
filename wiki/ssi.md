@@ -14,13 +14,13 @@ This is a hosted identity and will be issued by a service.agent if the user does
 This ID is not sovereign as it belongs to the service.agent ( service provider ). 
 the SSIs will be stored e.g. in the database of wordpress.
 
-### Individual - limited
+### Individual - guest
 created by a service.agent and will exist within the Browser only  ( as Key pair ).
     - anonymous
     - personalized e.g. for example if the user wants to reply to a comment.
     - TODO: prevent that guest IDs can takeover the control of another guest as they share the same key pair. ( Hint: generate a key-pair in the browser for signature ) 
 
-### Ghost SSI
+### Ghost Identity
 A Pseudo SSI will always exist in the system internal and is there to simplify the protocol. It is only used if no other ID is signed on.
 
 ### Organization
