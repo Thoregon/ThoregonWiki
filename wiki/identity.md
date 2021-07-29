@@ -48,6 +48,10 @@ Service Agent - duplicate self (friend harvey)
 - Orbiter
 - Seconder
 
+## Securtiy
+
+best would be to use an SE (Secure Element) and 2FA (two factor authentication)
+
 ## Basic structure of an identity (SSI)
 
 - claims  (certificates/attests/claims received)
@@ -98,7 +102,6 @@ A request can contain an invitation, the recipient decides whether to accept it.
 
 ## DID Auth
 - [What is DID-Auth and how does it work?](https://medium.com/@sethisaab/what-is-did-auth-and-how-does-it-works-1e4884383a53)
-
 
 Sources & Links
 - [A Guide To Self-Sovereign Identity: A Deep Dive by Ontology](https://medium.com/ontologynetwork/a-guide-to-self-sovereign-identity-a-deep-dive-by-ontology-3fe0f12c3be2)

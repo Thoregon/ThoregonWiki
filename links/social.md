@@ -26,6 +26,8 @@
 - https://www.heise.de/news/Medienstaatsvertrag-EU-Kommission-legt-sich-bei-Plattform-Regeln-quer-6135745.html
 - https://www.heise.de/news/Digitale-Pruefaufsicht-Grundrechte-der-Studierenden-geraten-unter-die-Raeder-6139005.html
 - https://www.heise.de/news/BGH-hebt-Verurteilung-des-Mitgliedes-einer-Trojaner-Bande-teilweise-auf-6142431.html
+- https://www.heise.de/meinung/Warum-die-Versuche-der-EU-Verschluesselung-auszuhebeln-gefaehrlich-sind-6147092.html
+- https://www.heise.de/tp/features/Alles-ist-eins-ausser-der-Null-3450791.html
 
 Energy
 - https://www.heise.de/meinung/Kommentar-Was-wirkliche-Technologieoffenheit-fuer-die-Gasbranche-bedeuten-wuerde-6037332.html
