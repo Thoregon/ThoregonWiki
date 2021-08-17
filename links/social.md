@@ -28,6 +28,13 @@
 - https://www.heise.de/news/BGH-hebt-Verurteilung-des-Mitgliedes-einer-Trojaner-Bande-teilweise-auf-6142431.html
 - https://www.heise.de/meinung/Warum-die-Versuche-der-EU-Verschluesselung-auszuhebeln-gefaehrlich-sind-6147092.html
 - https://www.heise.de/tp/features/Alles-ist-eins-ausser-der-Null-3450791.html
+- https://www.heise.de/news/Urheberrechtsreform-Gesetz-fuer-Upload-Filter-und-Sperrknopf-tritt-in-Kraft-6152273.html
+- https://www.heise.de/tp/features/CO2-Fussabdruck-Wie-ein-PR-Trick-von-den-Machern-des-Klimawandels-ablenkt-6152267.html
+- https://www.heise.de/tp/features/Schnell-baut-der-Staat-Drohkulissen-auf-6157347.html?seite=all
+- https://www.wienerzeitung.at/meinung/leitartikel/2116411-Freiheit-Aber-welche.html
+- https://www.heise.de/hintergrund/Rabbit-Hole-Effekt-Studie-sieht-keine-algorithmische-YouTube-Radikalisierung-6157648.html
+- https://www.heise.de/tp/features/Wie-Seehofers-Ministerium-in-die-politische-Bildung-eingreift-6164507.html
+- https://www.heise.de/hintergrund/Warum-KI-Werkzeuge-gegen-COVID-19-bislang-versagt-haben-6158061.html
 
 Energy
 - https://www.heise.de/meinung/Kommentar-Was-wirkliche-Technologieoffenheit-fuer-die-Gasbranche-bedeuten-wuerde-6037332.html
