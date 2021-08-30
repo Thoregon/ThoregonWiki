@@ -8,7 +8,7 @@ The root for all persistent objects is
     universe.galaxies
 
 
-Every developer has to register at least one namespace where
+Every developer/publisher has to register at least one namespace where
 the data of the app or component will be stored
 
     universe.galaxies.thatsme
@@ -32,18 +32,17 @@ every SSI
 
 to access a certain galaxy we need a claim containing the key. 
 
-### Matter
-
-### Heavy Matter
-
-distributed file storage 
-
 ## Index
 
 define properties to be used to create an index.
 the persistence layer will maintain all indexes.
 
 ## Usage
+
+### Stream API
+
+- pull API items 
+- event API for modifications
 
 ## Invitations
 
@@ -92,3 +91,15 @@ Modify the entity
     newwebsite.shortname = "xyz";
     newwebsite.domain = "xyz";
     
+
+## Graph DB
+
+introduce GQL engine and client
+
+caution: actually the used database is an Object DB not a real graph DB
+- need an entrypoint galaxy (DB), starcluster (collection)
+- classname mapping for shortcuts (class is a meta property)
+
+- https://en.wikipedia.org/wiki/Graph_Query_Language
+- https://www.gqlstandards.org/
+- http://opencypher.org/

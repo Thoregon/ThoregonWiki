@@ -5,6 +5,17 @@ Collection of URL's
 
 https://www.heise.de/hintergrund/Eine-nerdige-Ode-an-den-Kaffee-Entwickler-Mana-und-Code-Beschleuniger-6068740.html?seite=all
 
+## Org
+
+- https://cloudogu.com/de/glossar/gitops/
+
+
+## Testing
+
+- https://jsbin.com/rixayuzupa/edit?html,css,output
+- https://jsfiddle.net/
+- http://sqlfiddle.com/
+
 ## Components
 
 ### JS

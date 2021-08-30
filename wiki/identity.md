@@ -54,12 +54,18 @@ best would be to use an SE (Secure Element) and 2FA (two factor authentication)
 
 ## Basic structure of an identity (SSI)
 
-- claims  (certificates/attests/claims received)
-- grants  (certificates/attests/claims issued to others)
-- galaxies
-- devices
-- repos
-
+- me
+    - claims   : certificates/attests/claims/menberships received
+    - grants   : certificates/attests/claims issued to others
+    - galaxies : persistent objects
+        - apps     : can be device specific
+        - properties, personal data    
+    - contacts : all associated contacts, communities are memberships in claims 
+    - agents   : known service agents
+    - devices  : connected devices to the SSI, see evolux.equipment
+    - repos    : taped repositories the the SSI, each device can extend by tapping additional repos
+    - aliases  (TDB)
+    - device   : current device
 
 ## Claims
 

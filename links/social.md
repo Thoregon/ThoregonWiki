@@ -35,6 +35,8 @@
 - https://www.heise.de/hintergrund/Rabbit-Hole-Effekt-Studie-sieht-keine-algorithmische-YouTube-Radikalisierung-6157648.html
 - https://www.heise.de/tp/features/Wie-Seehofers-Ministerium-in-die-politische-Bildung-eingreift-6164507.html
 - https://www.heise.de/hintergrund/Warum-KI-Werkzeuge-gegen-COVID-19-bislang-versagt-haben-6158061.html
+- https://www.heise.de/news/Scannt-unsere-iPhones-nicht-Buergerrechtler-wollen-Druck-auf-Apple-aufbauen-6169034.html
+- https://www.heise.de/hintergrund/Wie-man-mit-Impfzweiflern-am-besten-redet-6166953.html
 
 Energy
 - https://www.heise.de/meinung/Kommentar-Was-wirkliche-Technologieoffenheit-fuer-die-Gasbranche-bedeuten-wuerde-6037332.html
