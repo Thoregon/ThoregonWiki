@@ -37,6 +37,8 @@
 - https://www.heise.de/hintergrund/Warum-KI-Werkzeuge-gegen-COVID-19-bislang-versagt-haben-6158061.html
 - https://www.heise.de/news/Scannt-unsere-iPhones-nicht-Buergerrechtler-wollen-Druck-auf-Apple-aufbauen-6169034.html
 - https://www.heise.de/hintergrund/Wie-man-mit-Impfzweiflern-am-besten-redet-6166953.html
+- https://www.derstandard.at/story/2000129282081/onlyfans-warum-online-sexarbeit-prekaer-bleibt
+- https://www.derstandard.at/story/2000129309269/maennerstaat-russen-essen-kein-sushi
 
 Energy
 - https://www.heise.de/meinung/Kommentar-Was-wirkliche-Technologieoffenheit-fuer-die-Gasbranche-bedeuten-wuerde-6037332.html

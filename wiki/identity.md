@@ -12,7 +12,9 @@ Kinds of identity
 - hosted
     - siloed (centralized, account for each provider)
     - federated (third-party like facebook, google, ...)
+    - get credentials from backend
 - guest identity
+    - user defines credentials on local device
 - ghost identity
 - self-sovereign
 
