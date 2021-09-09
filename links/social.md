@@ -1,6 +1,5 @@
 # Collection of Links of social and society relevant issues
 
-
 - https://www.heise.de/meinung/Edit-Policy-Die-CUII-Initiative-private-Netzsperren-ohne-Gerichtsbeschluss-5987578.html
 - https://www.heise.de/news/Studie-Netzwerk-Durchsetzungsgesetz-bringt-wenig-und-fuehrt-zu-Overblocking-5996973.html
 - https://www.heise.de/news/Scchlag-gegen-Emotet-Schadsoftware-Polizeiliche-Beweissicherung-unter-Beschuss-5994688.html
@@ -39,6 +38,8 @@
 - https://www.heise.de/hintergrund/Wie-man-mit-Impfzweiflern-am-besten-redet-6166953.html
 - https://www.derstandard.at/story/2000129282081/onlyfans-warum-online-sexarbeit-prekaer-bleibt
 - https://www.derstandard.at/story/2000129309269/maennerstaat-russen-essen-kein-sushi
+- https://www.heise.de/news/Grossbritannien-Staat-nutzt-Tracking-Techniken-fuer-Verhaltensbeeinflussung-6186009.html
+
 
 Energy
 - https://www.heise.de/meinung/Kommentar-Was-wirkliche-Technologieoffenheit-fuer-die-Gasbranche-bedeuten-wuerde-6037332.html
