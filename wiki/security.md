@@ -34,6 +34,12 @@ Add interface to https://docs.metamask.io/guide/
 
 https://www.heise.de/hintergrund/Quantencomputing-Was-Post-Quanten-Verschluesselung-leisten-muss-6130476.html?seite=all
 https://www.heise.de/hintergrund/Verschluesselungssysteme-Kryptoagil-gegen-hackende-Quantencomputer-6135175.html?seite=all
+https://www.heise.de/news/US-Geheimdienst-NSA-nimmt-Stellung-zu-Post-Quanten-Kryptographie-6191190.html
+
+- Use curve P-384 for ECDSA and ECDH and SHA-384 for hashes.
+- Always use key length equal or larger than 3072 bit
+
+This should be sufficient until post quantum cryptographic encryption methods are mature
 
 ### CryptoConditions
 
