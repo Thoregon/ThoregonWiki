@@ -37,7 +37,7 @@ https://www.heise.de/hintergrund/Verschluesselungssysteme-Kryptoagil-gegen-hacke
 https://www.heise.de/news/US-Geheimdienst-NSA-nimmt-Stellung-zu-Post-Quanten-Kryptographie-6191190.html
 
 - Use curve P-384 for ECDSA and ECDH and SHA-384 for hashes.
-- Always use key length equal or larger than 3072 bit
+- Always use key length equal or larger than 3072 bit (= 384 byte)
 
 This should be sufficient until post quantum cryptographic encryption methods are mature
 

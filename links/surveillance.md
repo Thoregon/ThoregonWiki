@@ -43,3 +43,4 @@ https://fm4.orf.at/stories/3016931/
 !! https://www.heise.de/news/Forscher-entdecken-Generalschluessel-fuer-Systeme-zur-Gesichtserkennung-6156605.html
 https://www.heise.de/hintergrund/Wie-EncroChat-gehackt-und-kriminelle-Srukturen-aufgedeckt-wurden-6151759.html?seite=all
 https://www.heise.de/news/EU-Migrationskontrolle-Biometrie-Superdatenbank-verursacht-Milliardenkosten-6189788.html
+https://www.heise.de/tp/features/Kuenstliche-Intelligenz-UNO-fordert-Einsatzstopp-um-Privatsphaere-zu-schuetzen-6194063.html
