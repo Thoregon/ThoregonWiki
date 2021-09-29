@@ -54,13 +54,18 @@ Service Agent - duplicate self (friend harvey)
 
 best would be to use an SE (Secure Element) and 2FA (two factor authentication)
 
+support strong anti-correlation to avoid tracking 
+
+--> https://www.w3.org/TR/vc-data-model/#privacy-considerations
+
+- use one-time bearer tokens
+
 ## Basic structure of an identity (SSI)
 
 - me
-    - claims      : certificates/attests/claims/menberships received
-    - grants      : certificates/attests/claims issued to others
-    - galaxies    : persistent objects
-    - apps        : can be device specific
+    - credentials : certificates/attests/claims/menberships received
+        - own credentials for all private galaxies
+        - 
     - contacts    : all associated contacts, communities are memberships in claims 
     - agents      : known service agents
     - devices     : connected devices to the SSI, see evolux.equipment
@@ -68,23 +73,35 @@ best would be to use an SE (Secure Element) and 2FA (two factor authentication)
     - aliases  (TDB)
     - device      : current device
     - properties, personal data    
+    
+    queries/views on credentials
+    - grants      : certificates/attests/claims issued to others
+    - galaxies    : persistent objects
+    - apps        : can be device specific
 
 Idle detection: https://web.dev/idle-detection/
 
-## Claims
+## Credentials (Claims)
 
+- has metadata
+- is a set of claims and proofs
 - contract between exactly two particpants
 - verifiable attributes from both sides
 - one issuer
 - extended claim 
     - allowed usage (DSGVO)
 
+- hierarchy of proofs
+    - issuer needs a certain credential to be authorized to issue the claims
+
 When a SSI is created, or a thoregon identity with an external SSI,
 it will get claims (invitations) for all 'global' collections e.g. the dorifer repository.
 
 ## Verifications
 
-Access verifications: Verifies only access to a certain comminucation possibility, not authenticity.
+Will be expressed as credentials.
+
+Access verifications: Verifies only access to a certain communication/access capabilities, not authenticity.
 
 - phone
 - email

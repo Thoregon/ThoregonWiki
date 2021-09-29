@@ -41,6 +41,7 @@
 - https://www.heise.de/news/Grossbritannien-Staat-nutzt-Tracking-Techniken-fuer-Verhaltensbeeinflussung-6186009.html
 - https://www.heise.de/news/Cybersicherheitsstrategie-Kritik-an-Regierung-als-groesstem-Sicherheitsrisiko-6188168.html
 - https://www.heise.de/news/Internetfreiheit-2021-Die-freie-Meinungsaeusserung-ist-bedroht-wie-nie-zuvor-6197467.html
+- https://www.heise.de/tp/features/Mehr-Zensur-wagen-zum-Schutz-der-Demokratie-6202941.html
 
 Energy
 - https://www.heise.de/meinung/Kommentar-Was-wirkliche-Technologieoffenheit-fuer-die-Gasbranche-bedeuten-wuerde-6037332.html
