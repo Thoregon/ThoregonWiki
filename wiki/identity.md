@@ -139,3 +139,12 @@ Sources & Links
     - [Self-Sovereign Identity: Ideology and Architecture with Christopher Allen](https://www.youtube.com/watch?v=MGYOWqCMLKg)
     - [Verifiable Credentials 101 for SSI with Tyler Ruff - Decentralized Digital Identity](https://www.youtube.com/watch?v=6O_iJnhIh5o)
     - [DID Resolution - Given a DID how do I retrieve its document? Markus Sabadello](https://youtube.com/watch?v=gf2g4O3yqCc)
+
+
+## Identity & Authentication Systems
+
+- https://www.heise.de/ratgeber/Webanwendungen-schuetzen-mit-Authelia-6202838.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+
+## Risks
+
+- https://www.heise.de/news/Digitaler-Fuehrerschein-hatte-keinen-Schutz-vor-Identitaetsdiebstahl-6204574.html
