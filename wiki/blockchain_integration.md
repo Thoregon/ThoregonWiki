@@ -38,6 +38,7 @@ Tokens
 - ERC20: https://ethereum.org/en/developers/docs/standards/tokens/erc-20/
 - ERC23: https://github.com/iam-dev/ERC23
 - https://sharpcode.pro/difference-between-erc20-erc721-erc23-and-erc223-tokens/
+- https://intersoft.co/blog/difference-between-erc20-erc721-erc23-and-erc223-tokens/
 
 NFT
 s- ERC721: https://ethereum.org/en/developers/docs/standards/tokens/erc-721/
