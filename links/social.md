@@ -43,6 +43,8 @@
 - https://www.heise.de/news/Internetfreiheit-2021-Die-freie-Meinungsaeusserung-ist-bedroht-wie-nie-zuvor-6197467.html
 - https://www.heise.de/tp/features/Mehr-Zensur-wagen-zum-Schutz-der-Demokratie-6202941.html
 - https://www.heise.de/news/Ueberwachungskapitalismus-Shoshana-Zuboff-fordert-demokratische-Gegenrevolution-6205668.html
+- https://www.heise.de/hintergrund/Was-Chinas-Ueberwachungstechnik-mit-der-US-Wirtschaft-zu-tun-hat-6212343.html
+- https://www.heise.de/news/DSGVO-Irische-Datenschutzbehoerde-nickt-Facebooks-Einwilligungstrick-ab-6218257.html
 
 
 Energy

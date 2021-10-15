@@ -9,12 +9,17 @@ Deploy Websites to IPFS
 Pinning
 - https://github.com/ipfs-shipyard/ipfs-deploy/tree/master/src/pinners
     - https://decentralify.runfission.com/
+- https://docs.ipfs.io/how-to/websites-on-ipfs/single-page-website/#pinning-files
 
 Streaming
 - https://stackoverflow.com/questions/29671771/how-can-i-stream-a-video-from-a-serviceworker
 - https://developers.google.com/web/updates/2016/06/sw-readablestreams
 - https://jakearchibald.github.io/streaming-html/server-render.html?
 - https://pusher.com/sessions/meetup/milton-keynes-geek-night/service-worker-and-streams
+
+Integration
+- https://docs.ipfs.io/how-to/browser-tools-frameworks/
+
 
 ## Other Components/Systems
 

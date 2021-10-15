@@ -9,6 +9,7 @@ https://fm4.orf.at/stories/3012370/
 Biometrische Generalschlüssel
 !!! https://www.heise.de/news/Forscher-entdecken-Generalschluessel-fuer-Systeme-zur-Gesichtserkennung-6156605.html
 !!! https://www.heise.de/security/meldung/Generalschluessel-fuer-Fingerabdruckscanner-Master-Prints-entsperren-Smartphones-4220782.html
+https://www.heise.de/hintergrund/Fake-Face-Generatoren-verraten-Ausgangsbilder-6212347.html
 
 Apple Photo Scann
     https://www.heise.de/news/iPhone-Scanning-auf-Kinderpornos-Apple-nennt-Abdrehmoeglichkeit-6157178.html

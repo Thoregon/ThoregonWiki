@@ -81,6 +81,23 @@ support strong anti-correlation to avoid tracking
 
 Idle detection: https://web.dev/idle-detection/
 
+### Thatsme private identity directory
+
+the thatsme private directory stores hash entries of SSI's.
+a hash for each verification of a user is built: salt + verification + password
+
+--> see verifications
+
+Recovery system with security questions like 'what was your first car' ...
+for each verification a hash entry will be stored again: salt + verifcation + answer 
+
+## Alias
+
+a separated user profile with own settings (and keys).
+- own properties
+
+there is always a 'default' alias profile.
+
 ## Credentials (Claims)
 
 - has metadata
@@ -93,9 +110,25 @@ Idle detection: https://web.dev/idle-detection/
 
 - hierarchy of proofs
     - issuer needs a certain credential to be authorized to issue the claims
+    --> 'ewings' chain of proofs from authorities
 
 When a SSI is created, or a thoregon identity with an external SSI,
 it will get claims (invitations) for all 'global' collections e.g. the dorifer repository.
+
+- user can add onw properties to (aside) the credential to add relevant information
+
+Provide multiple views (virtual lists) on credential of the SSI
+- contacts/friends/relations, also company
+- access permissions/memberships
+    - apps/widgets/components
+- communication channels
+
+
+### Issuing Credentials
+
+
+- Credentials can only be 'decrypted' by the issuer and holder!
+
 
 ## Verifications
 
@@ -126,6 +159,7 @@ Every SSI, can also be a service, has a request queue to receive inquiries.
 This can be request for invitations, e.g. to a channel.
 The request must contain a queue (reference) where to send the answer.
 A request can contain an invitation, the recipient decides whether to accept it. 
+
 
 ## DID Auth
 - [What is DID-Auth and how does it work?](https://medium.com/@sethisaab/what-is-did-auth-and-how-does-it-works-1e4884383a53)
