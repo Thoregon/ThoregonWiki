@@ -50,6 +50,9 @@ Service Agent - duplicate self (friend harvey)
 - Orbiter
 - Seconder
 
+
+- https://www.heise.de/hintergrund/Auslegungssache-37-Anonymitaet-Der-heilige-Gral-der-DSGVO-6024895.html
+
 ## Securtiy
 
 best would be to use an SE (Secure Element) and 2FA (two factor authentication)
@@ -129,8 +132,12 @@ Provide multiple views (virtual lists) on credential of the SSI
 
 - Credentials can only be 'decrypted' by the issuer and holder!
 
+- the holder requests a credential from the issuer
+    - holder creates a placeholder (address) in its 'credentials'
+    - issuer writes the credential to the placeholder
+    - credential tracks its state
 
-## Verifications
+## Identity Verifications
 
 Will be expressed as credentials.
 
@@ -140,11 +147,14 @@ Access verifications: Verifies only access to a certain communication/access cap
 - email
 - address
 
+-> https://www.heise.de/hintergrund/Messenger-IDs-Warum-Messenger-nach-Ihrer-Telefonnummer-fragen-5066901.html?seite=all
+
 Qualified verifications: Verifies the identity 
 
 - person
     - qualified electronic signature (e.g. handysignatur)
     - identity service provider (e.g. banks, specialized services, authorities, government, ...)
+    - EUid   https://www.heise.de/news/EUid-Online-Ausweise-kommen-EU-weit-Facebook-Co-muessen-sie-anerkennen-6061860.html 
 
 Contracts
     

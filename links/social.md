@@ -45,6 +45,9 @@
 - https://www.heise.de/news/Ueberwachungskapitalismus-Shoshana-Zuboff-fordert-demokratische-Gegenrevolution-6205668.html
 - https://www.heise.de/hintergrund/Was-Chinas-Ueberwachungstechnik-mit-der-US-Wirtschaft-zu-tun-hat-6212343.html
 - https://www.heise.de/news/DSGVO-Irische-Datenschutzbehoerde-nickt-Facebooks-Einwilligungstrick-ab-6218257.html
+- https://www.heise.de/news/Datenschutz-Noyb-legt-Beschwerde-gegen-Adresshandel-fuer-Kreditscoring-ein-6220509.html
+- https://www.heise.de/tp/features/Warum-gruene-Marktwirtschaft-keine-Alternative-zum-Kapitalismus-ist-5075141.html
+- https://www.heise.de/news/Reclaim-Your-Face-Europaweite-Unterschriftensammlung-gegen-Gesichtserkennung-5057588.html
 
 
 Energy

@@ -12,10 +12,14 @@ General Security requirements
 https://www.heise.de/news/Browser-Fingerprinting-Installierte-Apps-als-Tracking-Komplizen-6071347.html
 --> see https://schemeflood.com/
 --> https://github.com/fingerprintjs/external-protocol-flooding
+https://www.heise.de/hintergrund/Sichere-Kommunikation-Wie-Messenger-versuchen-Metadaten-zu-vermeiden-5995307.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 
 ## Crypto
 
 ### Browser Key & Crypto handling
+https://www.heise.de/hintergrund/Sicher-kommunizieren-Wie-moderne-Kommunikationsverschluesselung-funktioniert-5023121.html
+https://www.heise.de/developer/artikel/Was-man-ueber-Kryptografie-wissen-sollte-5001908.html
+
 ! https://blog.engelke.com/2014/09/19/saving-cryptographic-keys-in-the-browser/
 ! https://pomcor.com/2017/06/02/keys-in-browser/
 Webworker for memory separation: https://auth0.com/blog/secure-browser-storage-the-facts/#Secure-Browser-Storage-in-Auth0-SDKs
@@ -23,6 +27,8 @@ https://github.com/infotechinc/key-storage-in-browser
 https://www.ibiblio.org/hhalpin/homepage/presentations/webcrypto/Overview5.html
 https://beaglesecurity.com/blog/article/how-to-store-and-secure-sensitive-data-in-web-applications.html
 https://pragmaticwebsecurity.com/files/cheatsheets/browsersecrets.pdf
+https://www.heise.de/news/Datenschutz-Google-stellt-Tools-fuer-homomorphe-Verschluesselung-quelloffen-parat-6071618.html
+https://www.heise.de/hintergrund/Was-Sie-ueber-Kryptografie-wissen-muessen-5074699.html
 
 https://code.google.com/archive/p/crypto-js/
 

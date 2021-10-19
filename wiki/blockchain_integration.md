@@ -44,6 +44,9 @@ NFT
 s- ERC721: https://ethereum.org/en/developers/docs/standards/tokens/erc-721/
 - EIP1155: https://eips.ethereum.org/EIPS/eip-1155
 
+## Filecoin
+https://www.heise.de/news/Filecoin-Neue-Anreize-fuer-die-Blockchain-als-verteilter-Speicher-im-Internet-5050727.html
+
 ## Cardano
 - https://cardano.org/
 

@@ -11,7 +11,7 @@ https://www.heise.de/hintergrund/Verschluesselungssysteme-Kryptoagil-gegen-hacke
 https://www.heise.de/news/Lesetipp-Gestohlenes-Laptop-als-Hintertuer-6151527.html
 https://www.zdnet.com/article/cornell-university-researchers-discover-code-poisoning-attack/
 https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf
-
+https://www.heise.de/news/Google-Docs-verschluesseln-auch-vor-Google-6071028.html
 
 https://www.sofie-iot.eu/
 

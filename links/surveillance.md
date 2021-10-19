@@ -47,4 +47,10 @@ https://www.heise.de/hintergrund/Wie-EncroChat-gehackt-und-kriminelle-Srukturen-
 https://www.heise.de/news/EU-Migrationskontrolle-Biometrie-Superdatenbank-verursacht-Milliardenkosten-6189788.html
 https://www.heise.de/tp/features/Kuenstliche-Intelligenz-UNO-fordert-Einsatzstopp-um-Privatsphaere-zu-schuetzen-6194063.html
 https://www.heise.de/hintergrund/Anonymes-DNS-analysieren-Was-Netzbetreiber-in-Mitschnitten-lesen-koennen-6203183.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
-
+https://www.heise.de/news/EU-Grenzkontrolle-Erhebliche-Verzoegerungen-beim-Ein-Ausreisesystem-6220253.html
+https://www.heise.de/news/Security-Experten-warnen-vor-Massenueberwachungstechnologie-6219941.html
+https://www.heise.de/hintergrund/Polizei-Wem-die-zunehmende-Ueberwachung-nutzt-6195387.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+https://www.heise.de/tp/features/Wie-Bekaempfung-von-Desinformation-zur-offenen-Zensur-fuehrt-6220730.html
+https://www.heise.de/news/Parler-Co-Buergerrechtler-warnen-vor-Zensur-auf-elementarer-Netzebene-5022129.html
+https://www.heise.de/news/Die-Sicherheits-Abrechnung-WhatsApp-Telegram-Signal-uplink-36-2-5020510.html
+https://www.heise.de/news/EU-Buergerinitiative-gegen-biometrische-Massenueberwachung-kommt-5019179.html
