@@ -48,7 +48,8 @@
 - https://www.heise.de/news/Datenschutz-Noyb-legt-Beschwerde-gegen-Adresshandel-fuer-Kreditscoring-ein-6220509.html
 - https://www.heise.de/tp/features/Warum-gruene-Marktwirtschaft-keine-Alternative-zum-Kapitalismus-ist-5075141.html
 - https://www.heise.de/news/Reclaim-Your-Face-Europaweite-Unterschriftensammlung-gegen-Gesichtserkennung-5057588.html
-
+- https://www.diepresse.com/6049146/julian-reichelt-der-tiefe-fall-eines-machtmenschen
+- https://www.heise.de/meinung/Kommentar-zu-Modern-Solution-Der-Staat-darf-kein-Handlanger-von-Stuempern-sein-6224293.html
 
 Energy
 - https://www.heise.de/meinung/Kommentar-Was-wirkliche-Technologieoffenheit-fuer-die-Gasbranche-bedeuten-wuerde-6037332.html

@@ -1,6 +1,11 @@
 Collection of URL's
 ===================
 
+## Sources
+
+- http://offlinefirst.org/
+- https://github.com/notabugio/notabug
+
 ## Articles
 
 https://www.heise.de/hintergrund/Eine-nerdige-Ode-an-den-Kaffee-Entwickler-Mana-und-Code-Beschleuniger-6068740.html?seite=all
@@ -15,9 +20,7 @@ https://www.heise.de/hintergrund/Dfinity-Warum-der-Internet-Computer-vorerst-nic
 https://www.heise.de/hintergrund/Blick-nach-vorn-von-Dotty-zu-Scala-3-4693484.html
 https://www.heise.de/news/Schnellere-OSM-Karten-mit-Protomaps-6029420.html
 https://www.heise.de/hintergrund/Container-Images-Abschied-vom-Dockerfile-5997535.html
-https://www.heise.de/developer/artikel/Dependency-Injection-in-JavaScript-5992734.html
 https://www.heise.de/developer/artikel/Tests-schreiben-die-Grundlagen-5077457.html
-https://www.heise.de/developer/artikel/Das-Adapter-Pattern-in-JavaScript-5073865.html
 https://www.heise.de/hintergrund/Arduino-Wie-funktioniert-ein-Mikrocontroller-5046914.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 https://www.heise.de/hintergrund/Komponentenbasierte-Softwaretechnik-Was-ist-heute-noch-geblieben-5041855.html?seite=2
 https://www.heise.de/developer/artikel/Was-man-ueber-CQRS-wissen-sollte-5000166.html
@@ -27,6 +30,15 @@ https://www.heise.de/hintergrund/Smart-Home-Das-Funkprotokoll-Thread-im-ersten-P
 
 !! https://www.heise.de/news/rC3-Mastodon-Matrix-Co-Bausteine-und-Huerden-fuer-dezentrale-Online-Systeme-5000861.html
 
+### JS & ECMA Script & Node
+
+https://www.heise.de/developer/artikel/Nullreferenzen-So-vermeiden-Sie-den-Billion-Dollar-Mistake-in-JavaScript-und-TypeScript-6221457.html
+https://www.heise.de/developer/artikel/Dependency-Injection-in-JavaScript-5992734.html
+https://www.heise.de/developer/artikel/Das-Adapter-Pattern-in-JavaScript-5073865.html
+
+## ES6
+
+- https://stackoverflow.com/questions/47675549/how-do-i-cache-bust-imported-modules-in-es6
 
 ## Org
 
