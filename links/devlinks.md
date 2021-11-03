@@ -27,6 +27,7 @@ https://www.heise.de/developer/artikel/Was-man-ueber-CQRS-wissen-sollte-5000166.
 https://www.heise.de/developer/artikel/Grundlagen-von-Event-Sourcing-4998224.html
 https://www.heise.de/hintergrund/Vue-js-3-Reactivity-System-und-Composition-API-unter-der-Lupe-6032080.html?seite=all
 https://www.heise.de/hintergrund/Smart-Home-Das-Funkprotokoll-Thread-im-ersten-Praxistest-6049222.html
+https://www.heise.de/meinung/Richtig-klein-Hat-Modularisierung-versagt-6234193.html
 
 !! https://www.heise.de/news/rC3-Mastodon-Matrix-Co-Bausteine-und-Huerden-fuer-dezentrale-Online-Systeme-5000861.html
 

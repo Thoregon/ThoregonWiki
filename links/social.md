@@ -50,6 +50,8 @@
 - https://www.heise.de/news/Reclaim-Your-Face-Europaweite-Unterschriftensammlung-gegen-Gesichtserkennung-5057588.html
 - https://www.diepresse.com/6049146/julian-reichelt-der-tiefe-fall-eines-machtmenschen
 - https://www.heise.de/meinung/Kommentar-zu-Modern-Solution-Der-Staat-darf-kein-Handlanger-von-Stuempern-sein-6224293.html
+- https://www.heise.de/tp/features/Das-Virus-und-die-neue-exekutiv-autoritaere-Herrschaft-6221977.html
+- https://www.heise.de/news/Kommentar-Die-digitale-Dystopie-heisst-Meta-6236874.html
 
 Energy
 - https://www.heise.de/meinung/Kommentar-Was-wirkliche-Technologieoffenheit-fuer-die-Gasbranche-bedeuten-wuerde-6037332.html

@@ -54,3 +54,6 @@ https://www.heise.de/tp/features/Wie-Bekaempfung-von-Desinformation-zur-offenen-
 https://www.heise.de/news/Parler-Co-Buergerrechtler-warnen-vor-Zensur-auf-elementarer-Netzebene-5022129.html
 https://www.heise.de/news/Die-Sicherheits-Abrechnung-WhatsApp-Telegram-Signal-uplink-36-2-5020510.html
 https://www.heise.de/news/EU-Buergerinitiative-gegen-biometrische-Massenueberwachung-kommt-5019179.html
+https://www.heise.de/news/Facebook-Co-fordern-Staerkt-die-Verschluesselung-6226174.html
+https://www.heise.de/news/Bundesregierung-macht-sich-fuer-aufgebohrte-Vorratsdatenspeicherung-stark-6234914.html
+https://www.derstandard.at/story/2000130835790/forensiker-wabl-whistleblowern-drohen-in-oesterreich-oft-massive-nachteile

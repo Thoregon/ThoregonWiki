@@ -1,6 +1,10 @@
 Blockchain Integration
 ======================
 
+## Articles
+
+- https://www.heise.de/news/US-Regierung-fordert-Gesetz-zur-Regulierung-von-Stablecoins-6245165.html    
+
 ## CRDT - Blockchain w/o Blockchain
 
 - CRDT instead of bockchain
