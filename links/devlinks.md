@@ -37,6 +37,11 @@ https://www.heise.de/developer/artikel/Nullreferenzen-So-vermeiden-Sie-den-Billi
 https://www.heise.de/developer/artikel/Dependency-Injection-in-JavaScript-5992734.html
 https://www.heise.de/developer/artikel/Das-Adapter-Pattern-in-JavaScript-5073865.html
 
+## Law
+
+https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Hacking-Werkzeug-6234994.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+
+
 ## ES6
 
 - https://stackoverflow.com/questions/47675549/how-do-i-cache-bust-imported-modules-in-es6
