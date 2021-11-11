@@ -68,8 +68,8 @@ support strong anti-correlation to avoid tracking
 - me
     - credentials : certificates/attests/claims/menberships received
         - own credentials for all private galaxies
-        - 
-    - contacts    : all associated contacts, communities are memberships in claims 
+        - hierarchical for context/app
+    - contacts    : all associated contacts, communities are memberships in claims
     - agents      : known service agents
     - devices     : connected devices to the SSI, see evolux.equipment
     - repositories: taped repositories the the SSI, each device can extend by tapping additional repos
@@ -78,9 +78,36 @@ support strong anti-correlation to avoid tracking
     - properties, personal data    
     
     queries/views on credentials
+    - friends     : committed contacts with credential 
     - grants      : certificates/attests/claims issued to others
     - galaxies    : persistent objects
     - apps        : can be device specific
+    
+### Structure of (persistent) data
+
+
+Root for an App:
+- me.app.<appname> 
+Instances:
+- me.app.<appname>.<instance>   for apps supporting multiple instances
+- me.app.<appname>.sole         if only one instance exists 
+Credentials:
+- me.app.<appname>.credentials
+- me.app.<appname>.<instance>.credentials
+Persistence:
+- me.app.<appname>.root
+- me.app.<appname>.<instance>.root
+Setup (Settings):
+- me.app.<appname>.setup
+- me.app.<appname>.<instance>.setup
+- me.device.app.<appname>.setup
+- me.device.app.<appname>.<instance>.setup
+
+
+const approot = me.app.BG.POCS.root
+
+fallback: first ask device setup, then instance setup, then app setup
+design decision from app developer if device settings - or parts -  exists 
 
 Idle detection: https://web.dev/idle-detection/
 
