@@ -68,6 +68,7 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - voca
 - has-values
 - @sindresorhus/is
+- https://github.com/RubenVerborgh/AsyncIterator
 
 #### QR Code
 - Reader [jsQR](https://github.com/cozmo/jsQR)
