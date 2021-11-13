@@ -85,6 +85,10 @@ support strong anti-correlation to avoid tracking
     
 ### Structure of (persistent) data
 
+Identity Instance
+- me.instance
+- me.instance.credentials
+- me.
 
 Root for an App:
 - me.app.<appname> 
@@ -103,11 +107,14 @@ Setup (Settings):
 - me.device.app.<appname>.setup
 - me.device.app.<appname>.<instance>.setup
 
+fallback: first ask device setup, then instance setup, then app setup
+design decision from app developer if device settings - or parts -  exists 
 
 const approot = me.app.BG.POCS.root
 
-fallback: first ask device setup, then instance setup, then app setup
-design decision from app developer if device settings - or parts -  exists 
+Shotrcut for current app
+
+universe.app (= approot)
 
 Idle detection: https://web.dev/idle-detection/
 
