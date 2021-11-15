@@ -52,6 +52,7 @@
 - https://www.heise.de/meinung/Kommentar-zu-Modern-Solution-Der-Staat-darf-kein-Handlanger-von-Stuempern-sein-6224293.html
 - https://www.heise.de/tp/features/Das-Virus-und-die-neue-exekutiv-autoritaere-Herrschaft-6221977.html
 - https://www.heise.de/news/Kommentar-Die-digitale-Dystopie-heisst-Meta-6236874.html
+- https://www.heise.de/news/Studie-Der-Staat-kann-allein-wenig-gegen-Desinformation-ausrichten-6266227.html
 
 Energy
 - https://www.heise.de/meinung/Kommentar-Was-wirkliche-Technologieoffenheit-fuer-die-Gasbranche-bedeuten-wuerde-6037332.html

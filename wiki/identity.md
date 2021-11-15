@@ -87,8 +87,11 @@ support strong anti-correlation to avoid tracking
 
 Identity Instance
 - me.instance
+    me.current
+    me.self
+    me.ssi
 - me.instance.credentials
-- me.
+- me.instance.contacts
 
 Root for an App:
 - me.app.<appname> 
@@ -112,9 +115,14 @@ design decision from app developer if device settings - or parts -  exists
 
 const approot = me.app.BG.POCS.root
 
-Shotrcut for current app
+Shortcut for current app
 
 universe.app (= approot)
+
+app.POCS.root
+app.tenant
+app.current
+app.<instance>
 
 Idle detection: https://web.dev/idle-detection/
 
