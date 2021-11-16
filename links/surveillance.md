@@ -57,3 +57,4 @@ https://www.heise.de/news/EU-Buergerinitiative-gegen-biometrische-Massenueberwac
 https://www.heise.de/news/Facebook-Co-fordern-Staerkt-die-Verschluesselung-6226174.html
 https://www.heise.de/news/Bundesregierung-macht-sich-fuer-aufgebohrte-Vorratsdatenspeicherung-stark-6234914.html
 https://www.derstandard.at/story/2000130835790/forensiker-wabl-whistleblowern-drohen-in-oesterreich-oft-massive-nachteile
+https://www.heise.de/hintergrund/Spyware-Wie-die-Cyber-Ueberwachung-weltweit-boomt-6265101.html
