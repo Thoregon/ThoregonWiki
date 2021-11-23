@@ -119,10 +119,16 @@ Shortcut for current app
 
 universe.app (= approot)
 
-app.POCS.root
-app.tenant
-app.current
+app.current ... current selected instance
 app.<instance>
+
+each instance needs a credential for the app.
+this can either be a commercial credential,
+or a default credential at first use.
+
+
+
+create an instance for each defined app credential.
 
 Idle detection: https://web.dev/idle-detection/
 

@@ -6,6 +6,11 @@ Collection of URL's
 - http://offlinefirst.org/
 - https://github.com/notabugio/notabug
 
+## API's
+
+https://developers.google.com/ml-kit
+https://cloud.google.com/vision/docs/samples/vision-batch-annotate-files-gcs#vision_batch_annotate_files_gcs-nodejs
+
 ## Articles
 
 https://www.heise.de/hintergrund/Eine-nerdige-Ode-an-den-Kaffee-Entwickler-Mana-und-Code-Beschleuniger-6068740.html?seite=all
@@ -29,6 +34,7 @@ https://www.heise.de/hintergrund/Vue-js-3-Reactivity-System-und-Composition-API-
 https://www.heise.de/hintergrund/Smart-Home-Das-Funkprotokoll-Thread-im-ersten-Praxistest-6049222.html
 https://www.heise.de/meinung/Richtig-klein-Hat-Modularisierung-versagt-6234193.html
 https://www.heise.de/news/software-architektur-tv-Crossfunktionale-Teams-gezielt-in-den-Abgrund-stuerzen-6263110.html
+https://www.golem.de/news/software-20-dinge-die-ich-in-20-jahren-als-entwickler-gelernt-habe-2111-161015.html
 
 !! https://www.heise.de/news/rC3-Mastodon-Matrix-Co-Bausteine-und-Huerden-fuer-dezentrale-Online-Systeme-5000861.html
 

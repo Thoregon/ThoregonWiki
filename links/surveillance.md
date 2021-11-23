@@ -58,3 +58,5 @@ https://www.heise.de/news/Facebook-Co-fordern-Staerkt-die-Verschluesselung-62261
 https://www.heise.de/news/Bundesregierung-macht-sich-fuer-aufgebohrte-Vorratsdatenspeicherung-stark-6234914.html
 https://www.derstandard.at/story/2000130835790/forensiker-wabl-whistleblowern-drohen-in-oesterreich-oft-massive-nachteile
 https://www.heise.de/hintergrund/Spyware-Wie-die-Cyber-Ueberwachung-weltweit-boomt-6265101.html
+https://www.heise.de/news/EuGH-Gutachter-Deutsche-Vorratsdatenspeicherung-verstoesst-gegen-EU-Recht-6270828.html
+https://www.heise.de/news/Automatische-Scans-von-privaten-Nutzerinhalten-geplant-6266262.html
