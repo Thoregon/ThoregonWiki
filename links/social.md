@@ -55,7 +55,7 @@
 - https://www.heise.de/news/Studie-Der-Staat-kann-allein-wenig-gegen-Desinformation-ausrichten-6266227.html
 - https://www.heise.de/hintergrund/Cookiekalypse-die-neue-Jagd-nach-Daten-6273048.html
 - ! https://www.wienerzeitung.at/nachrichten/reflexionen/zeitgenossen/2128239-Gefaehrliche-Konstellationen.html
-
+- https://t3n.de/news/leben-simulation-beunruhigen-1430774/
 
 Energy
 - https://www.heise.de/meinung/Kommentar-Was-wirkliche-Technologieoffenheit-fuer-die-Gasbranche-bedeuten-wuerde-6037332.html
