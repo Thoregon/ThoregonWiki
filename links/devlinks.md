@@ -1,6 +1,10 @@
 Collection of URL's
 ===================
 
+## Essential 
+- https://en.wikipedia.org/wiki/Well-known_URI
+- https://www.w3.org/OWL/
+
 ## Sources
 
 - http://offlinefirst.org/
@@ -35,6 +39,7 @@ https://www.heise.de/hintergrund/Smart-Home-Das-Funkprotokoll-Thread-im-ersten-P
 https://www.heise.de/meinung/Richtig-klein-Hat-Modularisierung-versagt-6234193.html
 https://www.heise.de/news/software-architektur-tv-Crossfunktionale-Teams-gezielt-in-den-Abgrund-stuerzen-6263110.html
 https://www.golem.de/news/software-20-dinge-die-ich-in-20-jahren-als-entwickler-gelernt-habe-2111-161015.html
+https://www.heise.de/news/Agile-Methode-Kanban-wird-erwachsen-6274927.html
 
 !! https://www.heise.de/news/rC3-Mastodon-Matrix-Co-Bausteine-und-Huerden-fuer-dezentrale-Online-Systeme-5000861.html
 
@@ -68,6 +73,12 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - https://www.heise.de/hintergrund/Auf-dem-Pruefstand-Wie-JavaScript-Tests-wieder-lesbar-werden-6188288.html?seite=all
 
 ## Components
+
+### OS
+- ONIRO https://www.golem.de/news/ohne-google-android-oder-amazon-der-open-source-grossangriff-2111-161222.html
+    - open source OS (IoT/Mobile)
+- yocto - create custom linux distros 
+    - https://www.yoctoproject.org/
 
 ### JS
 
