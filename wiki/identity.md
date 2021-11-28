@@ -213,6 +213,30 @@ Contracts
         - civil law, inheritance law
     - UNCITRAL (UN-Kaufrecht) https://de.wikipedia.org/wiki/UNCITRAL
 
+## Devices
+
+### Own Devices
+
+- must be connected by the user to its SSI
+- device becomes a full local secure identity
+    - can work w/o other devices and does not require any service agent 
+    - can sign and encrypt for the SSI 
+    
+- connect/login via
+    - QR/NFC -> 2nd device e.g. mobile
+    - Thatsme Directory with any verified credential e.g. email, phone
+    
+### Foreign Devices
+
+- no local secure identity
+- needs at least one of the users service agents
+- SA does signing and encrypting -> may be a lot slower
+- local secret worker for verifiying & decryption does not store anything on the local device
+
+- login via 
+    - QR/NFC -> 2nd device e.g. mobile
+    - Thatsme Directory with any verified credential e.g. email, phone
+
 ## Request Queue
 
 Every SSI, can also be a service, has a request queue to receive inquiries.
