@@ -246,6 +246,9 @@ A request can contain an invitation, the recipient decides whether to accept it.
 
 
 ## DID Auth
+
+- to avoid tracking, a separate DID is required for each 'foreign' service
+
 - [What is DID-Auth and how does it work?](https://medium.com/@sethisaab/what-is-did-auth-and-how-does-it-works-1e4884383a53)
 
 Sources & Links
