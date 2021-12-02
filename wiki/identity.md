@@ -83,7 +83,7 @@ support strong anti-correlation to avoid tracking
     - galaxies    : persistent objects
     - apps        : can be device specific
     
-### Structure of (persistent) data
+### Structure of (materialized) data
 
 Identity Instance
 - me.instance
