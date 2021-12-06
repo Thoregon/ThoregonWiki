@@ -60,3 +60,5 @@ https://www.derstandard.at/story/2000130835790/forensiker-wabl-whistleblowern-dr
 https://www.heise.de/hintergrund/Spyware-Wie-die-Cyber-Ueberwachung-weltweit-boomt-6265101.html
 https://www.heise.de/news/EuGH-Gutachter-Deutsche-Vorratsdatenspeicherung-verstoesst-gegen-EU-Recht-6270828.html
 https://www.heise.de/news/Automatische-Scans-von-privaten-Nutzerinhalten-geplant-6266262.html
+https://www.heise.de/news/Tor-Netzwerk-KAX17-fuehrt-massive-Deanonymisierungsangriffe-durch-6286564.html
+
