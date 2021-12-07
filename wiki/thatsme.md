@@ -35,3 +35,8 @@ e.g. 'my shoppingcart'
 is basically a browser, allowing more functions
 enables objects to be placed as widgets on the smartphone screen
 
+## Appendix
+
+### Legal
+
+- https://www.golem.de/news/nutzertracking-koalition-will-cookie-manager-und-login-dienste-anerkennen-2105-156606.html
