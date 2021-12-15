@@ -14,6 +14,14 @@ Collection of URL's
 
 - https://www.heise.de/select/ix/2021/12/softlinks/zx73?wt_mc=pred.red.ix.ix122021.116.softlink.softlink
 
+## Dev Methods
+
+- https://refactoring.com/
+
+### Hints
+
+- https://www.heise.de/meinung/Kommentar-zu-log4j-Es-funktioniert-wie-spezifiziert-6294476.html
+
 ## API's
 
 https://developers.google.com/ml-kit
@@ -93,6 +101,7 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - has-values
 - @sindresorhus/is
 - https://github.com/RubenVerborgh/AsyncIterator
+- https://johnresig.com/blog/pure-javascript-html-parser/
 
 #### QR Code
 - Reader [jsQR](https://github.com/cozmo/jsQR)

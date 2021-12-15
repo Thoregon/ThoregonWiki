@@ -47,6 +47,10 @@ https://www.heise.de/news/US-Geheimdienst-NSA-nimmt-Stellung-zu-Post-Quanten-Kry
 
 This should be sufficient until post quantum cryptographic encryption methods are mature
 
+### Indistinguishability Obfuscation & Homomorphic Encryption
+
+https://en.m.wikipedia.org/wiki/Indistinguishability_obfuscation
+
 ### CryptoConditions
 
 https://github.com/bigchaindb/js-crypto-conditions

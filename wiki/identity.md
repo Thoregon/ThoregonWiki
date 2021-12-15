@@ -261,6 +261,7 @@ Sources & Links
     - [Verifiable Credentials 101 for SSI with Tyler Ruff - Decentralized Digital Identity](https://www.youtube.com/watch?v=6O_iJnhIh5o)
     - [DID Resolution - Given a DID how do I retrieve its document? Markus Sabadello](https://youtube.com/watch?v=gf2g4O3yqCc)
 
+Provide a [Universial Resolver](https://dev.uniresolver.io/) for Thoregon SSI's
 
 ## Identity & Authentication Systems
 

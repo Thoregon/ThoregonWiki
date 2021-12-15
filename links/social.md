@@ -1,3 +1,7 @@
+# Vorwort
+
+- FIePM „Fiat iustitia et pereat mundus“ (dt.: „Es soll Gerechtigkeit geschehen, und gehe auch die Welt daran zugrunde!“) -> [Michael Kohlhaas](https://de.wikipedia.org/wiki/Michael_Kohlhaas) 
+
 # Collection of Links of social and society relevant issues
 
 - https://www.heise.de/meinung/Edit-Policy-Die-CUII-Initiative-private-Netzsperren-ohne-Gerichtsbeschluss-5987578.html
@@ -56,6 +60,9 @@
 - https://www.heise.de/hintergrund/Cookiekalypse-die-neue-Jagd-nach-Daten-6273048.html
 - ! https://www.wienerzeitung.at/nachrichten/reflexionen/zeitgenossen/2128239-Gefaehrliche-Konstellationen.html
 - https://t3n.de/news/leben-simulation-beunruhigen-1430774/
+- https://www.heise.de/news/Kritik-in-Online-Forum-Menschengerichtshof-staerkt-Anonymitaet-im-Netz-6288864.html
+- https://t3n.de/news/alle-gegen-krypto-iwf-fordert-1436852/
+- https://www.heise.de/news/Digitalgrundgesetz-EU-Abgeordnete-fuer-Identifizierungspflicht-bei-Porno-Uploads-6294582.html
 
 Energy
 - https://www.heise.de/meinung/Kommentar-Was-wirkliche-Technologieoffenheit-fuer-die-Gasbranche-bedeuten-wuerde-6037332.html

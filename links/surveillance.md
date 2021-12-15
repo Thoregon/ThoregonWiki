@@ -61,4 +61,6 @@ https://www.heise.de/hintergrund/Spyware-Wie-die-Cyber-Ueberwachung-weltweit-boo
 https://www.heise.de/news/EuGH-Gutachter-Deutsche-Vorratsdatenspeicherung-verstoesst-gegen-EU-Recht-6270828.html
 https://www.heise.de/news/Automatische-Scans-von-privaten-Nutzerinhalten-geplant-6266262.html
 https://www.heise.de/news/Tor-Netzwerk-KAX17-fuehrt-massive-Deanonymisierungsangriffe-durch-6286564.html
-
+https://www.golem.de/news/encrochat-hack-damit-wuerde-man-keinen-geschwindigkeitsverstoss-verurteilen-2112-161469.html
+https://www.heise.de/news/Staatstrojaner-Provider-sollen-hoechstmoegliche-Installationsgarantie-geben-6292099.html
+https://www.heise.de/news/Huaweis-Produkte-fuer-den-Ueberwachungsstaat-6295196.html
