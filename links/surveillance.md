@@ -64,3 +64,4 @@ https://www.heise.de/news/Tor-Netzwerk-KAX17-fuehrt-massive-Deanonymisierungsang
 https://www.golem.de/news/encrochat-hack-damit-wuerde-man-keinen-geschwindigkeitsverstoss-verurteilen-2112-161469.html
 https://www.heise.de/news/Staatstrojaner-Provider-sollen-hoechstmoegliche-Installationsgarantie-geben-6292099.html
 https://www.heise.de/news/Huaweis-Produkte-fuer-den-Ueberwachungsstaat-6295196.html
+https://www.heise.de/news/Telegram-Wie-die-Politik-einen-unkooperativen-Chat-Dienst-regulieren-will-6296422.html

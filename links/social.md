@@ -64,10 +64,14 @@
 - https://t3n.de/news/alle-gegen-krypto-iwf-fordert-1436852/
 - https://www.heise.de/news/Digitalgrundgesetz-EU-Abgeordnete-fuer-Identifizierungspflicht-bei-Porno-Uploads-6294582.html
 
-Energy
+## Community, Cooperation, Wealth
+
+- https://www.heise.de/tp/features/Nur-so-eine-Idee-Startkapital-fuer-alle-Volljaehrigen-6296304.html
+
+## Energy
 - https://www.heise.de/meinung/Kommentar-Was-wirkliche-Technologieoffenheit-fuer-die-Gasbranche-bedeuten-wuerde-6037332.html
 - https://www.heise.de/tp/features/Warum-die-Bitcoin-Apokalypse-ausbleibt-6141273.html?seite=all
 - https://www.heise.de/tp/features/Nicht-gewusst-womit-E-Autos-fahren-Die-Stromluege-des-Peter-Altmaier-6139171.html
 
-Companies
+## Companies
 - https://www.heise.de/news/Discord-Zugriff-auf-nicht-jugendfreie-Inhalte-in-iPhone-App-generell-blockiert-6015178.html
