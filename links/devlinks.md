@@ -97,9 +97,14 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 
 ### JS
 
-- voca
-- has-values
-- @sindresorhus/is
+- [voca](https://vocajs.com/)                  The ultimate JavaScript string library
+- has-values            value classification
+- @sindresorhus/is      type check
+- [Chalk](https://github.com/chalk/chalk)       easy-to-use API to colorize logs
+- [progress](https://github.com/visionmedia/node-progress)      cli progress bars etc.
+- [commander](https://github.com/tj/commander.js)       cli utility
+- [Turf.js](https://turfjs.org/)    Advanced geospatial analysis for browsers and Node.js
+    - https://github.com/Turfjs/turf/tree/master/packages
 - https://github.com/RubenVerborgh/AsyncIterator
 - https://johnresig.com/blog/pure-javascript-html-parser/
 
