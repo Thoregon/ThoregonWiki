@@ -76,3 +76,7 @@ FIDO, U2F
 ## Blockchain
 
 Ethereum    https://consensys.github.io/smart-contract-best-practices/known_attacks/
+
+## Products
+
+https://www.schlager-news.at/markt-kommerzielle-verschlusselungssoftware-kapazitaten/

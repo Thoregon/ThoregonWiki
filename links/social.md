@@ -63,6 +63,8 @@
 - https://www.heise.de/news/Kritik-in-Online-Forum-Menschengerichtshof-staerkt-Anonymitaet-im-Netz-6288864.html
 - https://t3n.de/news/alle-gegen-krypto-iwf-fordert-1436852/
 - https://www.heise.de/news/Digitalgrundgesetz-EU-Abgeordnete-fuer-Identifizierungspflicht-bei-Porno-Uploads-6294582.html
+- https://www.heise.de/news/Messenger-Monopolkommission-gegen-Interoperabilitaetspflicht-6297623.html
+
 
 ## Community, Cooperation, Wealth
 

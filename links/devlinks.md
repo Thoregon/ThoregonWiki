@@ -10,6 +10,12 @@ Collection of URL's
 - http://offlinefirst.org/
 - https://github.com/notabugio/notabug
 
+### Code Samples
+
+- https://codepen.io/
+- https://jsfiddle.net/
+- http://sqlfiddle.com/
+
 ### Intended Network Routing
 
 - https://www.heise.de/select/ix/2021/12/softlinks/zx73?wt_mc=pred.red.ix.ix122021.116.softlink.softlink
@@ -21,6 +27,14 @@ Collection of URL's
 ### Hints
 
 - https://www.heise.de/meinung/Kommentar-zu-log4j-Es-funktioniert-wie-spezifiziert-6294476.html
+
+### Tutorials
+ 
+- https://www.codementor.io/@tiagolopesferreira/asynchronous-iterators-in-javascript-jl1yg8la1
+
+### Comparisions
+
+- https://www.youtube.com/watch?v=cuHDQhDhvPE
 
 ## API's
 
@@ -108,6 +122,8 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - https://github.com/RubenVerborgh/AsyncIterator
 - https://johnresig.com/blog/pure-javascript-html-parser/
 
+
+
 #### QR Code
 - Reader [jsQR](https://github.com/cozmo/jsQR)
 - Generator 
@@ -116,6 +132,11 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - https://github.com/manuelottlik/ct-js-qr
 
 ### UI Utils
+
+#### Frameworks
+
+- https://alpinejs.dev/     https://github.com/alpinejs/alpine/tree/main/packages/alpinejs/src 
+- https://riot.js.org/
 
 #### Layout and Views
 
