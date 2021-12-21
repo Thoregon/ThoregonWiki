@@ -1,6 +1,10 @@
 Securtiy links collection
 -------------------------
 
+!! Log4Shell: 
+    - https://www.youtube.com/watch?app=desktop&v=JYiagUpmxXo&feature=youtu.be
+    - https://github.com/predic8/log4j-log4shell-exploit
+
 LUKS
 Server über SSH entsperren: https://www.heise.de/ratgeber/LUKS-Verschluesselte-Linux-Systeme-ueber-SSH-entsperren-6157460.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 
