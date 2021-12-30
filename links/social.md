@@ -66,7 +66,9 @@
 - https://www.heise.de/news/Messenger-Monopolkommission-gegen-Interoperabilitaetspflicht-6297623.html
 - https://www.heise.de/meinung/Kommentar-Hass-laesst-sich-nicht-wegloeschen-6297831.html
     - https://www.heise.de/meinung/Edit-Policy-Telegram-sperren-Warum-es-keine-technische-Loesung-gegen-Hass-gibt-6298929.html
-    
+- https://www.heise.de/news/rC3-Der-Staat-laehmt-die-digitale-Zivilgesellschaft-oft-mit-Anzeigen-Co-6314283.html
+
+
 ## Community, Cooperation, Wealth
 
 - https://www.heise.de/tp/features/Nur-so-eine-Idee-Startkapital-fuer-alle-Volljaehrigen-6296304.html

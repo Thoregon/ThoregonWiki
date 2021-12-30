@@ -194,6 +194,9 @@ Access verifications: Verifies only access to a certain communication/access cap
 - phone
 - email
 - address
+- other messengers (signal, telegram, ...)
+    - send security code 
+    - Link thatsme app as ‘device’ with QR code
 
 -> https://www.heise.de/hintergrund/Messenger-IDs-Warum-Messenger-nach-Ihrer-Telefonnummer-fragen-5066901.html?seite=all
 
@@ -204,7 +207,9 @@ Qualified verifications: Verifies the identity
     - identity service provider (e.g. banks, specialized services, authorities, government, ...)
     - EUid   https://www.heise.de/news/EUid-Online-Ausweise-kommen-EU-weit-Facebook-Co-muessen-sie-anerkennen-6061860.html 
 
-see -> https://www.heise.de/tests/Digitale-Unterschrift-Dienste-fuer-private-und-geschaeftliche-Signaturen-im-Test-6272191.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+@see 
+--> https://www.heise.de/tests/Digitale-Unterschrift-Dienste-fuer-private-und-geschaeftliche-Signaturen-im-Test-6272191.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+--> https://www.heise.de/news/Digitaler-Ausweisstandard-mDL-Breite-Unterstuetzung-in-USA-erwartet-6304304.html
 
 Contracts
     
