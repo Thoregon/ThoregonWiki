@@ -65,3 +65,4 @@ https://www.golem.de/news/encrochat-hack-damit-wuerde-man-keinen-geschwindigkeit
 https://www.heise.de/news/Staatstrojaner-Provider-sollen-hoechstmoegliche-Installationsgarantie-geben-6292099.html
 https://www.heise.de/news/Huaweis-Produkte-fuer-den-Ueberwachungsstaat-6295196.html
 https://www.heise.de/news/Telegram-Wie-die-Politik-einen-unkooperativen-Chat-Dienst-regulieren-will-6296422.html
+!! https://www.heise.de/news/Mainzer-Polizei-ermittelte-rechtswidrig-mit-Daten-aus-der-Luca-App-6321054.html
