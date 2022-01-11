@@ -66,3 +66,4 @@ https://www.heise.de/news/Staatstrojaner-Provider-sollen-hoechstmoegliche-Instal
 https://www.heise.de/news/Huaweis-Produkte-fuer-den-Ueberwachungsstaat-6295196.html
 https://www.heise.de/news/Telegram-Wie-die-Politik-einen-unkooperativen-Chat-Dienst-regulieren-will-6296422.html
 !! https://www.heise.de/news/Mainzer-Polizei-ermittelte-rechtswidrig-mit-Daten-aus-der-Luca-App-6321054.html
+!! https://www.heise.de/news/Offene-Flanke-in-den-Crypto-Wars-Bezahlfunktion-in-Signal-weltweit-verfuegbar-6321347.html
