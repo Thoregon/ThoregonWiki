@@ -80,3 +80,6 @@ Ethereum    https://consensys.github.io/smart-contract-best-practices/known_atta
 ## Products
 
 https://www.schlager-news.at/markt-kommerzielle-verschlusselungssoftware-kapazitaten/
+
+@see also
+https://www.heise.de/hintergrund/Unabhaengig-aber-sicher-Serverless-Security-6326609.html

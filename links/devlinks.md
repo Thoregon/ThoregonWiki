@@ -1,7 +1,12 @@
 Collection of URL's
 ===================
 
+## Learning
+
+- https://www.katacoda.com/
+
 ## Essential 
+
 - https://en.wikipedia.org/wiki/Well-known_URI
 - https://www.w3.org/OWL/
 
@@ -122,7 +127,10 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - https://github.com/RubenVerborgh/AsyncIterator
 - https://johnresig.com/blog/pure-javascript-html-parser/
 
+#### CLI
 
+- https://github.com/tj/commander.js/
+- https://github.com/google/zx
 
 #### QR Code
 - Reader [jsQR](https://github.com/cozmo/jsQR)
@@ -155,7 +163,16 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 
 ## Sample code: learn, clone or rebiuld
 
-Cart with Credentials Mgmt API
+## Credentials Management API
+
+- https://developer.mozilla.org/en-US/docs/Web/API/Credential_Management_API
+- https://golb.hplar.ch/2019/06/credential-management-api.html
+- https://whatwebcando.today/credentials.html
+- https://developers.google.com/web/fundamentals/security/credential-management?hl=de
+- https://credential-management-sample.appspot.com/
+- https://github.com/agektmr/shop/tree/credential-payment
+
+Cart with Credentials Management API
 - https://polykart-credential-payment.appspot.com/account
 - https://github.com/agektmr/shop/tree/credential-payment
 
@@ -181,6 +198,19 @@ Cart with Credentials Mgmt API
 - [Skynet](https://siasky.net/)
     - Docs: https://siasky.net/docs/#introduction
     - Blog: https://blog.sia.tech/skynet-bdf0209d6d34
+
+###  Multicodec
+
+- https://github.com/multiformats/multicodec/blob/master/table.csv
+
+### libp2p
+- https://libp2p.io/
+
+- https://docs.libp2p.io/concepts/
+- https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/CORE_COURSE_B
+- https://github.com/libp2p/js-libp2p-examples/tree/master/chat/browser/05-Discovery
+- https://proto.school/introduction-to-libp2p/resources/
+- 
 
 ### Talks about WebTorrent
 

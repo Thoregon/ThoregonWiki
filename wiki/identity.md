@@ -66,7 +66,7 @@ support strong anti-correlation to avoid tracking
 ## Basic structure of an identity (SSI)
 
 - me
-    - credentials : certificates/attests/claims/menberships received
+    - credentials : certificates/attests/claims/memberships received
         - own credentials for all private galaxies
         - hierarchical for context/app
     - contacts    : all associated contacts, communities are memberships in claims
@@ -137,6 +137,8 @@ Idle detection: https://web.dev/idle-detection/
 the thatsme private directory stores hash entries of SSI's.
 a hash for each verification of a user is built: salt + verification + password
 
+--> see [Web Key Directory](https://wiki.gnupg.org/WKD)
+--> see [Password-authenticated key agreement](https://en.m.wikipedia.org/wiki/Password-authenticated_key_agreement)
 --> see verifications
 
 Recovery system with security questions like 'what was your first car' ...

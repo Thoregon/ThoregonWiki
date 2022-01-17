@@ -27,6 +27,9 @@ console.log(
 
         this.observer.observe(elem);
 
+! avoid 'unload' and 'beforeunload' 
+    --> https://developer.mozilla.org/en-US/docs/Web/API/Navigator/sendBeacon
+    --> https://developer.mozilla.org/en-US/docs/Web/API/Document/visibilitychange_event#examples
 
 ### CSS Features
 
