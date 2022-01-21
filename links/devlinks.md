@@ -154,12 +154,19 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 [dom-to-image](https://github.com/tsayen/dom-to-image)  convert a DOM element to an image
 [international Holidays](https://github.com/nager/Nager.Date)
 
-#### Graphic and Charts
+#### Graphic, Charts & Images
 
 [Chart.js](https://www.chartjs.org/)
 
 - https://www.heise.de/hintergrund/The-Good-the-Bad-and-the-Ugly-Analysen-effektiv-visualisieren-6132768.html
 - https://shirinsplayground.netlify.app/
+
+Image Compression
+
+- https://fengyuanchen.github.io/compressorjs/
+    - https://github.com/fengyuanchen/compressorjs
+- https://donaldcwl.github.io/browser-image-compression/example/basic.html
+    - https://github.com/Donaldcwl/browser-image-compression
 
 ## Sample code: learn, clone or rebiuld
 

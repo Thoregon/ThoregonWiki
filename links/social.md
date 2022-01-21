@@ -67,7 +67,9 @@
 - https://www.heise.de/meinung/Kommentar-Hass-laesst-sich-nicht-wegloeschen-6297831.html
     - https://www.heise.de/meinung/Edit-Policy-Telegram-sperren-Warum-es-keine-technische-Loesung-gegen-Hass-gibt-6298929.html
 - https://www.heise.de/news/rC3-Der-Staat-laehmt-die-digitale-Zivilgesellschaft-oft-mit-Anzeigen-Co-6314283.html
-
+- https://www.heise.de/news/Journalisten-und-Buergerrechtler-sehen-Telegram-Blockade-kritisch-6333872.html
+- https://www.heise.de/news/Deutsche-Wirtschaft-fordert-Schutz-der-Verschluesselung-und-sichere-Behoerden-6333954.html
+- https://www.heise.de/news/Digital-Services-Act-Goldstandard-oder-massiver-Schaden-fuer-die-Wirtschaft-6334005.html
 
 ## Community, Cooperation, Wealth
 
