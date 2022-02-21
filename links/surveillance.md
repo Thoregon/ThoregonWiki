@@ -68,3 +68,8 @@ https://www.heise.de/news/Telegram-Wie-die-Politik-einen-unkooperativen-Chat-Die
 !! https://www.heise.de/news/Mainzer-Polizei-ermittelte-rechtswidrig-mit-Daten-aus-der-Luca-App-6321054.html
 !! https://www.heise.de/news/Offene-Flanke-in-den-Crypto-Wars-Bezahlfunktion-in-Signal-weltweit-verfuegbar-6321347.html
 https://www.heise.de/news/Cybercrime-Konvention-EU-Datenschuetzer-sieht-Grundrechte-ausgehebelt-6336906.html
+https://www.golem.de/news/kuenstliche-intelligenz-geheime-ki-ohne-risikoabschaetzung-bei-sicherheitsbehoerden-2201-162696.html
+https://www.golem.de/news/gesichtsbilder-polizei-behoerden-erhalten-europaweit-mehr-datenzugriff-2201-162674.html
+https://www.heise.de/news/Studie-zum-E-Renminbi-Chinas-Digitalwaehrung-macht-die-Buerger-glaesern-6473720.html
+https://www.heise.de/news/Encrochat-Hack-Strafverteidiger-haben-massive-rechtsstaatliche-Bedenken-6497325.html
+https://www.heise.de/news/ModifiedElephant-Digitale-Ueberwachung-und-gefaelschte-Beweise-aus-einer-Hand-6510349.html

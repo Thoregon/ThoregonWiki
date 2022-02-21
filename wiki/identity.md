@@ -71,6 +71,7 @@ support strong anti-correlation to avoid tracking
         - hierarchical for context/app
     - contacts    : all associated contacts, communities are memberships in claims
     - agents      : known service agents
+    - services    : collection of all services running on behalf of the identity
     - devices     : connected devices to the SSI, see evolux.equipment
     - repositories: taped repositories the the SSI, each device can extend by tapping additional repos
     - aliases  (TDB)
@@ -86,29 +87,26 @@ support strong anti-correlation to avoid tracking
 ### Structure of (materialized) data
 
 Identity Instance
-- me.instance
-    me.current
-    me.self
-    me.ssi
-- me.instance.credentials
-- me.instance.contacts
+- me.ssi()
+    - credentials
+    - contacts
 
 Root for an App:
-- me.app.<appname> 
+- me.apps.<appname> 
 Instances:
-- me.app.<appname>.<instance>   for apps supporting multiple instances
-- me.app.<appname>.sole         if only one instance exists 
+- me.apps.<appname>.<instance>   for apps supporting multiple instances
+- me.apps.<appname>.sole         if only one instance exists 
 Credentials:
-- me.app.<appname>.credentials
-- me.app.<appname>.<instance>.credentials
+- me.apps.<appname>.credentials
+- me.apps.<appname>.<instance>.credentials
 Persistence:
-- me.app.<appname>.root
-- me.app.<appname>.<instance>.root
+- me.apps.<appname>.root
+- me.apps.<appname>.<instance>.root
 Setup (Settings):
-- me.app.<appname>.setup
-- me.app.<appname>.<instance>.setup
-- me.device.app.<appname>.setup
-- me.device.app.<appname>.<instance>.setup
+- me.apps.<appname>.setup
+- me.apps.<appname>.<instance>.setup
+- me.device.apps.<appname>.setup
+- me.device.apps.<appname>.<instance>.setup
 
 fallback: first ask device setup, then instance setup, then app setup
 design decision from app developer if device settings - or parts -  exists 
@@ -126,11 +124,40 @@ each instance needs a credential for the app.
 this can either be a commercial credential,
 or a default credential at first use.
 
-
-
 create an instance for each defined app credential.
 
 Idle detection: https://web.dev/idle-detection/
+
+Agents
+
+- me.agents
+- me.agents.<instance>      (id of instance)
+- me.agents.<alias>         (logical)
+
+on an agent many services can be available. They are indexed by their name,
+therefora a service must have a unique name within the agent. a service can have multiple 
+instances like applications. 
+
+- me.agents.<instance>.services
+- me.agents.<instance>.services.<name>
+- me.agents.<instance>.services.<name>.<instance>
+
+Services
+all lone services of an identity (the consumer of the service) to be used w/o knowing where the service is located.
+logical, non persistent. will be collected at startup and kept in sync.
+Lone services must be setup on an agent instance
+ 
+- me.services 
+
+Meshes [TDB]
+defines meshes to be operated for the identity. can be spread over many agents/devices.
+services on the agent belonging to the mesh can be found at me. 
+
+- me.mesh.weaver            overall mesh manager for the identity 
+- me.mesh.controller        the local controller for the local parts of the mesh
+- me.mesh.<name>            the mesh with the <name>
+
+
 
 ### Thatsme private identity directory
 

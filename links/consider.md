@@ -7,4 +7,8 @@ Consider
 - https://futurezone.at/digital-life/onlyfans-zensur-visa-mastercard-zahlungsdienstleister/401480185
     - https://www.derstandard.at/story/2000129108165/nicht-nur-onlyfans-mastercards-neue-spielregeln-erschweren-sexarbeit-im-netz
     - https://futurezone.at/b2b/onlyfans-ceo-porno-sexuelle-inhalte-bann/401482048
-- 
+
+Business Cases
+==============
+
+- https://www.heise.de/tp/features/Krankenhaeuser-als-Profitcenter-6446484.html?seite=all

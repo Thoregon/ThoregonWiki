@@ -70,6 +70,21 @@
 - https://www.heise.de/news/Journalisten-und-Buergerrechtler-sehen-Telegram-Blockade-kritisch-6333872.html
 - https://www.heise.de/news/Deutsche-Wirtschaft-fordert-Schutz-der-Verschluesselung-und-sichere-Behoerden-6333954.html
 - https://www.heise.de/news/Digital-Services-Act-Goldstandard-oder-massiver-Schaden-fuer-die-Wirtschaft-6334005.html
+- https://www.heise.de/news/EU-Abgeordnete-fordern-scharfes-Sanktionsregime-gegen-Desinformation-6339899.html
+- https://www.derstandard.at/story/2000132864527/impfpflicht-ist-gruener-widerspruch-in-sich
+- https://www.heise.de/news/EU-Regeln-fuer-die-Digitalwelt-Experten-sorgen-sich-um-Datenschutz-6341927.html
+- https://www.heise.de/news/EU-weite-Online-Ausweise-Aus-Datenschutzsicht-hochproblematisch-6342498.html
+- https://www.heise.de/tp/features/Uni-Groningen-Dozent-muss-nach-Unterricht-in-Verschwoerungstheorien-aufhoeren-6343633.html?seite=all
+- https://www.wienerzeitung.at/meinung/gastkommentare/2136141-Wie-maechtig-ist-Chinas-starker-Mann-wirklich.html
+- https://www.golem.de/news/web3-die-komplette-finanzialisierung-des-internets-2202-162689.html
+- https://www.heise.de/hintergrund/Webregulierung-Wie-Politik-das-Internet-umstrukturieren-will-6341849.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+- https://www.golem.de/news/unrechtmaessige-datenabfragen-berliner-polizei-muss-daten-an-polizist-herausgeben-2202-162902.html
+- https://www.heise.de/hintergrund/Illegale-Inhalte-im-Netz-Das-NetzDG-und-die-Kooperation-der-Plattformen-6351396.html?seite=all
+- https://www.heise.de/tp/features/Sozialkreditsystem-in-China-Unterstuetzung-Ueberwachung-oder-Steuerung-6351274.html
+- https://www.heise.de/tp/features/Aus-Wohlstand-der-Nationen-wird-Wettbewerb-der-Nationen-6355080.html
+- https://t3n.de/news/mythen-elektromobilitaet-kobalt-1447223/
+- https://www.golem.de/news/gegen-massenueberwachung-buergerrechtler-entwickeln-zehn-grundsaetze-fuer-chatkontrolle-2202-163050.html
+
 
 ## Community, Cooperation, Wealth
 

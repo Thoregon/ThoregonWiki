@@ -1,3 +1,4 @@
+
 Collection of URL's
 ===================
 
@@ -71,6 +72,12 @@ https://www.heise.de/meinung/Richtig-klein-Hat-Modularisierung-versagt-6234193.h
 https://www.heise.de/news/software-architektur-tv-Crossfunktionale-Teams-gezielt-in-den-Abgrund-stuerzen-6263110.html
 https://www.golem.de/news/software-20-dinge-die-ich-in-20-jahren-als-entwickler-gelernt-habe-2111-161015.html
 https://www.heise.de/news/Agile-Methode-Kanban-wird-erwachsen-6274927.html
+https://www.heise.de/hintergrund/IT-Recht-Wie-missverstandenes-Vergaberecht-staatliche-IT-Projekte-behindert-6338795.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+https://www.heise.de/news/software-architektur-tv-Crossfunktionale-Teams-gezielt-in-den-Abgrund-stuerzen-6263110.html
+! https://www.golem.de/news/software-20-dinge-die-ich-in-20-jahren-als-entwickler-gelernt-habe-2111-161015.html
+https://computerwelt.at/news/kommentar/trends-in-der-app-entwicklung-fuer-2022/
+https://computerwelt.at/news/so-verschafft-sich-die-it-abteilung-gehoer/
+https://computerwelt.at/knowhow/outsystems-mendix-microsoft-low-code-plattformen-auf-einen-blick/
 
 !! https://www.heise.de/news/rC3-Mastodon-Matrix-Co-Bausteine-und-Huerden-fuer-dezentrale-Online-Systeme-5000861.html
 
@@ -107,6 +114,7 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - https://www.heise.de/hintergrund/Auf-dem-Pruefstand-Wie-JavaScript-Tests-wieder-lesbar-werden-6188288.html?seite=all
 
 ## Components
+--> https://www.heise.de/ratgeber/Der-erste-Eindruck-zaehlt-README-md-fuer-GitHub-verschoenern-4298666.html?wt_mc=intern.abo.plus.cam-article-teaser.beitrag.cam_teaser.cam_teaser
 
 ### OS
 - ONIRO https://www.golem.de/news/ohne-google-android-oder-amazon-der-open-source-grossangriff-2111-161222.html
@@ -230,3 +238,7 @@ Cart with Credentials Management API
 ## Linux
 
 - https://www.heise.de/ratgeber/LUKS-Verschluesselte-Linux-Systeme-ueber-SSH-entsperren-6157460.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+
+## NFC
+
+- https://www.techstage.de/ratgeber/nfc-tags-fur-android-und-iphone-ab-20-cent/sg34e54?wt_mc=intern.red.techstage.newsticker.7-tage-news.teaser.teaser

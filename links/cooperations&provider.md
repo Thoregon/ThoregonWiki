@@ -26,3 +26,7 @@
 - https://www.digistore24.com/de/
 - https://elopage.com/?locale=de
 - https://www.shopify.com/
+
+# Customer Services, Call Centers
+
+- https://de.wikipedia.org/wiki/Majorel

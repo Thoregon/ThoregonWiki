@@ -8,6 +8,10 @@ Blockchain Integration
 ## CRDT - Blockchain w/o Blockchain
 
 - CRDT instead of bockchain
+    - network not chain
+    - @see: offchain transactions, payment channels
+        - https://de.wikipedia.org/wiki/Lightning-Netzwerk
+        - https://t3n.de/news/ethereum-layer-2-optimism-hacker-1451825/
 - Firewalls for distributed DB must ensure fulfill/reject of transaction
     - signatures
     - contracts
@@ -33,7 +37,31 @@ Blockchain Integration
             - use a hash from this signature as pepper (or salt) for ALL PoW hashes
             - provide browser plugin for security check 
 
-## Ethereum
+## DeFi (decentralized finance)
+
+- https://interledger.org/
+- https://sundaeswap.finance/
+- https://parachains.info/
+- https://solana.com/wormhole
+- https://fixedfloat.com/de/    Token Exchange
+
+Articles
+- https://www.btc-echo.de/academy/bibliothek/defi/
+- https://de.cointelegraph.com/news/sectors-realizing-the-full-potential-of-defi-protocols-in-2020
+- https://de.beincrypto.com/lernen/die-11-besten-defi-tools-zur-maximierung-deiner-defi-investitionen/
+- https://computerwelt.at/news/central-bank-digital-currency-was-sie-ueber-cbdc-wissen-muessen-3/
+- https://t3n.de/news/cardanos-sundaeswap-erreicht-1451449/
+- https://t3n.de/news/avalanche-potential-smart-contract-chain-1435738/
+
+## Coins
+
+- bitcoin
+- Monero
+- Zcash
+
+## Blockchains
+
+### Ethereum
 - https://developers.cloudflare.com/distributed-web/ethereum-gateway
 Identities
 - ERC725: https://erc725alliance.org/
@@ -48,18 +76,31 @@ NFT
 s- ERC721: https://ethereum.org/en/developers/docs/standards/tokens/erc-721/
 - EIP1155: https://eips.ethereum.org/EIPS/eip-1155
 
-## Filecoin
+### Filecoin
 https://www.heise.de/news/Filecoin-Neue-Anreize-fuer-die-Blockchain-als-verteilter-Speicher-im-Internet-5050727.html
 
-## Cardano
+### Cardano
 - https://cardano.org/
 
-## Chainlink
+### Chainlink
 - https://chain.link/
 
-## Uniswap
+### Uniswap
 - https://uniswap.org/
 
-## Polkadot
+### Polkadot
+- 
 
+### Solana
+- https://solana.com/de
 
+### Avalance
+- https://www.avax.network/
+- https://t3n.de/news/avalanche-potential-smart-contract-chain-1435738/
+
+### EOS
+- https://eos.io/
+
+### Tezos
+- https://tezos.com/
+- https://tezoscommons.org/
