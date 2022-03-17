@@ -5,6 +5,7 @@ Collection of URL's
 ## Learning
 
 - https://www.katacoda.com/
+- https://www.web3.university/
 
 ## Essential 
 
@@ -78,6 +79,8 @@ https://www.heise.de/news/software-architektur-tv-Crossfunktionale-Teams-gezielt
 https://computerwelt.at/news/kommentar/trends-in-der-app-entwicklung-fuer-2022/
 https://computerwelt.at/news/so-verschafft-sich-die-it-abteilung-gehoer/
 https://computerwelt.at/knowhow/outsystems-mendix-microsoft-low-code-plattformen-auf-einen-blick/
+https://computerwelt.at/news/spreadsheets-wie-excel-co-ins-verderben-fuehren/
+https://computerwelt.at/news/citizen-developer-fachbereiche-emanzipieren-sich-von-der-it/
 
 !! https://www.heise.de/news/rC3-Mastodon-Matrix-Co-Bausteine-und-Huerden-fuer-dezentrale-Online-Systeme-5000861.html
 
@@ -86,6 +89,7 @@ https://computerwelt.at/knowhow/outsystems-mendix-microsoft-low-code-plattformen
 https://www.heise.de/developer/artikel/Nullreferenzen-So-vermeiden-Sie-den-Billion-Dollar-Mistake-in-JavaScript-und-TypeScript-6221457.html
 https://www.heise.de/developer/artikel/Dependency-Injection-in-JavaScript-5992734.html
 https://www.heise.de/developer/artikel/Das-Adapter-Pattern-in-JavaScript-5073865.html
+https://t3n.de/news/web3-entwicklung-solidity-blockchain-lernen-1454211/
 
 ## Law
 

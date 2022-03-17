@@ -84,6 +84,7 @@
 - https://www.heise.de/tp/features/Aus-Wohlstand-der-Nationen-wird-Wettbewerb-der-Nationen-6355080.html
 - https://t3n.de/news/mythen-elektromobilitaet-kobalt-1447223/
 - https://www.golem.de/news/gegen-massenueberwachung-buergerrechtler-entwickeln-zehn-grundsaetze-fuer-chatkontrolle-2202-163050.html
+- https://www.heise.de/news/Franzoesisches-Verfassungsgericht-versenkt-Vorratsdatenspeicherung-6526940.html
 
 
 ## Community, Cooperation, Wealth

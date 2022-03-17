@@ -232,7 +232,7 @@ Access verifications: Verifies only access to a certain communication/access cap
 Qualified verifications: Verifies the identity 
 
 - person
-    - qualified electronic signature (e.g. handysignatur, https://sproof.io/)
+    - qualified electronic signature (e.g. handysignatur -> ID Austria, https://sproof.io/)
     - identity service provider (e.g. banks, specialized services, authorities, government, ...)
     - EUid   https://www.heise.de/news/EUid-Online-Ausweise-kommen-EU-weit-Facebook-Co-muessen-sie-anerkennen-6061860.html 
 
