@@ -74,3 +74,6 @@ https://www.heise.de/news/Studie-zum-E-Renminbi-Chinas-Digitalwaehrung-macht-die
 https://www.heise.de/news/Encrochat-Hack-Strafverteidiger-haben-massive-rechtsstaatliche-Bedenken-6497325.html
 https://www.heise.de/news/ModifiedElephant-Digitale-Ueberwachung-und-gefaelschte-Beweise-aus-einer-Hand-6510349.html
 https://www.heise.de/news/Polizeihubschrauber-Geschwindigkeitsmessung-und-Objekterkennung-mit-KI-6520730.html
+https://www.heise.de/news/eIDAS-Reform-Sicherheitsexperten-warnen-vor-staatlicher-Webauthentifizierung-6535796.html
+https://www.golem.de/news/qwacs-eu-plan-wuerde-websicherheit-dramatisch-schwaechen-2203-163602.html
+https://www.derstandard.at/story/2000134250136/offener-brief-chatkontrolle-macht-eu-zum-weltmarktfuehrer-bei-der-massenueberwachung

@@ -85,7 +85,10 @@
 - https://t3n.de/news/mythen-elektromobilitaet-kobalt-1447223/
 - https://www.golem.de/news/gegen-massenueberwachung-buergerrechtler-entwickeln-zehn-grundsaetze-fuer-chatkontrolle-2202-163050.html
 - https://www.heise.de/news/Franzoesisches-Verfassungsgericht-versenkt-Vorratsdatenspeicherung-6526940.html
-
+- https://www.wienerzeitung.at/nachrichten/politik/europa/2139806-Putin-ist-nicht-mehr-Herr-der-Lage.html
+- https://www.heise.de/news/NetzDG-Verwaltungsgericht-kippt-BKA-Meldepflicht-fuer-soziale-Netzwerke-6530090.html
+- https://t3n.de/news/zeit-immer-surrealer-anfuehlt-1456970/
+- https://www.heise.de/hintergrund/Russlands-Trennung-vom-Internet-Warum-sie-irreversibel-sein-koennte-6586583.html
 
 ## Community, Cooperation, Wealth
 
