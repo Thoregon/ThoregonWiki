@@ -89,6 +89,11 @@
 - https://www.heise.de/news/NetzDG-Verwaltungsgericht-kippt-BKA-Meldepflicht-fuer-soziale-Netzwerke-6530090.html
 - https://t3n.de/news/zeit-immer-surrealer-anfuehlt-1456970/
 - https://www.heise.de/hintergrund/Russlands-Trennung-vom-Internet-Warum-sie-irreversibel-sein-koennte-6586583.html
+- https://www.heise.de/news/Massnahmen-gegen-Netzsperren-und-Zensur-6606969.html
+- https://www.heise.de/news/Buergerrechtler-Medienfreiheit-und-vielfalt-in-der-EU-nehmen-staendig-weiter-ab-6655083.html
+- https://www.diepresse.com/6119604/wir-brauchen-eine-enquete-was-laeuft-falsch-in-der-justiz
+- https://www.derstandard.at/story/2000134580591/id-austria-und-eidas-europaeische-plaenefuer-die-digitale-identitaet
+- https://www.heise.de/news/Datenschuetzer-KI-Einsatz-bei-Polizei-muss-vollumfaenglich-nachvollziehbar-sein-6662745.html
 
 ## Community, Cooperation, Wealth
 

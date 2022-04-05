@@ -84,15 +84,18 @@ https://computerwelt.at/news/citizen-developer-fachbereiche-emanzipieren-sich-vo
 https://www.cio.de/a/eine-welle-des-scheiterns-kuendigt-sich-an,3679310
 https://www.derstandard.at/story/2000133764958/fehlende-frauen-in-der-it-sind-auch-ein-wirtschaftliches-problem
 https://www.heise.de/ratgeber/Hacken-am-Beispiel-lernen-Programme-geschickt-austricksen-6531011.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+https://www.heise.de/developer/artikel/Warum-zukunftssichere-Architekturen-gefaehrlich-sind-6655162.html
+https://www.golem.de/news/agilitaet-in-konzernen-das-problem-sind-nicht-die-entwickler-2204-163113.html
 
 !! https://www.heise.de/news/rC3-Mastodon-Matrix-Co-Bausteine-und-Huerden-fuer-dezentrale-Online-Systeme-5000861.html
 
-### JS & ECMA Script & Node
+### JS & ECMA Script & Node & WASM
 
 https://www.heise.de/developer/artikel/Nullreferenzen-So-vermeiden-Sie-den-Billion-Dollar-Mistake-in-JavaScript-und-TypeScript-6221457.html
 https://www.heise.de/developer/artikel/Dependency-Injection-in-JavaScript-5992734.html
 https://www.heise.de/developer/artikel/Das-Adapter-Pattern-in-JavaScript-5073865.html
 https://t3n.de/news/web3-entwicklung-solidity-blockchain-lernen-1454211/
+https://www.computerwoche.de/a/wie-jedes-unternehmen-cloud-nativ-werden-kann,3552891
 
 ## Law
 
@@ -122,12 +125,20 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 
 ## Components
 --> https://www.heise.de/ratgeber/Der-erste-Eindruck-zaehlt-README-md-fuer-GitHub-verschoenern-4298666.html?wt_mc=intern.abo.plus.cam-article-teaser.beitrag.cam_teaser.cam_teaser
+--> https://www.youtube.com/watch?v=qXUl3VsbA6o
+
+### Dev Environments
+
+- https://bit.dev/docs/getting-started/installing-bit/installing-bit
+    - https://github.com/teambit/bit
 
 ### OS
 - ONIRO https://www.golem.de/news/ohne-google-android-oder-amazon-der-open-source-grossangriff-2111-161222.html
     - open source OS (IoT/Mobile)
 - yocto - create custom linux distros 
     - https://www.yoctoproject.org/
+- https://www.nushell.sh/
+- the fuck: correct errors in previous console commands     https://github.com/nvbn/thefuck
 
 ### JS
 
@@ -160,6 +171,8 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 
 - https://alpinejs.dev/     https://github.com/alpinejs/alpine/tree/main/packages/alpinejs/src 
 - https://riot.js.org/
+- https://mantine.dev/
+
 
 #### Layout and Views
 
@@ -176,7 +189,13 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - https://www.heise.de/hintergrund/The-Good-the-Bad-and-the-Ugly-Analysen-effektiv-visualisieren-6132768.html
 - https://shirinsplayground.netlify.app/
 
-Image Compression
+- !! Data Analysis: https://github.com/javascriptdata/danfojs
+
+#### Spreadsheets
+
+- https://github.com/nocodb/nocodb
+
+#### Image Compression
 
 - https://fengyuanchen.github.io/compressorjs/
     - https://github.com/fengyuanchen/compressorjs
@@ -198,6 +217,10 @@ Cart with Credentials Management API
 - https://polykart-credential-payment.appspot.com/account
 - https://github.com/agektmr/shop/tree/credential-payment
 
+## Auth
+
+- https://github.com/supertokens/supertokens-core
+
 ## WebWorkers
 
 - [Debugging Web Workers](https://lihautan.com/Debugging%20web%20workers)
@@ -208,6 +231,14 @@ Cart with Credentials Management API
     - Docs: https://github.com/dtube/docs/tree/master/faq
 - [peertube](https://joinpeertube.org/de/)
 - [veezee.tube](https://veezee.tube/)
+
+## Private Newtorks
+
+- https://github.com/getlantern
+- https://www.torproject.org/
+- https://geti2p.net/en/
+- https://freenetproject.org/index.html
+- https://www.gnunet.org/en/index.html
 
 ## Distibuted Storage
 
@@ -232,7 +263,6 @@ Cart with Credentials Management API
 - https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/CORE_COURSE_B
 - https://github.com/libp2p/js-libp2p-examples/tree/master/chat/browser/05-Discovery
 - https://proto.school/introduction-to-libp2p/resources/
-- 
 
 ### Talks about WebTorrent
 
@@ -241,6 +271,12 @@ Cart with Credentials Management API
 - Sep 2014 (NodeConf EU) – [WebTorrent Mad Science](https://www.youtube.com/watch?v=BVBXkzVjvPc) (first working WebTorrent demo)
 - May 2014 (JS.LA) – [How I Built a BitTorrent Client in the Browser](https://vimeo.com/97324247) (progress update; node client working)
 - Oct 2013 (RealtimeConf) – [WebRTC Black Magic](https://vimeo.com/77265280) (first mention of idea for WebTorrent)
+
+## Search Engines
+
+- https://github.com/prabhatsharma/zinc
+- https://github.com/meilisearch/meilisearch
+- Apache Solr/Lucene    https://solr.apache.org/ 
 
 ## Linux
 

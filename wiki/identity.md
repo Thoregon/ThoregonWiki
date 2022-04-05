@@ -61,7 +61,11 @@ support strong anti-correlation to avoid tracking
 
 --> https://www.w3.org/TR/vc-data-model/#privacy-considerations
 
+see: https://www.heise.de/news/Umfrage-Mehrheit-der-Internetnutzer-fuerchtet-Identitaetsdiebstahl-6598880.html
+
 - use one-time bearer tokens
+
+--> MFA Bombing: https://www.golem.de/news/lapsus-hackergruppe-umgeht-2fa-mit-einfachem-trick-2203-164236.html
 
 ## Basic structure of an identity (SSI)
 
@@ -270,6 +274,9 @@ Contracts
 - login via 
     - QR/NFC -> 2nd device e.g. mobile
     - Thatsme Directory with any verified credential e.g. email, phone
+
+- expose a OpenID Connect Service for others
+    - OIDC SIOP     https://openid.net/specs/openid-connect-self-issued-v2-1_0.html
 
 ## Request Queue
 

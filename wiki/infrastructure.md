@@ -3,6 +3,13 @@ Infrastructure
 
 ## Software
 
+### Container
+
+Thoregon
+- GUN Relay (..../gun/examples/http.js)     (see: wss://matter.thoregon.io)
+- OIDC SIOP     (https://openid.net/specs/openid-connect-self-issued-v2-1_0.html)
+    - OpenID Provider for existing and other legacy services 
+
 ### System
 
 - [Kubernetes](https://kubernetes.io/)
@@ -20,6 +27,7 @@ Infrastructure
         - https://www.nginx.com/products/nginx/live-activity-monitoring/
         - https://github.com/NginxProxyManager/nginx-proxy-manager
         - https://github.com/schenkd/nginx-ui
+- [Proxmox](https://www.proxmox.com/de/) Open Source Infrastucture
 
 ### DevOps
 - [FLUX](https://github.com/fluxcd/flux2) deploy to Kubernetes Clusters

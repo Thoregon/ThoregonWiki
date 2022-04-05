@@ -70,6 +70,8 @@ https://globalplatform.org/
 
 FIDO, U2F
 
+--> MFA Bombing: https://www.golem.de/news/lapsus-hackergruppe-umgeht-2fa-mit-einfachem-trick-2203-164236.html
+
 ## Service
 
 

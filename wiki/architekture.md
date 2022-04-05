@@ -22,6 +22,9 @@ easy integrate legacy systems
 
 [OpenAPIS](https://www.openapis.org/)
 [AsyncAPI](https://www.asyncapi.com/)
+    - https://www.asyncapi.com/docs/getting-started/coming-from-openapi
+    - https://www.asyncapi.com/docs/specifications/v2.3.0
+    - https://studio.asyncapi.com/?url=https://raw.githubusercontent.com/asyncapi/asyncapi/v2.2.0/examples/simple.yml
 
 [ERC165](https://medium.com/coinmonks/ethereum-standard-erc165-explained-63b54ca0d273)
 

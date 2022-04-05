@@ -5,6 +5,16 @@ Blockchain Integration
 
 - https://www.heise.de/news/US-Regierung-fordert-Gesetz-zur-Regulierung-von-Stablecoins-6245165.html    
 
+## to be considered & pitfalls  
+
+- Moxie's Web3 first impressions: https://moxie.org/2022/01/07/web3-first-impressions.html
+- Abstract: https://cryptoslate.com/moxie-marlinspike-heres-whats-wrong-with-web3/
+- Opinion: https://www.coindesk.com/layer2/2022/01/10/is-moxie-marlinspike-right-about-web-3/
+- Vitalik's critisism: https://www.reddit.com/r/ethereum/comments/ryk3it/my_first_impressions_of_web3/hrrz15r/
+
+- https://www.heise.de/meinung/Web3-Im-vollen-Galopp-vor-die-Wand-ein-Kommentar-6537611.html?seite=all
+- https://www.heise.de/hintergrund/Entwicklung-des-Web3-eine-Bestandsaufnahme-6537074.html?seite=all
+
 ## CRDT - Blockchain w/o Blockchain
 
 - CRDT instead of bockchain
@@ -36,6 +46,13 @@ Blockchain Integration
                 - websites, ...
             - use a hash from this signature as pepper (or salt) for ALL PoW hashes
             - provide browser plugin for security check 
+
+## Dev 
+
+- https://infura.io/
+- https://www.alchemy.com/
+- https://www.web3.university/
+- https://t3n.de/news/web3-entwicklung-solidity-blockchain-lernen-1454211/
 
 ## DeFi (decentralized finance)
 

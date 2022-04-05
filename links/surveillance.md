@@ -77,3 +77,9 @@ https://www.heise.de/news/Polizeihubschrauber-Geschwindigkeitsmessung-und-Objekt
 https://www.heise.de/news/eIDAS-Reform-Sicherheitsexperten-warnen-vor-staatlicher-Webauthentifizierung-6535796.html
 https://www.golem.de/news/qwacs-eu-plan-wuerde-websicherheit-dramatisch-schwaechen-2203-163602.html
 https://www.derstandard.at/story/2000134250136/offener-brief-chatkontrolle-macht-eu-zum-weltmarktfuehrer-bei-der-massenueberwachung
+https://www.golem.de/news/visumfreies-reisen-us-behoerden-wollen-zugriff-auf-fingerabdruecke-in-deutschland-2203-164056.html
+https://www.heise.de/hintergrund/Operation-Safety-Net-Wie-die-US-Polizei-Aktivisten-ueberwachte-6606888.html
+https://www.golem.de/news/telefon-als-ortungswanze-polizei-nutzt-google-maps-fuer-geolokalisierung-2203-164112.html
+https://www.heise.de/news/The-Kill-Cloud-Wenn-die-Drohne-zuschlaegt-und-das-Internet-toetet-6647797.html?seite=all
+https://fm4.orf.at/stories/3022970/
+https://www.heise.de/hintergrund/Wie-eine-Polizei-App-in-den-USA-Daten-von-Aktivisten-und-Journalisten-sammelt-6625150.html
