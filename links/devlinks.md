@@ -140,6 +140,11 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - https://www.nushell.sh/
 - the fuck: correct errors in previous console commands     https://github.com/nvbn/thefuck
 
+### Terminal
+
+- https://xtermjs.org/
+- https://github.com/butlerx/wetty
+
 ### JS
 
 - [voca](https://vocajs.com/)                  The ultimate JavaScript string library

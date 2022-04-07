@@ -10,6 +10,8 @@ Thoregon
 - OIDC SIOP     (https://openid.net/specs/openid-connect-self-issued-v2-1_0.html)
     - OpenID Provider for existing and other legacy services 
 
+--> [storj](https://www.storj.io/)
+
 ### System
 
 - [Kubernetes](https://kubernetes.io/)
