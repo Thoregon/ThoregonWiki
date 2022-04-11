@@ -94,7 +94,9 @@
 - https://www.diepresse.com/6119604/wir-brauchen-eine-enquete-was-laeuft-falsch-in-der-justiz
 - https://www.derstandard.at/story/2000134580591/id-austria-und-eidas-europaeische-plaenefuer-die-digitale-identitaet
 - https://www.heise.de/news/Datenschuetzer-KI-Einsatz-bei-Polizei-muss-vollumfaenglich-nachvollziehbar-sein-6662745.html
-
+- https://orf.at/stories/3258466/
+    - https://www.v-dem.net/
+    
 ## Community, Cooperation, Wealth
 
 - https://www.heise.de/tp/features/Nur-so-eine-Idee-Startkapital-fuer-alle-Volljaehrigen-6296304.html
