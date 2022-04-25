@@ -4,6 +4,7 @@ Blockchain Integration
 ## Articles
 
 - https://www.heise.de/news/US-Regierung-fordert-Gesetz-zur-Regulierung-von-Stablecoins-6245165.html    
+- https://t3n.de/news/oracles-off-chain-daten-smart-contract-1465490/
 
 ## to be considered & pitfalls  
 
@@ -14,6 +15,7 @@ Blockchain Integration
 
 - https://www.heise.de/meinung/Web3-Im-vollen-Galopp-vor-die-Wand-ein-Kommentar-6537611.html?seite=all
 - https://www.heise.de/hintergrund/Entwicklung-des-Web3-eine-Bestandsaufnahme-6537074.html?seite=all
+- https://www.golem.de/news/beanstalk-hacker-erbeuten-kryptogeld-mit-mehrheitsentscheidung-2204-164677.html
 
 ## CRDT - Blockchain w/o Blockchain
 

@@ -86,6 +86,7 @@ https://www.derstandard.at/story/2000133764958/fehlende-frauen-in-der-it-sind-au
 https://www.heise.de/ratgeber/Hacken-am-Beispiel-lernen-Programme-geschickt-austricksen-6531011.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 https://www.heise.de/developer/artikel/Warum-zukunftssichere-Architekturen-gefaehrlich-sind-6655162.html
 https://www.golem.de/news/agilitaet-in-konzernen-das-problem-sind-nicht-die-entwickler-2204-163113.html
+https://computerwelt.at/knowhow/so-koennen-sie-technische-schulden-minimieren-und-reduzieren/
 
 !! https://www.heise.de/news/rC3-Mastodon-Matrix-Co-Bausteine-und-Huerden-fuer-dezentrale-Online-Systeme-5000861.html
 
@@ -190,6 +191,7 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 #### Graphic, Charts & Images
 
 [Chart.js](https://www.chartjs.org/)
+[Mermaid](https://github.com/mermaid-js/mermaid)
 
 - https://www.heise.de/hintergrund/The-Good-the-Bad-and-the-Ugly-Analysen-effektiv-visualisieren-6132768.html
 - https://shirinsplayground.netlify.app/

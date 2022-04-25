@@ -83,3 +83,4 @@ https://www.golem.de/news/telefon-als-ortungswanze-polizei-nutzt-google-maps-fue
 https://www.heise.de/news/The-Kill-Cloud-Wenn-die-Drohne-zuschlaegt-und-das-Internet-toetet-6647797.html?seite=all
 https://fm4.orf.at/stories/3022970/
 https://www.heise.de/hintergrund/Wie-eine-Polizei-App-in-den-USA-Daten-von-Aktivisten-und-Journalisten-sammelt-6625150.html
+https://www.heise.de/hintergrund/EncroChat-Hack-Rechtliche-Probleme-erschweren-Ermittlungen-6666953.html?seite=all

@@ -238,7 +238,9 @@ Qualified verifications: Verifies the identity
 - person
     - qualified electronic signature (e.g. handysignatur -> ID Austria, https://sproof.io/)
     - identity service provider (e.g. banks, specialized services, authorities, government, ...)
-    - EUid   https://www.heise.de/news/EUid-Online-Ausweise-kommen-EU-weit-Facebook-Co-muessen-sie-anerkennen-6061860.html 
+    - EUid   
+        - https://www.heise.de/news/EUid-Online-Ausweise-kommen-EU-weit-Facebook-Co-muessen-sie-anerkennen-6061860.html
+        - https://www.heise.de/hintergrund/EUid-Das-sind-die-Plaene-fuer-eine-europaeische-digitale-Identitaet-6666724.html?seite=all 
 
 @see 
 --> https://www.heise.de/tests/Digitale-Unterschrift-Dienste-fuer-private-und-geschaeftliche-Signaturen-im-Test-6272191.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser

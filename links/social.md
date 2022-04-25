@@ -95,8 +95,9 @@
 - https://www.derstandard.at/story/2000134580591/id-austria-und-eidas-europaeische-plaenefuer-die-digitale-identitaet
 - https://www.heise.de/news/Datenschuetzer-KI-Einsatz-bei-Polizei-muss-vollumfaenglich-nachvollziehbar-sein-6662745.html
 - https://orf.at/stories/3258466/
-    - https://www.v-dem.net/
-    
+    - https://www.v-dem.net/    varieties of democracy
+- https://www.heise.de/hintergrund/DGB-will-Ueberwachung-von-Beschaeftigten-in-Ausnahmefaellen-erlauben-6668165.html?seite=all
+
 ## Community, Cooperation, Wealth
 
 - https://www.heise.de/tp/features/Nur-so-eine-Idee-Startkapital-fuer-alle-Volljaehrigen-6296304.html
