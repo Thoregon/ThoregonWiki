@@ -18,6 +18,7 @@ Thoregon
     - https://kubernetes.io/docs/home/
     - https://github.com/godaddy/kubernetes-client
     - https://github.com/kubernetes-client/javascript/tree/master/examples
+    - https://computerwelt.at/knowhow/13-tools-die-kubernetes-besser-machen/
     - ! https://www.redhat.com/sysadmin/compose-kubernetes-podman
 - [Podman](https://podman.io/)
     - https://docs.podman.io/en/latest/Commands.html
@@ -30,6 +31,16 @@ Thoregon
         - https://github.com/NginxProxyManager/nginx-proxy-manager
         - https://github.com/schenkd/nginx-ui
 - [Proxmox](https://www.proxmox.com/de/) Open Source Infrastucture
+- [IPFS Container](https://docs.ipfs.io/how-to/run-ipfs-inside-docker/#set-up)
+    - https://hub.docker.com/r/ipfs/go-ipfs/
+    - https://cluster.ipfs.io/documentation/guides/k8s/
+    - https://medium.com/rahasak/deploy-ipfs-cluster-with-kubernetes-c4cd8d64b7c8
+- [Ceph](https://docs.ceph.com/en/quincy/)  Cluster File System/Object Store
+    - https://www.linux-magazin.de/ausgaben/2019/12/rook-2/
+    - https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ceph-cluster-within-kubernetes-using-rook
+    - https://medium.com/@adam.goossens/so-you-want-to-build-a-ceph-cluster-7ff9a033411d
+    - https://www.storage-insider.de/was-ist-ein-ceph-cluster-a-1038874/
+    - https://docs.ceph.com/en/latest/cephfs/quota/  
 
 ### DevOps
 - [FLUX](https://github.com/fluxcd/flux2) deploy to Kubernetes Clusters
@@ -59,6 +70,10 @@ Info:
     - https://www.ionos.at/
 
 - https://aws.amazon.com/de/lightsail/
+
+## Terminal Server (Linux)
+
+- https://www.youtube.com/watch?v=sAllRma_0xc
 
 ## Test
 

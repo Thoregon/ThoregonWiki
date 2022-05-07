@@ -97,6 +97,9 @@
 - https://orf.at/stories/3258466/
     - https://www.v-dem.net/    varieties of democracy
 - https://www.heise.de/hintergrund/DGB-will-Ueberwachung-von-Beschaeftigten-in-Ausnahmefaellen-erlauben-6668165.html?seite=all
+- https://www.golem.de/news/urheberrecht-eugh-weist-klage-gegen-uploadfilter-vollstaendig-zurueck-2204-164852.html
+    - https://www.heise.de/news/EU-Urheberrecht-EuGH-weist-Polens-Klage-gegen-Upload-Filter-ab-7065701.html
+
 
 ## Community, Cooperation, Wealth
 

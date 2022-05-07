@@ -1,4 +1,4 @@
-Securtiy links collection
+Security Links Collection
 -------------------------
 
 !! Log4Shell: 
@@ -17,7 +17,9 @@ https://www.zdnet.com/article/cornell-university-researchers-discover-code-poiso
 https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf
 https://www.heise.de/news/Google-Docs-verschluesseln-auch-vor-Google-6071028.html
 https://t3n.de/news/apple-meta-tauschten-daten-hacker-1463021/
-
+https://www.heise.de/news/Bug-in-Java-macht-digitale-Signaturen-wertlos-6847744.html
+    https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/
+https://computerwelt.at/knowhow/remote-arbeit-eine-zero-trust-revolution-ist-unerlaesslich/
 
 https://www.sofie-iot.eu/
 

@@ -50,8 +50,10 @@ Service Agent - duplicate self (friend harvey)
 - Orbiter
 - Seconder
 
+## Articles
 
 - https://www.heise.de/hintergrund/Auslegungssache-37-Anonymitaet-Der-heilige-Gral-der-DSGVO-6024895.html
+- https://www.heise.de/news/Elektronische-Identitaet-Eine-staatliche-Digitalverfassung-soll-s-richten-7067800.html
 
 ## Securtiy
 
@@ -245,6 +247,11 @@ Qualified verifications: Verifies the identity
 @see 
 --> https://www.heise.de/tests/Digitale-Unterschrift-Dienste-fuer-private-und-geschaeftliche-Signaturen-im-Test-6272191.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 --> https://www.heise.de/news/Digitaler-Ausweisstandard-mDL-Breite-Unterstuetzung-in-USA-erwartet-6304304.html
+--> https://fm4.orf.at/stories/3023561/ 
+--> Zero Trust https://computerwelt.at/knowhow/remote-arbeit-eine-zero-trust-revolution-ist-unerlaesslich/
+        - don't ever use the offered method (http link) of authentication, use your own (SSI + MFA)
+        - don't use the person/service contacting you as a source of information about who is contacting you. Check signature with thatsme app
+        - authenticate always using the thatsme app
 
 Contracts
     

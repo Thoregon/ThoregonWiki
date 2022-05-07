@@ -12,6 +12,11 @@ Collection of URL's
 - https://en.wikipedia.org/wiki/Well-known_URI
 - https://www.w3.org/OWL/
 
+## IDE
+
+- https://github.com/theonedev/onedev
+    - https://www.heise.de/news/DevOps-Software-OneDev-jetzt-mit-Issue-Linking-6293424.html
+
 ## Sources
 
 - http://offlinefirst.org/
@@ -87,6 +92,9 @@ https://www.heise.de/ratgeber/Hacken-am-Beispiel-lernen-Programme-geschickt-aust
 https://www.heise.de/developer/artikel/Warum-zukunftssichere-Architekturen-gefaehrlich-sind-6655162.html
 https://www.golem.de/news/agilitaet-in-konzernen-das-problem-sind-nicht-die-entwickler-2204-163113.html
 https://computerwelt.at/knowhow/so-koennen-sie-technische-schulden-minimieren-und-reduzieren/
+https://computerwelt.at/knowhow/die-aufkommenden-risiken-von-open-source/
+https://computerwelt.at/knowhow/7-brandheisse-it-outsourcing-trends-und-7-abkuehlende/
+https://www.heise.de/hintergrund/IT-Leiter-der-Stadt-Schwaebisch-Hall-Unter-Linux-leidet-die-Produktivitaet-6678160.html
 
 !! https://www.heise.de/news/rC3-Mastodon-Matrix-Co-Bausteine-und-Huerden-fuer-dezentrale-Online-Systeme-5000861.html
 

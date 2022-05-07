@@ -7,6 +7,7 @@ General Security requirements
 
 - [Sicher kommunizieren](https://www.heise.de/hintergrund/Sicher-kommunizieren-Wie-moderne-Kommunikationsverschluesselung-funktioniert-5023121.html)
 - https://www.heise.de/hintergrund/Cyberangriffe-Gefahr-durch-Hackbacks-6007526.html?seite=all
+- https://www.it-daily.net/shortnews/33692-welche-phishing-mails-verleiten-mitarbeiter-besonders-zum-klicken
 
 ## Tracking
 https://www.heise.de/news/Browser-Fingerprinting-Installierte-Apps-als-Tracking-Komplizen-6071347.html

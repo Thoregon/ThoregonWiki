@@ -1,6 +1,13 @@
 Integration of IPFS
 ===================
 
+JS IPFS
+- Node
+    - https://github.com/ipfs/js-ipfs
+- Browser
+    - https://js.ipfs.io/    
+    - !! https://github.com/ipfs-examples/js-ipfs-examples/tree/master/examples
+
 Deploy Websites to IPFS
 - https://developers.cloudflare.com/distributed-web/ipfs-gateway
     - https://developers.cloudflare.com/distributed-web/ipfs-gateway/connecting-website
@@ -10,6 +17,18 @@ Pinning
 - https://github.com/ipfs-shipyard/ipfs-deploy/tree/master/src/pinners
     - https://decentralify.runfission.com/
 - https://docs.ipfs.io/how-to/websites-on-ipfs/single-page-website/#pinning-files
+- https://docs.ipfs.io/how-to/work-with-pinning-services/#create-your-own-pinning-service
+
+Pinning Services
+    - https://sourceforge.net/software/product/Pinata/alternatives
+- https://www.pinata.cloud/
+    - https://docs.pinata.cloud/api-pinning/pinning-services-api
+- https://temporal.cloud/temporal/
+(Web3)
+- https://filecoin.io/
+- https://crust.network/
+- https://infura.io/
+
 
 Streaming
 - https://stackoverflow.com/questions/29671771/how-can-i-stream-a-video-from-a-serviceworker
@@ -20,6 +39,10 @@ Streaming
 Integration
 - https://docs.ipfs.io/how-to/browser-tools-frameworks/
 
+## Docu & Tutorials
+
+- https://proto.school/tutorials?course=ipfs
+- https://github.com/ipfs/js-ipfs/tree/master/docs/core-api
 
 ## Other Components/Systems
 
