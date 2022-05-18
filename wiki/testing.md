@@ -14,5 +14,5 @@ Testing
 
 ## Software & Components
 
-- [Nightwatch.js - End-to-End testing solution for web applications and websites](https://nightwatchjs.org/)
-
+- [Nightwatch.js](https://nightwatchjs.org/) End-to-End testing solution for web applications and websites
+- [Cypress](https://testing-library.com/docs/cypress-testing-library/intro/) end-to-end browser tests

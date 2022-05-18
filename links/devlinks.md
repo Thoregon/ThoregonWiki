@@ -2,6 +2,10 @@
 Collection of URL's
 ===================
 
+## Freelance Platforms etc.
+
+- https://www.heise.de/news/US-Regierung-warnt-vor-versehentlicher-Anstellung-von-IT-Experten-aus-Nordkorea-7096548.html
+
 ## Learning
 
 - https://www.katacoda.com/
@@ -95,6 +99,7 @@ https://computerwelt.at/knowhow/so-koennen-sie-technische-schulden-minimieren-un
 https://computerwelt.at/knowhow/die-aufkommenden-risiken-von-open-source/
 https://computerwelt.at/knowhow/7-brandheisse-it-outsourcing-trends-und-7-abkuehlende/
 https://www.heise.de/hintergrund/IT-Leiter-der-Stadt-Schwaebisch-Hall-Unter-Linux-leidet-die-Produktivitaet-6678160.html
+https://computerwelt.at/news/teure-generalisten-oder-wichtige-troubleshooter/
 
 !! https://www.heise.de/news/rC3-Mastodon-Matrix-Co-Bausteine-und-Huerden-fuer-dezentrale-Online-Systeme-5000861.html
 

@@ -275,10 +275,12 @@ Contracts
     
 ### Foreign Devices
 
-- no local secure identity
-- needs at least one of the users service agents
-- SA does signing and encrypting -> may be a lot slower
-- local secret worker for verifiying & decryption does not store anything on the local device
+- Service Agent Secrecy 
+    - no local secure identity
+    - needs at least one of the users service agents
+    - SA does signing and encrypting -> may be a lot slower
+    - private (local) secret service worker for verifying & decryption does not store anything on the local device
+    - [Confidential Computing](https://www.heise.de/news/Google-dichtet-Speicherverschluesselung-des-AMD-Epyc-ab-7082019.html) 
 
 - login via 
     - QR/NFC -> 2nd device e.g. mobile

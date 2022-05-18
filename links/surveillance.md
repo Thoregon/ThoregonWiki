@@ -84,3 +84,9 @@ https://www.heise.de/news/The-Kill-Cloud-Wenn-die-Drohne-zuschlaegt-und-das-Inte
 https://fm4.orf.at/stories/3022970/
 https://www.heise.de/hintergrund/Wie-eine-Polizei-App-in-den-USA-Daten-von-Aktivisten-und-Journalisten-sammelt-6625150.html
 https://www.heise.de/hintergrund/EncroChat-Hack-Rechtliche-Probleme-erschweren-Ermittlungen-6666953.html?seite=all
+https://www.golem.de/news/chatkontrolle-ccc-warnt-vor-fundamental-fehlgeleiteter-technologie-2205-165187.html
+https://www.heise.de/news/Taetersuche-per-Geofence-US-Techkonzerne-unterstuetzen-geplantes-Verbot-7081054.html
+https://www.heise.de/news/Pegasus-Ausschuss-Spyware-stiehlt-auf-Dauer-die-Identitaet-der-Opfer-7081231.html
+!! https://fm4.orf.at/stories/3024321/
+!! https://www.heise.de/news/Chatkontrolle-und-Websperren-EU-Kommission-legt-die-Axt-an-die-Grundrechte-7089880.html
+https://www.heise.de/news/Ueberwachung-und-Repression-Aktivisten-beklagen-multiple-Grundrechtskrise-7098184.html

@@ -99,7 +99,11 @@
 - https://www.heise.de/hintergrund/DGB-will-Ueberwachung-von-Beschaeftigten-in-Ausnahmefaellen-erlauben-6668165.html?seite=all
 - https://www.golem.de/news/urheberrecht-eugh-weist-klage-gegen-uploadfilter-vollstaendig-zurueck-2204-164852.html
     - https://www.heise.de/news/EU-Urheberrecht-EuGH-weist-Polens-Klage-gegen-Upload-Filter-ab-7065701.html
-
+- https://www.wienerzeitung.at/nachrichten/reflexionen/vermessungen/2146391-Lesen-kann-gefaehrlich-sein.html
+- https://www.heise.de/news/EU-Datenschuetzer-haben-schwere-Bedenken-gegen-geplanten-Data-Act-7078949.html
+- https://www.wienerzeitung.at/themen/recht/recht/2147212-Hoechstgericht-verweigert-de-facto-2G-Lockdown-Pruefung.html
+- https://www.wienerzeitung.at/nachrichten/politik/europa/2147661-Gefangen-im-Kriegsalgorithmus.html
+- https://www.golem.de/news/internetinfrastruktur-chinas-digitale-seidenstrasse-2205-164888.html
 
 ## Community, Cooperation, Wealth
 

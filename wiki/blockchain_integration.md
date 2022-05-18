@@ -13,6 +13,7 @@ Blockchain Integration
 - Opinion: https://www.coindesk.com/layer2/2022/01/10/is-moxie-marlinspike-right-about-web-3/
 - Vitalik's critisism: https://www.reddit.com/r/ethereum/comments/ryk3it/my_first_impressions_of_web3/hrrz15r/
 
+- https://t3n.de/news/eip-4844-ethereum-erfinder-otherside-1470443/
 - https://www.heise.de/meinung/Web3-Im-vollen-Galopp-vor-die-Wand-ein-Kommentar-6537611.html?seite=all
 - https://www.heise.de/hintergrund/Entwicklung-des-Web3-eine-Bestandsaufnahme-6537074.html?seite=all
 - https://www.golem.de/news/beanstalk-hacker-erbeuten-kryptogeld-mit-mehrheitsentscheidung-2204-164677.html
