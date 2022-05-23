@@ -40,6 +40,10 @@ Collection of URL's
 
 - https://refactoring.com/
 
+### Articles
+
+- https://computerwelt.at/news/ohne-low-code-keine-prozessdigitalisierung/
+
 ### Hints
 
 - https://www.heise.de/meinung/Kommentar-zu-log4j-Es-funktioniert-wie-spezifiziert-6294476.html
@@ -100,6 +104,7 @@ https://computerwelt.at/knowhow/die-aufkommenden-risiken-von-open-source/
 https://computerwelt.at/knowhow/7-brandheisse-it-outsourcing-trends-und-7-abkuehlende/
 https://www.heise.de/hintergrund/IT-Leiter-der-Stadt-Schwaebisch-Hall-Unter-Linux-leidet-die-Produktivitaet-6678160.html
 https://computerwelt.at/news/teure-generalisten-oder-wichtige-troubleshooter/
+https://computerwelt.at/knowhow/zero-trust-network-access-ztna-vor-dem-kauf/
 
 !! https://www.heise.de/news/rC3-Mastodon-Matrix-Co-Bausteine-und-Huerden-fuer-dezentrale-Online-Systeme-5000861.html
 
