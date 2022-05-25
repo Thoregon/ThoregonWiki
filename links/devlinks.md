@@ -141,6 +141,7 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - https://nightwatchjs.org/
 
 - https://www.heise.de/hintergrund/Auf-dem-Pruefstand-Wie-JavaScript-Tests-wieder-lesbar-werden-6188288.html?seite=all
+- https://www.heise.de/hintergrund/Qualitaetsmanagement-Chaos-Engineering-als-Resilienzkonzept-7095868.html?seite=all
 
 ## Components
 --> https://www.heise.de/ratgeber/Der-erste-Eindruck-zaehlt-README-md-fuer-GitHub-verschoenern-4298666.html?wt_mc=intern.abo.plus.cam-article-teaser.beitrag.cam_teaser.cam_teaser

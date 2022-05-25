@@ -59,6 +59,10 @@ Info:
 
 ### Anbieter
 
+- Google Kubernetes Engine
+   - https://cloud.google.com/kubernetes-engine?hl=de
+   - https://www.heise.de/news/Kosten-der-Google-Kubernetes-Engine-vorab-berechnen-zumindest-grob-7120708.html
+
 - https://www.netcup.de/vserver/vps.php -> 40,80TB Traffic
 - https://www.hosteurope.de/
     - https://www.hosteurope.de/Server/Virtual-Server/  -> Unlimited Traffic?
