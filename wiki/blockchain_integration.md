@@ -18,6 +18,8 @@ Blockchain Integration
 - https://www.heise.de/hintergrund/Entwicklung-des-Web3-eine-Bestandsaufnahme-6537074.html?seite=all
 - https://www.golem.de/news/beanstalk-hacker-erbeuten-kryptogeld-mit-mehrheitsentscheidung-2204-164677.html
 
+- https://www.heise.de/news/Offener-Brief-Bruce-Schneier-warnt-US-Politik-vor-Kryptowaehrungs-Lobbyismus-7129230.html
+
 ## CRDT - Blockchain w/o Blockchain
 
 - CRDT instead of bockchain

@@ -90,3 +90,6 @@ https://www.heise.de/news/Pegasus-Ausschuss-Spyware-stiehlt-auf-Dauer-die-Identi
 !! https://fm4.orf.at/stories/3024321/
 !! https://www.heise.de/news/Chatkontrolle-und-Websperren-EU-Kommission-legt-die-Axt-an-die-Grundrechte-7089880.html
 https://www.heise.de/news/Ueberwachung-und-Repression-Aktivisten-beklagen-multiple-Grundrechtskrise-7098184.html
+https://www.golem.de/news/alterskontrolle-und-netzsperren-es-geht-um-viel-mehr-als-nur-die-chatkontrolle-2205-165644.html
+    https://lilithwittmann.medium.com/mit-dem-personalausweis-zum-onlineshopping-wie-selbstbestimmt-sind-selbstbestimmte-identit%C3%A4ten-f096a5bdd55a
+https://www.heise.de/news/Chatkontrolle-Grundrechtsorganisationen-protestieren-gegen-EU-Entwurf-7134657.html
