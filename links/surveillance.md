@@ -93,3 +93,4 @@ https://www.heise.de/news/Ueberwachung-und-Repression-Aktivisten-beklagen-multip
 https://www.golem.de/news/alterskontrolle-und-netzsperren-es-geht-um-viel-mehr-als-nur-die-chatkontrolle-2205-165644.html
     https://lilithwittmann.medium.com/mit-dem-personalausweis-zum-onlineshopping-wie-selbstbestimmt-sind-selbstbestimmte-identit%C3%A4ten-f096a5bdd55a
 https://www.heise.de/news/Chatkontrolle-Grundrechtsorganisationen-protestieren-gegen-EU-Entwurf-7134657.html
+https://futurezone.at/digital-life/bluetooth-fingerprint-smartphone-tracking-sicherheit/402037230
