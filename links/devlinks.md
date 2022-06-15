@@ -105,6 +105,7 @@ https://computerwelt.at/knowhow/7-brandheisse-it-outsourcing-trends-und-7-abkueh
 https://www.heise.de/hintergrund/IT-Leiter-der-Stadt-Schwaebisch-Hall-Unter-Linux-leidet-die-Produktivitaet-6678160.html
 https://computerwelt.at/news/teure-generalisten-oder-wichtige-troubleshooter/
 https://computerwelt.at/knowhow/zero-trust-network-access-ztna-vor-dem-kauf/
+https://itwelt.at/knowhow/9-arten-von-computerviren-und-wie-sie-ihr-unwesen-treiben/
 
 !! https://www.heise.de/news/rC3-Mastodon-Matrix-Co-Bausteine-und-Huerden-fuer-dezentrale-Online-Systeme-5000861.html
 
