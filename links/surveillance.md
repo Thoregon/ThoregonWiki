@@ -94,3 +94,4 @@ https://www.golem.de/news/alterskontrolle-und-netzsperren-es-geht-um-viel-mehr-a
     https://lilithwittmann.medium.com/mit-dem-personalausweis-zum-onlineshopping-wie-selbstbestimmt-sind-selbstbestimmte-identit%C3%A4ten-f096a5bdd55a
 https://www.heise.de/news/Chatkontrolle-Grundrechtsorganisationen-protestieren-gegen-EU-Entwurf-7134657.html
 https://futurezone.at/digital-life/bluetooth-fingerprint-smartphone-tracking-sicherheit/402037230
+https://www.heise.de/news/EU-Staaten-fuer-automatisierten-EU-weiten-Abgleich-von-DNA-und-Gesichtsdaten-7142200.html
