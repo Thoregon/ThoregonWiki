@@ -6,6 +6,8 @@ Surveillance links collection
 Cookies via DNS CNAME
 https://fm4.orf.at/stories/3012370/
 
+!! Manipulationsschutz für Versand https://www.heise.de/news/Random-Mosaic-Fremdzugriffe-mit-Bohnen-Linsen-oder-buntem-Reis-erkennen-7155080.html
+
 Biometrische Generalschlüssel
 !!! https://www.heise.de/news/Forscher-entdecken-Generalschluessel-fuer-Systeme-zur-Gesichtserkennung-6156605.html
 !!! https://www.heise.de/security/meldung/Generalschluessel-fuer-Fingerabdruckscanner-Master-Prints-entsperren-Smartphones-4220782.html
