@@ -32,8 +32,9 @@ Collection of URL's
 - https://jsfiddle.net/
 - http://sqlfiddle.com/
 
-### Intended Network Routing
+## Network Proticols & Routing
 
+- https://itwelt.at/news/absurd-schneller-algorithmus-fuer-den-netzwerkdurchfluss/
 - https://www.heise.de/select/ix/2021/12/softlinks/zx73?wt_mc=pred.red.ix.ix122021.116.softlink.softlink
 
 ## Dev Methods
@@ -259,7 +260,7 @@ Cart with Credentials Management API
 - [peertube](https://joinpeertube.org/de/)
 - [veezee.tube](https://veezee.tube/)
 
-## Private Newtorks
+## Private Networks/Chat/Colaboration ... 
 
 - https://github.com/getlantern
 - https://www.torproject.org/

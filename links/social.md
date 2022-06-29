@@ -104,6 +104,7 @@
 - https://www.wienerzeitung.at/themen/recht/recht/2147212-Hoechstgericht-verweigert-de-facto-2G-Lockdown-Pruefung.html
 - https://www.wienerzeitung.at/nachrichten/politik/europa/2147661-Gefangen-im-Kriegsalgorithmus.html
 - https://www.golem.de/news/internetinfrastruktur-chinas-digitale-seidenstrasse-2205-164888.html
+- https://itwelt.at/news/riskante-irrtuemer-5-social-engineering-fehlannahmen/
 
 ## Community, Cooperation, Wealth
 
