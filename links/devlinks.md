@@ -266,6 +266,10 @@ Cart with Credentials Management API
 - https://geti2p.net/en/
 - https://freenetproject.org/index.html
 - https://www.gnunet.org/en/index.html
+- https://cryptpad.fr/
+- https://code.briarproject.org/briar
+    - https://code.briarproject.org/briar/briar/-/wikis/home
+    - https://www.heise.de/ratgeber/Darknet-So-funktioniert-der-ausfallsichere-Messenger-Briar-7141420.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 
 ## Distibuted Storage
 
