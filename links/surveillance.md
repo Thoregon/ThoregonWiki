@@ -100,3 +100,4 @@ https://www.heise.de/news/EU-Staaten-fuer-automatisierten-EU-weiten-Abgleich-von
 https://www.heise.de/news/Europols-Mandat-zur-Massenueberwachung-tritt-in-Kraft-7157752.html
 https://www.heise.de/news/E-Evidence-EU-Gremien-einigen-sich-auf-internationalen-Zugriff-auf-Cloud-Daten-7157347.html
 https://www.heise.de/news/Oberster-Schweizer-Datenschuetzer-besorgt-ueber-europaeisches-Ueberwachungsbegehren-7157243.html
+https://www.heise.de/news/Bitcoin-Co-EU-Gremien-einigen-sich-auf-Aus-fuer-anonyme-Kryptozahlungen-7158513.html
