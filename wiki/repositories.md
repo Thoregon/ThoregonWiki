@@ -14,6 +14,17 @@ In a component descriptor, registries can be tapped by
 'Free' repositories may be rejected by users. The will be blacklists
 for unregistered repositories. Users can define exceptions for blacklist entries.
 
+There is a set of repositories which are used by default:
+- thoregon: base system
+- thatsme: identity and base communication and payment
+- neuland: public apps
+
+Additional there is a set of repositories defined by the user
+
+## Service Worker
+
+puls offers an API to define repository references (per window) for the app
+
 
 ## Components
 
