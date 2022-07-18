@@ -32,3 +32,9 @@ Components must be signed
 Avoid replacing of components by name
 -> https://www.heise.de/news/Sicherheitsforscher-bricht-ueber-Open-Source-Repositories-bei-PayPal-Co-ein-5051635.html
 -> https://futurezone.at/digital-life/microsoft-apple-netflix-und-tesla-gehackt/401184265
+
+## Security
+
+Neuland must prevent flooding with malware
+- https://www.heise.de/news/Vorbereitung-auf-Krypto-Miner-Angriff-Hunderte-verdaechtige-Pakete-auf-npm-7166163.html
+

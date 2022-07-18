@@ -3,6 +3,8 @@ Security in Thoregon
 
 beware of 🐉..
 
+--> Zero Trust Architekture: https://www.computerwoche.de/a/7-grundsaetze-die-sie-kennen-sollten,3551595
+
 ## Client
 
 Browser Javascript is hostile to cryptography. The problem with running crypto code in Javascript is that
