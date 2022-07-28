@@ -69,6 +69,21 @@ see: https://www.heise.de/news/Umfrage-Mehrheit-der-Internetnutzer-fuerchtet-Ide
 
 --> MFA Bombing: https://www.golem.de/news/lapsus-hackergruppe-umgeht-2fa-mit-einfachem-trick-2203-164236.html
 
+### Own Security Service Agent
+
+- can sign on behalf of SSI
+
+## Include Other Systems
+
+- SSI
+    - UPort
+    - ....
+
+- Password managers
+    - https://www.vaultproject.io/  (hashicorp)
+    - https://bitwarden.com
+    - https://1password.com
+
 ## Basic structure of an identity (SSI)
 
 - me

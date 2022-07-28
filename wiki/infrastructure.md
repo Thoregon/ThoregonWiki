@@ -20,6 +20,18 @@ Thoregon
     - https://github.com/kubernetes-client/javascript/tree/master/examples
     - https://computerwelt.at/knowhow/13-tools-die-kubernetes-besser-machen/
     - ! https://www.redhat.com/sysadmin/compose-kubernetes-podman
+    - install:
+        - https://www.youtube.com/watch?v=uUupRagM7m0&list=PL2We04F3Y_41jYdadX55fdJplDvgNGENo
+        - https://www.youtube.com/watch?v=UWg3ORRRF60
+    - Select CNI
+        - https://platform9.com/blog/the-ultimate-guide-to-using-calico-flannel-weave-and-cilium/
+    - Persistent Storage
+        - https://www.youtube.com/watch?v=X1FiU-6SwDc
+        - https://www.youtube.com/watch?v=-hX1cqs4K68
+    - Reverse Proxy
+        - How to scale docker containers using Nginx as reverse proxy and load balancer
+            -> https://www.youtube.com/watch?v=9aOpRhm33oM
+        - https://www.youtube.com/watch?v=spbkCihFpQ8
 - [Podman](https://podman.io/)
     - https://docs.podman.io/en/latest/Commands.html
 - [Prometeus](https://prometheus.io/) Appliance Monitoring    
@@ -27,6 +39,7 @@ Thoregon
 - [Nagios](https://www.nagios.org/) Network Monitoring
 - [Nginx](https://www.nginx.com/) HTTP Proxy
     - [Nginx Proxy Manager](https://nginxproxymanager.com/guide/)
+        - https://www.youtube.com/watch?v=aRURfnY2ikg
         - https://www.nginx.com/products/nginx/live-activity-monitoring/
         - https://github.com/NginxProxyManager/nginx-proxy-manager
         - https://github.com/schenkd/nginx-ui
@@ -41,7 +54,11 @@ Thoregon
     - https://medium.com/@adam.goossens/so-you-want-to-build-a-ceph-cluster-7ff9a033411d
     - https://www.storage-insider.de/was-ist-ein-ceph-cluster-a-1038874/
     - https://docs.ceph.com/en/latest/cephfs/quota/  
-
+- DNS Providers
+    - world4you
+        - https://github.com/NerLOR/World4YouApi
+        - https://www.world4you.com/faq/de/domains/faq.dns-verwaltung-kundenbereich.html
+        
 ### DevOps
 - [FLUX](https://github.com/fluxcd/flux2) deploy to Kubernetes Clusters
 - [Krius](https://github.com/infracloudio/krius) manage Prometheus, Thanos & friends across multiple clusters easily for scale
@@ -67,6 +84,7 @@ Info:
 - https://www.hosteurope.de/
     - https://www.hosteurope.de/Server/Virtual-Server/  -> Unlimited Traffic?
 - https://www.hetzner.com/de/cloud  -> 20TB Traffic
+    - https://www.hetzner.com/storage/storage-box   --> 
 - https://www.hosting.de/
     - https://www.hosting.de/server/ -> 5TB Traffic
 - https://www.ionos.de/
