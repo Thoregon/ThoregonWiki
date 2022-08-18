@@ -245,6 +245,12 @@ Cart with Credentials Management API
 - https://polykart-credential-payment.appspot.com/account
 - https://github.com/agektmr/shop/tree/credential-payment
 
+## Docutools & generators
+
+- https://docute.org/
+- https://www.mkdocs.org/
+- https://docusaurus.io/
+
 ## Auth
 
 - https://github.com/supertokens/supertokens-core

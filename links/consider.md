@@ -7,6 +7,7 @@ Consider
 - https://futurezone.at/digital-life/onlyfans-zensur-visa-mastercard-zahlungsdienstleister/401480185
     - https://www.derstandard.at/story/2000129108165/nicht-nur-onlyfans-mastercards-neue-spielregeln-erschweren-sexarbeit-im-netz
     - https://futurezone.at/b2b/onlyfans-ceo-porno-sexuelle-inhalte-bann/401482048
+- https://www.heise.de/hintergrund/Warum-Twitter-Trends-noch-immer-so-schlecht-sind-7195123.html
 
 Business Cases
 ==============
