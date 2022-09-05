@@ -105,6 +105,11 @@
 - https://www.wienerzeitung.at/nachrichten/politik/europa/2147661-Gefangen-im-Kriegsalgorithmus.html
 - https://www.golem.de/news/internetinfrastruktur-chinas-digitale-seidenstrasse-2205-164888.html
 - https://itwelt.at/news/riskante-irrtuemer-5-social-engineering-fehlannahmen/
+- https://www.heise.de/news/Nacktscanner-Unbedachte-Fotos-vom-Kind-fuer-den-Arzt-Google-Dienste-gesperrt-7238900.html
+  - !! https://www.heise.de/meinung/Content-Scanner-und-Kinderschutz-Wer-kontrolliert-Google-7239350.html
+- https://www.heise.de/hintergrund/Ueberwachung-mit-KI-Suedafrika-ist-eine-Warnung-fuer-den-Rest-der-Welt-7219325.html?seite=all
+- https://www.heise.de/hintergrund/Recht-Wie-die-EU-digitale-Maerkte-regulieren-will-7244006.html?seite=all
+
 
 ## Community, Cooperation, Wealth
 

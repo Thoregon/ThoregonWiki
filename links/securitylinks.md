@@ -21,6 +21,7 @@ https://www.heise.de/news/Bug-in-Java-macht-digitale-Signaturen-wertlos-6847744.
     https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/
 https://computerwelt.at/knowhow/remote-arbeit-eine-zero-trust-revolution-ist-unerlaesslich/
 https://www.computerwoche.de/a/datacenter-sicherheit-als-griff-ins-klo,3553701
+https://www.heise.de/news/Unverschluesselte-Access-Tokens-Sicherheitsluecke-in-tausenden-Apps-7252134.html
 
 https://www.sofie-iot.eu/
 

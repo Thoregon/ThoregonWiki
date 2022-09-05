@@ -6,6 +6,7 @@ General Security requirements
 ## General
 
 - [Sicher kommunizieren](https://www.heise.de/hintergrund/Sicher-kommunizieren-Wie-moderne-Kommunikationsverschluesselung-funktioniert-5023121.html)
+- [7 Cryptography Concepts EVERY Developer Should Know](https://www.youtube.com/watch?v=NuyzuNBFWxQ)
 - https://www.heise.de/hintergrund/Cyberangriffe-Gefahr-durch-Hackbacks-6007526.html?seite=all
 - https://www.it-daily.net/shortnews/33692-welche-phishing-mails-verleiten-mitarbeiter-besonders-zum-klicken
 
