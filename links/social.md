@@ -109,7 +109,7 @@
   - !! https://www.heise.de/meinung/Content-Scanner-und-Kinderschutz-Wer-kontrolliert-Google-7239350.html
 - https://www.heise.de/hintergrund/Ueberwachung-mit-KI-Suedafrika-ist-eine-Warnung-fuer-den-Rest-der-Welt-7219325.html?seite=all
 - https://www.heise.de/hintergrund/Recht-Wie-die-EU-digitale-Maerkte-regulieren-will-7244006.html?seite=all
-
+- https://www.heise.de/news/EU-Polizeidatenabgleich-Jeder-wird-verdaechtig-warnen-Buergerrechtler-7260262.html
 
 ## Community, Cooperation, Wealth
 

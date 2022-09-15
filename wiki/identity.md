@@ -121,8 +121,8 @@ Credentials:
 - me.apps.<appname>.credentials
 - me.apps.<appname>.<instance>.credentials
 Persistence:
-- me.apps.<appname>.root
-- me.apps.<appname>.<instance>.root
+- me.apps.<appname>.home
+- me.apps.<appname>.<instance>.home
 Setup (Settings):
 - me.apps.<appname>.setup
 - me.apps.<appname>.<instance>.setup

@@ -5,6 +5,7 @@ Blockchain Integration
 
 - https://www.heise.de/news/US-Regierung-fordert-Gesetz-zur-Regulierung-von-Stablecoins-6245165.html    
 - https://t3n.de/news/oracles-off-chain-daten-smart-contract-1465490/
+- https://www.computerwoche.de/a/das-proof-of-abc,3612715
 
 ## to be considered & pitfalls  
 
