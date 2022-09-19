@@ -8,10 +8,11 @@ the path is relative to the app instances home
 export it as module default 
 
 ````javascript
-import { $ser, $ref } from "/evolux.util/lib/testutil.mjs";
+import { $ser, $ref } from "/evolux.util/lib/datautil.mjs";
 
 export default {
     home: 'myobjects',
+    keyed: true,
     $: '/thoregon.archetim/lib/directory.mjs',  // class of the collection to use; default is Collection (/thoregon.archetim/lib/collection.mjs)
     items: [
         {}, {}, {} // ...
@@ -19,7 +20,7 @@ export default {
 }
 ````
 ````javascript
-import { $ser, $ref } from "/evolux.util/lib/testutil.mjs";
+import { $ser, $ref } from "/evolux.util/lib/datautil.mjs";
 
 export default {
     home: 'myobjects',
