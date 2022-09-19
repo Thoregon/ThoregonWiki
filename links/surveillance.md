@@ -102,3 +102,4 @@ https://www.heise.de/news/E-Evidence-EU-Gremien-einigen-sich-auf-internationalen
 https://www.heise.de/news/Oberster-Schweizer-Datenschuetzer-besorgt-ueber-europaeisches-Ueberwachungsbegehren-7157243.html
 https://www.heise.de/news/Bitcoin-Co-EU-Gremien-einigen-sich-auf-Aus-fuer-anonyme-Kryptozahlungen-7158513.html
 !! https://fm4.orf.at/stories/3025834/
+https://www.golem.de/news/schweiz-alles-andere-als-ein-datenschutzparadies-2209-167640.html
