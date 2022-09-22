@@ -6,6 +6,7 @@ Blockchain Integration
 - https://www.heise.de/news/US-Regierung-fordert-Gesetz-zur-Regulierung-von-Stablecoins-6245165.html    
 - https://t3n.de/news/oracles-off-chain-daten-smart-contract-1465490/
 - https://www.computerwoche.de/a/das-proof-of-abc,3612715
+- https://www.computerwoche.de/a/crypto-wallets-zukunft-der-identitaet,3612775
 
 ## to be considered & pitfalls  
 
@@ -13,6 +14,7 @@ Blockchain Integration
 - Abstract: https://cryptoslate.com/moxie-marlinspike-heres-whats-wrong-with-web3/
 - Opinion: https://www.coindesk.com/layer2/2022/01/10/is-moxie-marlinspike-right-about-web-3/
 - Vitalik's critisism: https://www.reddit.com/r/ethereum/comments/ryk3it/my_first_impressions_of_web3/hrrz15r/
+- https://www.computerwoche.de/a/ein-ueberwachungssystem-das-nutzer-auspluendert,3612836
 
 - https://t3n.de/news/eip-4844-ethereum-erfinder-otherside-1470443/
 - https://www.heise.de/meinung/Web3-Im-vollen-Galopp-vor-die-Wand-ein-Kommentar-6537611.html?seite=all
@@ -62,6 +64,8 @@ Blockchain Integration
 
 ## DeFi (decentralized finance)
 
+- https://basicattentiontoken.org/de/  !!
+
 - https://interledger.org/
 - https://sundaeswap.finance/
 - https://parachains.info/
@@ -81,6 +85,12 @@ Articles
 - bitcoin
 - Monero
 - Zcash
+
+## Interledger/Bridge/Sidechain
+
+- https://de.wikipedia.org/wiki/Lightning-Netzwerk
+- https://wormhole.com/
+- https://interledger.org/
 
 ## Blockchains
 

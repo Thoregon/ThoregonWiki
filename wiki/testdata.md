@@ -12,7 +12,6 @@ import { $ser, $ref } from "/evolux.util/lib/datautil.mjs";
 
 export default {
     home: 'myobjects',
-    keyed: true,
     $: '/thoregon.archetim/lib/directory.mjs',  // class of the collection to use; default is Collection (/thoregon.archetim/lib/collection.mjs)
     items: [
         {}, {}, {} // ...
