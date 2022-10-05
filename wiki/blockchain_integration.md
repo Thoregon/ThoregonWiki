@@ -23,6 +23,8 @@ Blockchain Integration
 
 - https://www.heise.de/news/Offener-Brief-Bruce-Schneier-warnt-US-Politik-vor-Kryptowaehrungs-Lobbyismus-7129230.html
 
+- https://www.heise.de/news/Ethereum-Kontroverse-um-neues-Konzept-fuer-umkehrbare-Transaktionen-7279559.html
+- 
 ## CRDT - Blockchain w/o Blockchain
 
 - CRDT instead of bockchain

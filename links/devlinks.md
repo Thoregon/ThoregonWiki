@@ -15,6 +15,8 @@ Collection of URL's
 
 - https://en.wikipedia.org/wiki/Well-known_URI
 - https://www.w3.org/OWL/
+- [Raft Alorithmus - Distributed Systems](https://www.heise.de/hintergrund/Wie-verteilte-Systeme-dank-Raft-Algorithmus-zusammenarbeiten-7269322.html) !!
+- Documentation https://www.computerwoche.de/a/so-erstellen-sie-eine-moderne-dokumentation-fuer-anwendungen,3547812
 
 ## IDE
 
@@ -49,8 +51,9 @@ Collection of URL's
 
 - https://www.heise.de/meinung/Kommentar-zu-log4j-Es-funktioniert-wie-spezifiziert-6294476.html
 
-### Tutorials
- 
+## Tutorials & Anleitungen & Erklärungen
+
+- https://www.heise.de/ratgeber/ESP32-Daten-austauschen-mit-dem-offenen-Netzwerkprotokoll-MQTT-7269469.html?seite=all
 - https://www.codementor.io/@tiagolopesferreira/asynchronous-iterators-in-javascript-jl1yg8la1
 
 ### Comparisions
@@ -58,9 +61,7 @@ Collection of URL's
 - https://www.youtube.com/watch?v=cuHDQhDhvPE
 
 ## API's
-
-https://developers.google.com/ml-kit
-https://cloud.google.com/vision/docs/samples/vision-batch-annotate-files-gcs#vision_batch_annotate_files_gcs-nodejs
+--> Tools & Software (MD)
 
 ## Articles
 
@@ -143,12 +144,16 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - http://sqlfiddle.com/
 - https://nightwatchjs.org/
 
+  - Memory Leaks: https://github.com/facebookincubator/memlab
+
 - https://www.heise.de/hintergrund/Auf-dem-Pruefstand-Wie-JavaScript-Tests-wieder-lesbar-werden-6188288.html?seite=all
 - https://www.heise.de/hintergrund/Qualitaetsmanagement-Chaos-Engineering-als-Resilienzkonzept-7095868.html?seite=all
 
 ## Components
 --> https://www.heise.de/ratgeber/Der-erste-Eindruck-zaehlt-README-md-fuer-GitHub-verschoenern-4298666.html?wt_mc=intern.abo.plus.cam-article-teaser.beitrag.cam_teaser.cam_teaser
 --> https://www.youtube.com/watch?v=qXUl3VsbA6o
+
+--> Software BOM https://www.heise.de/hintergrund/SBOMs-Wie-Stuecklisten-fuer-Software-funktionieren-7265763.html?seite=all
 
 ### Dev Environments
 
@@ -267,6 +272,8 @@ Cart with Credentials Management API
 - [peertube](https://joinpeertube.org/de/)
 - [veezee.tube](https://veezee.tube/)
 
+- https://blog.cloudflare.com/announcing-cloudflare-calls/
+
 ## Private Networks/Chat/Colaboration ... 
 
 - https://github.com/getlantern
@@ -290,6 +297,16 @@ Cart with Credentials Management API
 - [Skynet](https://siasky.net/)
     - Docs: https://siasky.net/docs/#introduction
     - Blog: https://blog.sia.tech/skynet-bdf0209d6d34
+
+## IndexedDB
+
+- https://www.raymondcamden.com/2015/04/17/indexeddb-and-limits
+- https://gist.github.com/pesterhazy/4de96193af89a6dd5ce682ce2adff49a
+- https://stackoverflow.com/questions/30580958/database-get-blocked-when-another-tab-of-same-application-is-open
+- https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB#version_changes_while_a_web_app_is_open_in_another_tab
+- https://www.nerd.vision/post/how-we-solved-a-case-where-indexeddb-did-not-connect
+- https://developer.mozilla.org/en-US/docs/Web/API/IDBOpenDBRequest/blocked_event
+- 
 
 ###  Multicodec
 

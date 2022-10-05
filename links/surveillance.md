@@ -16,6 +16,8 @@ https://www.heise.de/hintergrund/Fake-Face-Generatoren-verraten-Ausgangsbilder-6
 Apple Photo Scann
     https://www.heise.de/news/iPhone-Scanning-auf-Kinderpornos-Apple-nennt-Abdrehmoeglichkeit-6157178.html
 
+! https://itwelt.at/news/so-verwischen-sie-ihren-digitalen-fussabdruck-2/
+
 ! https://www.derstandard.at/story/2000128373445/jedes-land-hat-cyberstreitkraefte-warum-pegasus-nur-ein-teil-des
 https://www.heise.de/news/Gutachten-Aufnahme-von-Fingerabdruecken-in-Ausweis-ist-rechtswidrig-5076241.html
 https://www.heise.de/hintergrund/Mobiltelefonie-soll-privater-werden-5072562.html
@@ -103,3 +105,4 @@ https://www.heise.de/news/Oberster-Schweizer-Datenschuetzer-besorgt-ueber-europa
 https://www.heise.de/news/Bitcoin-Co-EU-Gremien-einigen-sich-auf-Aus-fuer-anonyme-Kryptozahlungen-7158513.html
 !! https://fm4.orf.at/stories/3025834/
 https://www.golem.de/news/schweiz-alles-andere-als-ein-datenschutzparadies-2209-167640.html
+https://www.heise.de/news/EuGH-Urteil-So-wollen-die-EU-Staaten-bei-der-Fluggastueberwachung-tricksen-7274737.html?seite=all

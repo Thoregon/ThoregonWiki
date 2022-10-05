@@ -110,12 +110,19 @@
 - https://www.heise.de/hintergrund/Ueberwachung-mit-KI-Suedafrika-ist-eine-Warnung-fuer-den-Rest-der-Welt-7219325.html?seite=all
 - https://www.heise.de/hintergrund/Recht-Wie-die-EU-digitale-Maerkte-regulieren-will-7244006.html?seite=all
 - https://www.heise.de/news/EU-Polizeidatenabgleich-Jeder-wird-verdaechtig-warnen-Buergerrechtler-7260262.html
+- https://www.golem.de/news/militaerischer-weitblick-in-toys-1992-ein-vergessener-wenngleich-prophetischer-film-2209-168017.html
+- https://www.heise.de/hintergrund/Deglobalisierung-Wie-sich-das-globale-Dorf-veraendert-7276375.html?seite=all
+- https://www.heise.de/news/Deutschland-sicher-im-Netz-2-Faktor-Authentifizierung-als-Geissel-der-Menschheit-7271367.html
+- https://itwelt.at/news/kommentar/sind-wardrobing-und-account-sharing-betrag/
+- 
+
 
 ## Community, Cooperation, Wealth
 
 - https://www.heise.de/tp/features/Nur-so-eine-Idee-Startkapital-fuer-alle-Volljaehrigen-6296304.html
 
 ## Energy
+- https://t3n.de/news/bitcoins-einfluss-auf-die-umwelt-btc-macht-01-prozent-der-treibhausgasemissionen-aus-1501892/
 - https://www.heise.de/meinung/Kommentar-Was-wirkliche-Technologieoffenheit-fuer-die-Gasbranche-bedeuten-wuerde-6037332.html
 - https://www.heise.de/tp/features/Warum-die-Bitcoin-Apokalypse-ausbleibt-6141273.html?seite=all
 - https://www.heise.de/tp/features/Nicht-gewusst-womit-E-Autos-fahren-Die-Stromluege-des-Peter-Altmaier-6139171.html

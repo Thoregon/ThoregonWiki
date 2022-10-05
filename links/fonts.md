@@ -39,7 +39,7 @@ Noto Serif JP   --> Überschrift
 Open Sans
 
 Proxima Nova    --> Text
-Avenir          --> Text
+Avenir          --> Text    
 LL Brown        --> Text !
 Noto Sans JP    --> Text
 Monserrat       --> Text
@@ -54,15 +54,22 @@ Caveat                  --> Handwrite
 Covered By Your Grace   --> Handwrite
 Nanum Pen Script        --> Handwrite
 
+Gute Fonts
+==========
 
-Monserat
 HelveticaNeue
 Roboto (Condensed)
+
+
+Monserat                    https://fonts.adobe.com/fonts/montserrat
+Noto Sans                   https://fonts.google.com/noto/specimen/Noto+Sans
+Avenir Next LT PRO          https://www.linotype.com/de/2090/avenir-next.html
+
+
 Muli	(Google)
 Syncpoate
 
 Varela+Round
-Avenir Next LT PRO
 Whitney Light
 Whitney Condensed Book
 Lato
@@ -94,6 +101,12 @@ Pathway Gothic One
 Yanone Kaffeesatz
 Titillium Web
 Trivia Grotesk R2
+Ubuntu
+Trebuchet ms
+
+New Urban Gardening:
+Brandon Grotesque    https://www.myfonts.com/fonts/hvdfonts/brandon-grotesque/
+
 
 Commercial:
 ------------
