@@ -114,6 +114,7 @@
 - https://www.heise.de/hintergrund/Deglobalisierung-Wie-sich-das-globale-Dorf-veraendert-7276375.html?seite=all
 - https://www.heise.de/news/Deutschland-sicher-im-Netz-2-Faktor-Authentifizierung-als-Geissel-der-Menschheit-7271367.html
 - https://itwelt.at/news/kommentar/sind-wardrobing-und-account-sharing-betrag/
+- https://futurezone.at/netzpolitik/gchq-jeremy-fleming-beidou-digitalwaehrung-china-technologie-tiktok/402178539
 - 
 
 

@@ -51,7 +51,9 @@ the descriptor gives hints where to install an app service
 
 ## service implementation
 
-provide an implementation for a service. the implementation itself will become the producer 
+provide an implementation for a service. the implementation itself can be a plain js class with no requirements
+to extend any framework class. it will become the producer.
+
 
 the service will be accessible by the consumer, which is a facade to the service producer.
 it supplies the API of the producer
@@ -59,7 +61,7 @@ it supplies the API of the producer
 ### lifecycle
 
 - install
-- attach to an app instance
+- attach to a handle and an app instance
 - activate
 - deactivate
 - uninstall
@@ -71,10 +73,11 @@ install:      async init(settings) {}
 - the settings specified in the configuration, service can add a listener to react on modifications
 - will be called only once after the service is installed
 
-attach app:   async attach(appinstance) {}
-- hand over the app instance to the service 
-- in case of install init() will be called be4 attach()
-- will be called only once at all
+attach app:   async attach(handle, appinstance) {}
+- hand over the handle and th app instance to the service
+  - handle      ... persistent root for the service. use handle.settings {/thoregon.truCloud/lib/service/ServiceHandle.mjs}
+  - appinstance ... the app instance the service works for
+- will be called every time be4 the producer will be activated
 - there is no 'detach' from app instance! uninstall an reinstall with another app instance
 
 activate:     async activate() {}

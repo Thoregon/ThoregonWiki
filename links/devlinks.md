@@ -65,6 +65,7 @@ Collection of URL's
 
 ## Articles
 
+https://www.computerwoche.de/a/8-anzeichen-dass-ihre-low-code-loesung-nichts-taugt,3612973
 https://www.heise.de/hintergrund/Eine-nerdige-Ode-an-den-Kaffee-Entwickler-Mana-und-Code-Beschleuniger-6068740.html?seite=all
 https://www.heise.de/news/EuGH-Recht-auf-Reverse-Engineering-zur-Fehlerkorrektur-6215679.html
 https://www.heise.de/hintergrund/Softwareethik-Value-Design-als-Leitlinie-moderner-Softwareentwicklung-5057784.html
