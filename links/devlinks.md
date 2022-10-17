@@ -121,6 +121,8 @@ https://www.heise.de/developer/artikel/Das-Adapter-Pattern-in-JavaScript-5073865
 https://t3n.de/news/web3-entwicklung-solidity-blockchain-lernen-1454211/
 https://www.computerwoche.de/a/wie-jedes-unternehmen-cloud-nativ-werden-kann,3552891
 
+- https://emscripten.org/
+
 ## Law
 
 https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Hacking-Werkzeug-6234994.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
@@ -272,6 +274,11 @@ Cart with Credentials Management API
     - Docs: https://github.com/dtube/docs/tree/master/faq
 - [peertube](https://joinpeertube.org/de/)
 - [veezee.tube](https://veezee.tube/)
+
+### Video Editing in Browser
+- https://www.heise.de/select/ix/2022/7/2202510170179106872
+  - https://docs.opencv.org/3.4/d5/d10/tutorial_js_root.html
+  - https://google.github.io/mediapipe/getting_started/javascript.html
 
 - https://blog.cloudflare.com/announcing-cloudflare-calls/
 

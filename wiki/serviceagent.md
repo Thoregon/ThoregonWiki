@@ -69,24 +69,24 @@ it supplies the API of the producer
 there is a hook for each phase. the methods may be implemented on the producer.
 no error will rise if one is missing.
 
-install:      async init(settings) {}   
+install:      ````async init(settings) {}````   
 - the settings specified in the configuration, service can add a listener to react on modifications
 - will be called only once after the service is installed
 
-attach app:   async attach(handle, appinstance) {}
+attach app:   ````async attach(handle, appinstance) {}````
 - hand over the handle and th app instance to the service
   - handle      ... persistent root for the service. use handle.settings {/thoregon.truCloud/lib/service/ServiceHandle.mjs}
   - appinstance ... the app instance the service works for
 - will be called every time be4 the producer will be activated
 - there is no 'detach' from app instance! uninstall an reinstall with another app instance
 
-activate:     async activate() {}
+activate:     ````async activate() {}````
 - will be called every time the service is activated
 
-deactivate:     async deactivate() {}
+deactivate:     ````async deactivate() {}````
 - will be called every time the service is activated
 
-uninstall:      async quit() {}
+uninstall:      ````async quit() {}````
 - deactivate() will be called first be4 quit()
 - will be called only once before the service is uninstalled
 

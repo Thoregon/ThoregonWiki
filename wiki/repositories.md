@@ -1,6 +1,8 @@
 Repositories
 ============
 
+--> see also /thoregon.truCloud/doc/repositories.md
+
 ## Global Registry 
 
 Dorifer is the Thore͛gon registry for repositories. Everybody can
@@ -15,9 +17,10 @@ In a component descriptor, registries can be tapped by
 for unregistered repositories. Users can define exceptions for blacklist entries.
 
 There is a set of repositories which are used by default:
+- private : the users override repo 
 - thoregon: base system
-- thatsme: identity and base communication and payment
-- neuland: public apps
+- thatsme : identity and base communication and payment ()
+- neuland : public apps
 
 Additional there is a set of repositories defined by the user
 
