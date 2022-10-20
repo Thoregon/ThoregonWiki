@@ -70,6 +70,14 @@ class MyWebService extends RestFull {
 }
 ````
 
+### Annotations
+
+
+
+````js
+````
+
+
 ### Config
 simply specify a webservice
 
