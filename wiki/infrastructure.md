@@ -18,6 +18,8 @@ Thoregon
     - https://kubernetes.io/docs/home/
     - https://github.com/godaddy/kubernetes-client
     - https://github.com/kubernetes-client/javascript/tree/master/examples
+    - Kubernetes Automation: https://www.kubermatic.com/
+      - https://github.com/kubermatic/kubeone
     - https://computerwelt.at/knowhow/13-tools-die-kubernetes-besser-machen/
     - ! https://www.redhat.com/sysadmin/compose-kubernetes-podman
     - install:
