@@ -5,13 +5,95 @@ Expose services from Thoregon as web services.
 
 Thoregon supports REST and Mail API's.
 
-This feature requires a real server to exec the service,
-it can't run just with IPFS or on a (local) machine which
+This feature requires a real server to exec the service,  
+it can't run just with IPFS or on a (local) machine which  
 is not accessible from the WEB.
 
 ## Create the dispatcher for the endpoints
 
-vani͛llaT provides three methods to define webservices.
+the class representing the service must be installed as service in a service agent.
+
+### Annotations
+
+annotate classes to become REST services:  
+import the required annotations before use
+
+Class level declarations
+#### @Restfull
+declare this class as a REST full service and define the entrypoints  
+it can be installed as a service on a service agent
+
+#### @Path
+used on class level to specify the base path to the service
+parameters 
+
+Method level declarations. Function parameters for Get, Put ...
+
+{ auth, params, query, content }
+- auth: reference to the SSI if authenticated
+- params: named path parameters
+- query: query parameters from url
+- content: body from request
+
+#### @Get
+declare a GET method with path and path parameters.
+e.g. @Get("greet/{name}")
+
+#### @Put
+declare a PUT method with path and path parameters.
+
+#### @Post
+declare a POST method with path and path parameters.
+
+#### @Patch
+declare a PATCH method with path and path parameters.
+
+#### @Delete
+declare a DELETE method with path and path parameters.
+
+#### @Head
+declare a HEAD method with path and path parameters.
+
+#### @Auth
+declare if this method can only be invoked when authenticated.
+
+#### @Consumes
+specify the content type this methods can handle.
+
+#### @Produces
+specify headers what this method produces
+
+Example:  
+https://'host'/helloworld/greet/Charlie
+
+````js
+import { Restfull, Path, Auth, Get, Produces } from "/evolux.web";
+
+"@Restfull"
+"@Path('helloworld')"
+export default class HelloWorld {
+
+    "@Auth(false)"
+    "@Get('greet/{name}')"
+    "@Produces({ 'Content-Type': 'text/html' })"
+    greet({ auth, params, query, content } = {}) {
+        return `<html><body><p>Hello ${this.myfunction()} ${params.name ?? 'Stranger'}!</p></body></html>`
+    }
+}
+
+HelloWorld.checkIn(import.meta);
+````
+
+#### Extensions to be made
+
+Param Specification. Assign request params to function params
+- @PathParam
+- @QueryParam
+- @Body
+
+Add HATEOAS
+- @HATEOAS
+- @HATEOASMethod
 
 ### API
 
@@ -70,42 +152,6 @@ class MyWebService extends RestFull {
 }
 ````
 
-### Annotations
-
-
-
-````js
-````
-
-
-### Config
-simply specify a webservice
-
-index.mjs
-````js
-    import { WebService }          from "/evolux.web";
-    // specify your config. this object will simply be passed 
-    // to the connect method of the webservice
-    export const mywebservice = new WebService({
-        'api' : {
-            'endpoint' : { method: 'get', do: async (req, res, data, utils) => { your.code.here() }},
-            'endpoint2' : { method: 'put', do: async (req, res, data, utils) => { your.code.here() }}
-        },
-        'api2' : {
-            ...
-        }    
-    });
-````
-
-### Convention
-This is the easiest way to define a web service. Names will setup the webservice.
-
-directory ws/<wsrootname>
-    setup.mjs
-    cleanup.mjs
-    
-    put.<endpointname>.mjs
-
 ## OpenAPI & AsyncAPI
 
 To provide a [OpenAPI](https://www.openapis.org/) and a [AsyncAPI](https://www.asyncapi.com/) 
@@ -114,6 +160,4 @@ add specific information for params and entities by using evolux.schema
 ## GraphQL
 
 TBD ... not supported right now
-
-## Create the commands
 
