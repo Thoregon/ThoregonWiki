@@ -76,6 +76,12 @@ Blockchain Integration
 - https://solana.com/wormhole
 - https://fixedfloat.com/de/    Token Exchange
 
+## Oracles
+
+- [Binance Oracle](https://oracle.binance.com/docs)
+  - [Binance Oracle: Konkurrenz zu Chainlink](https://t3n.de/news/binance-oracle-konkurrenz-zu-chainlink-1508858/)
+- [Chainlink](https://chain.link/)
+
 Articles
 - https://www.btc-echo.de/academy/bibliothek/defi/
 - https://de.cointelegraph.com/news/sectors-realizing-the-full-potential-of-defi-protocols-in-2020

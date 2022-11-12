@@ -22,6 +22,7 @@ https://www.heise.de/news/Bug-in-Java-macht-digitale-Signaturen-wertlos-6847744.
 https://computerwelt.at/knowhow/remote-arbeit-eine-zero-trust-revolution-ist-unerlaesslich/
 https://www.computerwoche.de/a/datacenter-sicherheit-als-griff-ins-klo,3553701
 https://www.heise.de/news/Unverschluesselte-Access-Tokens-Sicherheitsluecke-in-tausenden-Apps-7252134.html
+https://www.golem.de/news/wlan-sicherheitsluecke-fuer-eine-spezialdrohne-sind-massive-waende-wie-glas-2211-169475.html
 
 https://www.sofie-iot.eu/
 

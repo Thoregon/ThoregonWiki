@@ -50,7 +50,9 @@ Thoregon
     - https://hub.docker.com/r/ipfs/go-ipfs/
     - https://cluster.ipfs.io/documentation/guides/k8s/
     - https://medium.com/rahasak/deploy-ipfs-cluster-with-kubernetes-c4cd8d64b7c8
-- [Ceph](https://docs.ceph.com/en/quincy/)  Cluster File System/Object Store
+- [ZeroMQ](https://zeromq.org/)
+  - Container for SA to communicate with services
+- Not now --> [Ceph](https://docs.ceph.com/en/quincy/)  Cluster File System/Object Store
     - https://www.linux-magazin.de/ausgaben/2019/12/rook-2/
     - https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ceph-cluster-within-kubernetes-using-rook
     - https://medium.com/@adam.goossens/so-you-want-to-build-a-ceph-cluster-7ff9a033411d
