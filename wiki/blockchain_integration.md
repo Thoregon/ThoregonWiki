@@ -27,6 +27,9 @@ Blockchain Integration
 - https://www.heise.de/ratgeber/Smart-Contracts-Diese-rechtlichen-Fallstricke-gibt-es-7255732.html
 - https://www.heise.de/hintergrund/Vor-und-Nachteile-der-Blockchain-in-Logistik-und-Handel-7222587.html
 
+- Proof-of-Reserves https://t3n.de/news/proof-of-reserves-binance-chef-cz-arbeitet-mit-ethereum-erfinder-vitalik-buterin-an-krypto-transparenzprotokoll-1513349/
+
+
 ## CRDT - Blockchain w/o Blockchain
 
 - CRDT instead of bockchain
