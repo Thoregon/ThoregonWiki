@@ -10,6 +10,8 @@ Blockchain Integration
 
 ## to be considered & pitfalls  
 
+- https://www.heise.de/hintergrund/Kryptowaehrungsmixer-Sanktionen-gegen-Tornado-Cash-schaffen-Praezedenzfall-7337784.html?seite=all
+
 - Moxie's Web3 first impressions: https://moxie.org/2022/01/07/web3-first-impressions.html
 - Abstract: https://cryptoslate.com/moxie-marlinspike-heres-whats-wrong-with-web3/
 - Opinion: https://www.coindesk.com/layer2/2022/01/10/is-moxie-marlinspike-right-about-web-3/

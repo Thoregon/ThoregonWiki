@@ -2,6 +2,8 @@
 
 - FIePM „Fiat iustitia et pereat mundus“ (dt.: „Es soll Gerechtigkeit geschehen, und gehe auch die Welt daran zugrunde!“) -> [Michael Kohlhaas](https://de.wikipedia.org/wiki/Michael_Kohlhaas) 
 
+- !! https://www.heise.de/hintergrund/Kryptowaehrungsmixer-Sanktionen-gegen-Tornado-Cash-schaffen-Praezedenzfall-7337784.html?seite=all
+
 # Collection of Links of social and society relevant issues
 
 - https://www.heise.de/meinung/Edit-Policy-Die-CUII-Initiative-private-Netzsperren-ohne-Gerichtsbeschluss-5987578.html
@@ -117,7 +119,9 @@
 - https://futurezone.at/netzpolitik/gchq-jeremy-fleming-beidou-digitalwaehrung-china-technologie-tiktok/402178539
 - https://t3n.de/news/gesichtserkennungs-ki-dieser-tarnpullover-macht-dich-unsichtbar-1508825/
 - https://orf.at/stories/3292919/
-- 
+- https://www.heise.de/hintergrund/Automatisierte-Scans-Microsoft-sperrt-Kunden-unangekuendigt-fuer-immer-aus-7324608.html
+
+
 
 ## Community, Cooperation, Wealth
 
