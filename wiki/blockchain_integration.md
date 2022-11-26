@@ -8,7 +8,7 @@ Blockchain Integration
 - https://www.computerwoche.de/a/das-proof-of-abc,3612715
 - https://www.computerwoche.de/a/crypto-wallets-zukunft-der-identitaet,3612775
 
-## to be considered & pitfalls  
+## Considerations & Pitfalls  
 
 - https://www.heise.de/hintergrund/Kryptowaehrungsmixer-Sanktionen-gegen-Tornado-Cash-schaffen-Praezedenzfall-7337784.html?seite=all
 
