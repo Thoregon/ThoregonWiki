@@ -7,6 +7,7 @@ color: rgba(0, 0, 0, 0.6);  /* grau /*
 thoregon fonts
 ==============
 
+Hobot & Mona
 Jost
 Didact Gothic
 Fira Sans
