@@ -21,6 +21,7 @@ Thoregon
     - Kubernetes Automation: https://www.kubermatic.com/
       - https://github.com/kubermatic/kubeone
     - https://computerwelt.at/knowhow/13-tools-die-kubernetes-besser-machen/
+    - https://www.heise.de/ratgeber/Kubernetes-lernen-und-verstehen-Teil-1-Cluster-aus-drei-Linux-Servern-bauen-7308546.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
     - ! https://www.redhat.com/sysadmin/compose-kubernetes-podman
     - install:
         - https://www.youtube.com/watch?v=uUupRagM7m0&list=PL2We04F3Y_41jYdadX55fdJplDvgNGENo
@@ -83,6 +84,10 @@ Info:
 - Google Kubernetes Engine
    - https://cloud.google.com/kubernetes-engine?hl=de
    - https://www.heise.de/news/Kosten-der-Google-Kubernetes-Engine-vorab-berechnen-zumindest-grob-7120708.html
+
+- Managed Kubernetes
+  - https://www.syseleven.de/produkte-services/kubernetes/
+  - https://www.syseleven.de/metakube-testen/
 
 - https://www.netcup.de/vserver/vps.php -> 40,80TB Traffic
 - https://www.hosteurope.de/

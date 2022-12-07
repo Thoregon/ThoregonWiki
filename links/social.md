@@ -120,8 +120,7 @@
 - https://t3n.de/news/gesichtserkennungs-ki-dieser-tarnpullover-macht-dich-unsichtbar-1508825/
 - https://orf.at/stories/3292919/
 - https://www.heise.de/hintergrund/Automatisierte-Scans-Microsoft-sperrt-Kunden-unangekuendigt-fuer-immer-aus-7324608.html
-
-
+- https://www.heise.de/news/Internet-Governance-Forum-Der-Kitt-fuers-globale-Netz-broeckelt-7366088.html
 
 ## Community, Cooperation, Wealth
 

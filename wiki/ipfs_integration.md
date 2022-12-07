@@ -43,7 +43,8 @@ Integration
 
 - https://proto.school/tutorials?course=ipfs
 - https://github.com/ipfs/js-ipfs/tree/master/docs/core-api
-
+  https://docs.libp2p.io/concepts/fundamentals/peers/
+- 
 ## Other Components/Systems
 
 - https://docs.textile.io/
@@ -51,6 +52,12 @@ Integration
     
 - https://github.com/ipfs-search/ipfs-search 
 - https://www.jsdelivr.com/package/npm/js-ipfs-fetch
+
+### DNS Link
+
+- https://developers.cloudflare.com/web3/ipfs-gateway/concepts/dnslink/
+- https://docs.ipfs.tech/concepts/dnslink/
+- https://dnslink.dev/#step-2-set-the-dnslink-value-on-a-txt-record
 
 ## Testing 
 

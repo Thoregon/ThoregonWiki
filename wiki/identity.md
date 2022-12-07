@@ -22,6 +22,8 @@ Define Protocols for attests
 - data (class) -> verifiyable claims
 - behavior (like contract on blockchain)
 
+DID: https://www.heise.de/news/Decentralized-Identifiers-W3C-ernennt-offiziellen-Webstandard-7184332.html
+
 Elements of a DID
 - DID (for self-description)
 - Set of public keys (for verification)
@@ -68,6 +70,9 @@ see: https://www.heise.de/news/Umfrage-Mehrheit-der-Internetnutzer-fuerchtet-Ide
 - use one-time bearer tokens
 
 --> MFA Bombing: https://www.golem.de/news/lapsus-hackergruppe-umgeht-2fa-mit-einfachem-trick-2203-164236.html
+
+--> [Paypal 2FA](https://www.paypal.com/de/smarthelp/article/wie-kann-ich-die-zweistufige-verifizierung-f%C3%BCr-das-einloggen-beim-paypal-konto-ein--oder-ausschalten-faq4057
+)
 
 ### Own Security Service Agent
 

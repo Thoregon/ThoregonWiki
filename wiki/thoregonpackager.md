@@ -93,3 +93,8 @@ todo: enable multiple signatures, update of allowed sig keys
 caution: someone could publish an entrypoint with its own service worker
 to a malware thoregon system! The system must authorize itself to the apps
 it loads.  
+
+## Links
+
+- https://www.heise.de/hintergrund/JavaScript-Bundler-Turbopack-Mit-den-Erfahrungen-aus-zehn-Jahren-Webpack-7337331.html
+

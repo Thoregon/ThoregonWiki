@@ -65,6 +65,7 @@ Collection of URL's
 
 ## Articles
 
+https://www.heise.de/hintergrund/Wie-verteilte-Systeme-dank-Raft-Algorithmus-zusammenarbeiten-7269322.html
 https://www.computerwoche.de/a/8-anzeichen-dass-ihre-low-code-loesung-nichts-taugt,3612973
 https://www.heise.de/hintergrund/Eine-nerdige-Ode-an-den-Kaffee-Entwickler-Mana-und-Code-Beschleuniger-6068740.html?seite=all
 https://www.heise.de/news/EuGH-Recht-auf-Reverse-Engineering-zur-Fehlerkorrektur-6215679.html
@@ -110,6 +111,7 @@ https://computerwelt.at/news/teure-generalisten-oder-wichtige-troubleshooter/
 https://computerwelt.at/knowhow/zero-trust-network-access-ztna-vor-dem-kauf/
 https://itwelt.at/knowhow/9-arten-von-computerviren-und-wie-sie-ihr-unwesen-treiben/
 https://www.heise.de/ratgeber/Remote-Desktop-Fernwartung-mit-Teamviewer-Anydesk-Windows-und-Chrome-erklaert-7250716.html?seite=all
+https://www.heise.de/blog/Variable-Fonts-und-wie-man-sie-nicht-einsetzen-sollte-7142196.html
 
 !! https://www.heise.de/news/rC3-Mastodon-Matrix-Co-Bausteine-und-Huerden-fuer-dezentrale-Online-Systeme-5000861.html
 
@@ -147,7 +149,12 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - http://sqlfiddle.com/
 - https://nightwatchjs.org/
 
-  - Memory Leaks: https://github.com/facebookincubator/memlab
+### JS Unit Test FW's
+
+- https://webdriver.io/
+- https://jestjs.io/
+
+- Memory Leaks: https://github.com/facebookincubator/memlab
 
 - https://www.heise.de/hintergrund/Auf-dem-Pruefstand-Wie-JavaScript-Tests-wieder-lesbar-werden-6188288.html?seite=all
 - https://www.heise.de/hintergrund/Qualitaetsmanagement-Chaos-Engineering-als-Resilienzkonzept-7095868.html?seite=all
