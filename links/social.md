@@ -121,6 +121,9 @@
 - https://orf.at/stories/3292919/
 - https://www.heise.de/hintergrund/Automatisierte-Scans-Microsoft-sperrt-Kunden-unangekuendigt-fuer-immer-aus-7324608.html
 - https://www.heise.de/news/Internet-Governance-Forum-Der-Kitt-fuers-globale-Netz-broeckelt-7366088.html
+- https://www.heise.de/news/KI-Verordnung-EU-Staaten-fuer-biometrische-Ueberwachung-im-oeffentlichen-Raum-7368512.html
+- https://www.heise.de/news/EUid-EU-Rat-stimmt-fuer-Online-Ausweis-mit-eindeutigem-Personenkennzeichen-7368464.html
+
 
 ## Community, Cooperation, Wealth
 
