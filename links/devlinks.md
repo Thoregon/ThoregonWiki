@@ -89,7 +89,6 @@ https://www.heise.de/hintergrund/Smart-Home-Das-Funkprotokoll-Thread-im-ersten-P
 https://www.heise.de/meinung/Richtig-klein-Hat-Modularisierung-versagt-6234193.html
 https://www.heise.de/news/software-architektur-tv-Crossfunktionale-Teams-gezielt-in-den-Abgrund-stuerzen-6263110.html
 https://www.golem.de/news/software-20-dinge-die-ich-in-20-jahren-als-entwickler-gelernt-habe-2111-161015.html
-https://www.heise.de/news/Agile-Methode-Kanban-wird-erwachsen-6274927.html
 https://www.heise.de/hintergrund/IT-Recht-Wie-missverstandenes-Vergaberecht-staatliche-IT-Projekte-behindert-6338795.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 https://www.heise.de/news/software-architektur-tv-Crossfunktionale-Teams-gezielt-in-den-Abgrund-stuerzen-6263110.html
 ! https://www.golem.de/news/software-20-dinge-die-ich-in-20-jahren-als-entwickler-gelernt-habe-2111-161015.html
@@ -122,6 +121,7 @@ https://www.heise.de/developer/artikel/Dependency-Injection-in-JavaScript-599273
 https://www.heise.de/developer/artikel/Das-Adapter-Pattern-in-JavaScript-5073865.html
 https://t3n.de/news/web3-entwicklung-solidity-blockchain-lernen-1454211/
 https://www.computerwoche.de/a/wie-jedes-unternehmen-cloud-nativ-werden-kann,3552891
+https://www.computerwoche.de/a/14-brandheisse-webassembly-projekte,3613425
 
 - https://emscripten.org/
 
@@ -215,6 +215,19 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - https://alpinejs.dev/     https://github.com/alpinejs/alpine/tree/main/packages/alpinejs/src 
 - https://riot.js.org/
 - https://mantine.dev/
+
+#### Workflow
+
+- https://github.com/bpmn-io !
+- www.zapier.com
+- https://www.computerwoche.de/a/die-besten-workflow-werkzeuge,3550553
+
+#### Kanban
+
+- https://kanbanflow.com/
+- https://trello.com/de
+- https://www.heise.de/news/Agile-Methode-Kanban-wird-erwachsen-6274927.html
+- https://www.computerwoche.de/a/die-besten-kanban-tools,3549982
 
 
 #### Layout and Views

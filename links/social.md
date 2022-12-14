@@ -123,7 +123,7 @@
 - https://www.heise.de/news/Internet-Governance-Forum-Der-Kitt-fuers-globale-Netz-broeckelt-7366088.html
 - https://www.heise.de/news/KI-Verordnung-EU-Staaten-fuer-biometrische-Ueberwachung-im-oeffentlichen-Raum-7368512.html
 - https://www.heise.de/news/EUid-EU-Rat-stimmt-fuer-Online-Ausweis-mit-eindeutigem-Personenkennzeichen-7368464.html
-
+- https://www.golem.de/news/kuenstliche-intelligenz-eu-staaten-wollen-gesichtserkennung-noch-ausweiten-2212-170317.html
 
 ## Community, Cooperation, Wealth
 
