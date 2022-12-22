@@ -63,6 +63,20 @@ Collection of URL's
 ## API's
 --> Tools & Software (MD)
 
+### Open Data
+
+- https://www.govdata.de/
+- https://bund.dev/
+- https://nina.api.bund.dev/
+- https://www.data.gv.at/
+- https://opendata.swiss/de
+
+### Others
+
+- https://de.pons.com/p/online-woerterbuch/fuer-entwickler/api
+- https://www.coinapi.io/
+- 
+
 ## Articles
 
 https://www.heise.de/hintergrund/Wie-verteilte-Systeme-dank-Raft-Algorithmus-zusammenarbeiten-7269322.html
