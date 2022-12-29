@@ -9,7 +9,8 @@ Consider
     - https://futurezone.at/b2b/onlyfans-ceo-porno-sexuelle-inhalte-bann/401482048
 - https://www.heise.de/hintergrund/Warum-Twitter-Trends-noch-immer-so-schlecht-sind-7195123.html
 - https://www.computerwoche.de/a/die-haeufigsten-fehler-in-der-englischen-e-mail-kommunikation,3547354
-- 
+- https://www.heise.de/tp/features/Studie-Wenn-der-Bau-von-Windraedern-an-Verschwoerungstheorien-scheitert-7442642.html
+
 Business Cases
 ==============
 

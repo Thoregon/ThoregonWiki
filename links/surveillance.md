@@ -106,3 +106,4 @@ https://www.heise.de/news/Bitcoin-Co-EU-Gremien-einigen-sich-auf-Aus-fuer-anonym
 !! https://fm4.orf.at/stories/3025834/
 https://www.golem.de/news/schweiz-alles-andere-als-ein-datenschutzparadies-2209-167640.html
 https://www.heise.de/news/EuGH-Urteil-So-wollen-die-EU-Staaten-bei-der-Fluggastueberwachung-tricksen-7274737.html?seite=all
+https://www.heise.de/news/Chatkontrolle-Massive-Auswirkungen-auf-Open-Source-Software-befuerchtet-7443407.html

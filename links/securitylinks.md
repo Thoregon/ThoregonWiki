@@ -23,6 +23,7 @@ https://computerwelt.at/knowhow/remote-arbeit-eine-zero-trust-revolution-ist-une
 https://www.computerwoche.de/a/datacenter-sicherheit-als-griff-ins-klo,3553701
 https://www.heise.de/news/Unverschluesselte-Access-Tokens-Sicherheitsluecke-in-tausenden-Apps-7252134.html
 https://www.golem.de/news/wlan-sicherheitsluecke-fuer-eine-spezialdrohne-sind-massive-waende-wie-glas-2211-169475.html
+https://www.heise.de/hintergrund/Wie-ein-Pentester-ein-Maschinenbauunternehmen-hackte-7313697.html?seite=all
 
 https://www.sofie-iot.eu/
 
