@@ -55,7 +55,8 @@ Collection of URL's
 
 - https://www.heise.de/ratgeber/ESP32-Daten-austauschen-mit-dem-offenen-Netzwerkprotokoll-MQTT-7269469.html?seite=all
 - https://www.codementor.io/@tiagolopesferreira/asynchronous-iterators-in-javascript-jl1yg8la1
-
+- https://www.heise.de/hintergrund/Wie-Objekte-in-JavaScript-funktionieren-7325258.html?seite=all
+- 
 ### Comparisions
 
 - https://www.youtube.com/watch?v=cuHDQhDhvPE
@@ -147,6 +148,8 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - https://developer.mozilla.org/de/docs/Web/HTML/Element/datalist
 - https://developer.mozilla.org/de/docs/Web/HTML/Element/optgroup
 
+- https://developer.mozilla.org/en-US/docs/Web/API/Navigator/sendBeacon
+
 ## ES6
 
 - https://stackoverflow.com/questions/47675549/how-do-i-cache-bust-imported-modules-in-es6
@@ -210,6 +213,17 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - https://github.com/RubenVerborgh/AsyncIterator
 - https://johnresig.com/blog/pure-javascript-html-parser/
 
+- [Browser Compatibility](https://github.com/mdn/browser-compat-data)
+
+#### Lockscreen Widgets
+
+- Android
+  - https://www.howtogeek.com/811705/how-to-get-lock-screen-widgets-on-android/
+  - https://www.stechies.com/android-widget-home-screen-lockscreen/
+- iOS
+  - https://developer.apple.com/documentation/widgetkit/creating-lock-screen-widgets-and-watch-complications
+
+
 #### CLI
 
 - https://github.com/tj/commander.js/
@@ -265,6 +279,7 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 #### Spreadsheets
 
 - https://github.com/nocodb/nocodb
+- https://www.grapecity.com/spreadjs
 
 #### Image Compression
 
@@ -290,6 +305,7 @@ Cart with Credentials Management API
 
 ## Docutools & generators
 
+- https://github.com/slatedocs/slate
 - https://docute.org/
 - https://www.mkdocs.org/
 - https://docusaurus.io/
