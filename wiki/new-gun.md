@@ -3,7 +3,10 @@ new gun
 
 Name: neuland
 
-neuland is a persistent CRDT (conflict free replicated data types) database.
+## TL;DR
+
+neuland is a persistent CRDT (conflict free replicated data types) database.  
+sync is done by utilizing a state, which basically is a point on a timeline.  
 
 ## instances
 
@@ -30,6 +33,18 @@ the request must have a signature, otherwise the peer will not answer the reques
 
 the request must have a signature, otherwise the peer will not answer the request
 
+## optimize sync
+
+1) get an entity
+
+- when do I have to query for sync
+  - everytime it is first fetched from an app?
+
+2) sync after restart
+
+- send the last 'state' to the other peers
+- other peers (which are permitted) send (continously) the state (changes)
+
 ## performance measuring
 
 instrumentation of methods for performance measuring 
@@ -46,7 +61,17 @@ instrumentation of methods for performance measuring
 
 # links & resources
 
-- 
+## CRDT 
+
+- https://www.heise.de/hintergrund/Agiles-Arbeiten-bei-der-Allianz-3944421.html?seite=all
+- https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type
+- https://crdt.tech/
+- https://redis.com/blog/diving-into-crdts/
+
+- https://www.youtube.com/watch?v=B5NULPSiOGw
+- https://www.youtube.com/watch?app=desktop&v=M8-WFTjZoA0
+- https://www.youtube.com/watch?app=desktop&v=ZLjl_55um4I
+- https://www.youtube.com/watch?app=desktop&v=CD_0u03EdcA
 
 # later
 
