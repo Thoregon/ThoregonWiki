@@ -29,6 +29,9 @@ address a service, not a location!
 
 the request must have a signature, otherwise the peer will not answer the request
 
+## state (time) sync between all peers
+
+
 ## request for device coupling
 
 the request must have a signature, otherwise the peer will not answer the request
