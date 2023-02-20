@@ -107,3 +107,4 @@ https://www.heise.de/news/Bitcoin-Co-EU-Gremien-einigen-sich-auf-Aus-fuer-anonym
 https://www.golem.de/news/schweiz-alles-andere-als-ein-datenschutzparadies-2209-167640.html
 https://www.heise.de/news/EuGH-Urteil-So-wollen-die-EU-Staaten-bei-der-Fluggastueberwachung-tricksen-7274737.html?seite=all
 https://www.heise.de/news/Chatkontrolle-Massive-Auswirkungen-auf-Open-Source-Software-befuerchtet-7443407.html
+https://www.heise.de/news/Britischer-Geheimdienst-MI5-hat-massenhaft-Daten-rechtswidrig-gespeichert-7476520.html

@@ -4,6 +4,9 @@
 
 - !! https://www.heise.de/hintergrund/Kryptowaehrungsmixer-Sanktionen-gegen-Tornado-Cash-schaffen-Praezedenzfall-7337784.html?seite=all
 
+- [Georg Kapsch - Die Freiheit, die ich meine](https://www.diepresse.com/6239438/die-freiheit-die-ich-meine) Gastbeitrag Die Presse 2023-01-17
+- [Strategien gegen Hassrede im Netz](https://www.diepresse.com/6240947/schweigen-ist-gold-von-wegen)
+
 # Collection of Links of social and society relevant issues
 
 - https://www.heise.de/meinung/Edit-Policy-Die-CUII-Initiative-private-Netzsperren-ohne-Gerichtsbeschluss-5987578.html
@@ -124,6 +127,8 @@
 - https://www.heise.de/news/KI-Verordnung-EU-Staaten-fuer-biometrische-Ueberwachung-im-oeffentlichen-Raum-7368512.html
 - https://www.heise.de/news/EUid-EU-Rat-stimmt-fuer-Online-Ausweis-mit-eindeutigem-Personenkennzeichen-7368464.html
 - https://www.golem.de/news/kuenstliche-intelligenz-eu-staaten-wollen-gesichtserkennung-noch-ausweiten-2212-170317.html
+- https://www.diepresse.com/6248591/wiener-entschluesselt-kindesmissbrauch-plattformen-im-darknet
+- https://t3n.de/news/bing-chatgpt-microsoft-seo-1533656/
 
 ## Community, Cooperation, Wealth
 

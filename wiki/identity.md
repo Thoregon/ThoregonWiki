@@ -56,7 +56,9 @@ Service Agent - duplicate self (friend harvey)
 
 - https://www.heise.de/hintergrund/Auslegungssache-37-Anonymitaet-Der-heilige-Gral-der-DSGVO-6024895.html
 - https://www.heise.de/news/Elektronische-Identitaet-Eine-staatliche-Digitalverfassung-soll-s-richten-7067800.html
-
+- https://www.heise.de/hintergrund/Passkeys-Was-sie-ausmacht-und-wie-sie-funktionieren-7366497.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+- https://www.heise.de/news/Passkeys-nachruesten-Bitwarden-schluckt-Open-Source-Start-up-Passwordless-dev-7465327.html
+- 
 ## Securtiy
 
 best would be to use an SE (Secure Element) and 2FA (two factor authentication)

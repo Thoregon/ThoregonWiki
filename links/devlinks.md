@@ -126,7 +126,8 @@ https://computerwelt.at/knowhow/zero-trust-network-access-ztna-vor-dem-kauf/
 https://itwelt.at/knowhow/9-arten-von-computerviren-und-wie-sie-ihr-unwesen-treiben/
 https://www.heise.de/ratgeber/Remote-Desktop-Fernwartung-mit-Teamviewer-Anydesk-Windows-und-Chrome-erklaert-7250716.html?seite=all
 https://www.heise.de/blog/Variable-Fonts-und-wie-man-sie-nicht-einsetzen-sollte-7142196.html
-
+- https://www.heise.de/ratgeber/Besser-zentral-Professionelles-Logging-2532864.html?seite=all
+- 
 !! https://www.heise.de/news/rC3-Mastodon-Matrix-Co-Bausteine-und-Huerden-fuer-dezentrale-Online-Systeme-5000861.html
 
 ### JS & ECMA Script & Node & WASM
@@ -288,6 +289,10 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - https://donaldcwl.github.io/browser-image-compression/example/basic.html
     - https://github.com/Donaldcwl/browser-image-compression
 
+## 3D, VR, AR
+
+- https://aframe.io/
+
 ## Sample code: learn, clone or rebiuld
 
 ## Credentials Management API
@@ -344,10 +349,12 @@ Cart with Credentials Management API
     - https://code.briarproject.org/briar/briar/-/wikis/home
     - https://www.heise.de/ratgeber/Darknet-So-funktioniert-der-ausfallsichere-Messenger-Briar-7141420.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 
-## Distibuted Storage
+## Distibuted Storage & Systems
 
 - [IPFS](https://ipfs.io/)
     - [JS IPFS](https://js.ipfs.io/)
+- [Hypercore/Holepunch](https://holepunch.to/)
+  - [Docs](https://docs.holepunch.to/)
 - [WebTorrent](https://github.com/webtorrent/webtorrent)
 - [BitTorrent](https://www.bittorrent.com/)
     - [BitTorrent FileSystem](https://www.bittorrent.com/token/bittorrent-file-system/)
@@ -355,6 +362,11 @@ Cart with Credentials Management API
 - [Skynet](https://siasky.net/)
     - Docs: https://siasky.net/docs/#introduction
     - Blog: https://blog.sia.tech/skynet-bdf0209d6d34
+
+- [Snowflake](https://github.com/keroserene/snowflake)
+  - https://snowflake.torproject.org/
+  - https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/snowflake/-/wikis/home
+- [Snowstorm](https://snowstorm.net/)
 
 ## IndexedDB
 
