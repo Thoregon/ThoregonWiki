@@ -108,3 +108,4 @@ https://www.golem.de/news/schweiz-alles-andere-als-ein-datenschutzparadies-2209-
 https://www.heise.de/news/EuGH-Urteil-So-wollen-die-EU-Staaten-bei-der-Fluggastueberwachung-tricksen-7274737.html?seite=all
 https://www.heise.de/news/Chatkontrolle-Massive-Auswirkungen-auf-Open-Source-Software-befuerchtet-7443407.html
 https://www.heise.de/news/Britischer-Geheimdienst-MI5-hat-massenhaft-Daten-rechtswidrig-gespeichert-7476520.html
+https://www.heise.de/news/Fahndung-mit-Gesichtserkennung-Bricht-die-Regierung-ihren-Koalitionsvertrag-7523130.html
