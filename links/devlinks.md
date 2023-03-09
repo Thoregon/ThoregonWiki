@@ -145,6 +145,13 @@ https://www.computerwoche.de/a/14-brandheisse-webassembly-projekte,3613425
 
 https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Hacking-Werkzeug-6234994.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 
+## Native Apps
+
+- [tauri.app](https://tauri.app/)    Electron replacement?
+- [NW.js](https://nwjs.io)
+- [Electron](https://www.electronjs.org/de/)
+- Alternatives: https://www.slant.co/options/10828/alternatives/~electron-alternatives
+
 ## HTML
 - https://developer.mozilla.org/de/docs/Web/HTML/Element/datalist
 - https://developer.mozilla.org/de/docs/Web/HTML/Element/optgroup
@@ -200,6 +207,7 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 
 - https://xtermjs.org/
 - https://github.com/butlerx/wetty
+- https://tabby.sh/
 
 ### JS
 
@@ -292,6 +300,7 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 ## 3D, VR, AR
 
 - https://aframe.io/
+- https://pixijs.com/
 
 ## Sample code: learn, clone or rebiuld
 

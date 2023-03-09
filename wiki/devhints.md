@@ -12,6 +12,13 @@ console.log(
     Element.scrollIntoView()
     Window.scrollTo()
 
+## SSH (permission denied)
+
+Add to client ~/.ssh/config:
+
+PubkeyAcceptedKeyTypes +ssh-rsa
+
+
 ## Element Visibility
 
         this.observer = new IntersectionObserver((entries, observer) => {
