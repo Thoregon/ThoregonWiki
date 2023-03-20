@@ -129,7 +129,8 @@
 - https://www.golem.de/news/kuenstliche-intelligenz-eu-staaten-wollen-gesichtserkennung-noch-ausweiten-2212-170317.html
 - https://www.diepresse.com/6248591/wiener-entschluesselt-kindesmissbrauch-plattformen-im-darknet
 - https://t3n.de/news/bing-chatgpt-microsoft-seo-1533656/
-
+- The mathematical danger of democracy https://www.youtube.com/watch?app=desktop&v=goQ4ii-zBMw
+- 
 ## Community, Cooperation, Wealth
 
 - https://www.heise.de/tp/features/Nur-so-eine-Idee-Startkapital-fuer-alle-Volljaehrigen-6296304.html
