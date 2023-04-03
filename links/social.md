@@ -130,7 +130,9 @@
 - https://www.diepresse.com/6248591/wiener-entschluesselt-kindesmissbrauch-plattformen-im-darknet
 - https://t3n.de/news/bing-chatgpt-microsoft-seo-1533656/
 - The mathematical danger of democracy https://www.youtube.com/watch?app=desktop&v=goQ4ii-zBMw
-- 
+- https://www.diepresse.com/6269736/wie-die-eu-kommission-laestige-fragen-abwimmelt
+- https://www.heise.de/news/Mit-der-Chatkontrolle-kehrt-die-Vorratsdatenspeicherung-zurueck-8474890.html
+
 ## Community, Cooperation, Wealth
 
 - https://www.heise.de/tp/features/Nur-so-eine-Idee-Startkapital-fuer-alle-Volljaehrigen-6296304.html

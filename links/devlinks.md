@@ -132,6 +132,8 @@ https://www.heise.de/blog/Variable-Fonts-und-wie-man-sie-nicht-einsetzen-sollte-
 
 ### JS & ECMA Script & Node & WASM
 
+https://github.com/fermyon/spin
+
 https://www.heise.de/developer/artikel/Nullreferenzen-So-vermeiden-Sie-den-Billion-Dollar-Mistake-in-JavaScript-und-TypeScript-6221457.html
 https://www.heise.de/developer/artikel/Dependency-Injection-in-JavaScript-5992734.html
 https://www.heise.de/developer/artikel/Das-Adapter-Pattern-in-JavaScript-5073865.html
