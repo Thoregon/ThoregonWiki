@@ -213,6 +213,7 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 
 ### JS
 
+- [🦄 magic-regexp](https://regexp.dev/)
 - [voca](https://vocajs.com/)                  The ultimate JavaScript string library
 - has-values            value classification
 - @sindresorhus/is      type check
