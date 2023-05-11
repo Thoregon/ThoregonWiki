@@ -3,7 +3,14 @@ Self Sovereign Identities
 
 Every SSI founds its personal cloud. It acts now in a network, not on a platform anymore.
 
-see also [SSI](./ssi.md)
+see also 
+- [SSI](./ssi.md)
+- [ActivityPub](https://activitypub.rocks/)
+  - https://www.wienerzeitung.at/nachrichten/kultur/medien/2187093-Der-dezentrale-soziale-Mensch.html
+  - https://de.wikipedia.org/wiki/ActivityPub#:~:text=ActivityPub%20ist%20ein%202018%20ver%C3%B6ffentlichtes,API%20f%C3%BCr%20eine%20dezentrale%20Kommunikation.
+  - https://www.w3.org/TR/activitypub/
+  - https://gnulinux.ch/activitypub-erklaert
+  
 
 To access content in the universe, the SSI needs a claim for each content or content collection.
 Content is not just a data structure anymore, it comes with behavior. 

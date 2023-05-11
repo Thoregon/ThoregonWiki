@@ -34,10 +34,17 @@ Collection of URL's
 - https://jsfiddle.net/
 - http://sqlfiddle.com/
 
-## Network Proticols & Routing
+## Network Protocols & Routing
 
 - https://itwelt.at/news/absurd-schneller-algorithmus-fuer-den-netzwerkdurchfluss/
 - https://www.heise.de/select/ix/2021/12/softlinks/zx73?wt_mc=pred.red.ix.ix122021.116.softlink.softlink
+
+## AI (KI) & machine learning
+
+- https://futurezone.at/b2b/internes-google-dokument-leak-keine-chance-gegen-open-source-ki-kuenstliche-intelligenz/402437466
+- https://www.heise.de/news/Anonymer-Google-Entwickler-Open-Source-wird-Google-und-OpenAI-den-Rang-ablaufen-8989179.html
+- https://www.heise.de/hintergrund/Macherqualitaeten-ChatGPT-Co-steuern-autonome-Agenten-8983394.html
+
 
 ## Dev Methods
 

@@ -16,7 +16,16 @@ https://www.heise.de/news/Browser-Fingerprinting-Installierte-Apps-als-Tracking-
 --> https://github.com/fingerprintjs/external-protocol-flooding
 https://www.heise.de/hintergrund/Sichere-Kommunikation-Wie-Messenger-versuchen-Metadaten-zu-vermeiden-5995307.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 
+## MFA 2FA
+
+- https://www.heise.de/news/Gehackt-trotz-2-Faktor-Login-Wie-man-sich-dagegen-schuetzt-c-t-uplink-48-2c-8970929.html
+- https://www.heise.de/ratgeber/IT-Security-Wie-Angreifer-die-Zwei-Faktor-Authentifizierung-aushebeln-8973846.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+- https://www.heise.de/ratgeber/2FA-absichern-So-schuetzen-Sie-sich-vor-Angriffen-auf-den-zweiten-Faktor-8977133.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+- 
+
 ## Crypto
+
+- https://www.heise.de/tests/Anbieter-Uebersicht-Kryptocoins-mit-Hardware-Wallets-sichern-8969077.html
 
 ### Browser Key & Crypto handling
 https://www.heise.de/hintergrund/Sicher-kommunizieren-Wie-moderne-Kommunikationsverschluesselung-funktioniert-5023121.html
