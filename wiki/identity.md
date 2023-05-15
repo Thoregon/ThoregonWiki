@@ -5,12 +5,16 @@ Every SSI founds its personal cloud. It acts now in a network, not on a platform
 
 see also 
 - [SSI](./ssi.md)
+- [Passkeys](https://www.heise.de/hintergrund/Passkeys-Was-sie-ausmacht-und-wie-sie-funktionieren-7366497.html)
 - [ActivityPub](https://activitypub.rocks/)
   - https://www.wienerzeitung.at/nachrichten/kultur/medien/2187093-Der-dezentrale-soziale-Mensch.html
   - https://de.wikipedia.org/wiki/ActivityPub#:~:text=ActivityPub%20ist%20ein%202018%20ver%C3%B6ffentlichtes,API%20f%C3%BCr%20eine%20dezentrale%20Kommunikation.
   - https://www.w3.org/TR/activitypub/
   - https://gnulinux.ch/activitypub-erklaert
-  
+- [SuperTokens](https://supertokens.com/)
+  - https://github.com/supertokens
+  - https://www.heise.de/news/Open-Source-Authentifizerung-SuperTokens-laesst-alle-Daten-im-eigenen-RZ-9009631.html
+  - https://www.youtube.com/watch?v=EjLxXMRN73I
 
 To access content in the universe, the SSI needs a claim for each content or content collection.
 Content is not just a data structure anymore, it comes with behavior. 

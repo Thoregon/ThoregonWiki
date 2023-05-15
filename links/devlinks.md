@@ -41,6 +41,11 @@ Collection of URL's
 
 ## AI (KI) & machine learning
 
+- [Chat GPT](https://chat.openai.com/)
+  - Discord https://discord.com/channels/974519864045756446/1047565374645870743
+- [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
+- [Claude - Anthropic](https://www.anthropic.com/index/introducing-claude)
+
 - https://futurezone.at/b2b/internes-google-dokument-leak-keine-chance-gegen-open-source-ki-kuenstliche-intelligenz/402437466
 - https://www.heise.de/news/Anonymer-Google-Entwickler-Open-Source-wird-Google-und-OpenAI-den-Rang-ablaufen-8989179.html
 - https://www.heise.de/hintergrund/Macherqualitaeten-ChatGPT-Co-steuern-autonome-Agenten-8983394.html
