@@ -14,6 +14,15 @@ Thoregon
 
 ### System
 
+- [Hashicorp](https://www.hashicorp.com/)
+  - https://github.com/hashicorp
+  - [Terraform](https://www.terraform.io/)
+  - [Nomad](https://www.nomadproject.io/)
+    - https://www.youtube.com/watch?v=SSfuhOLfJUg
+      - https://github.com/schmichael?tab=repositories&q=nomad&type=&language=&sort=
+    - https://www.youtube.com/watch?v=6GShFLUcdUA
+  - [Consul](https://www.consul.io/)
+  - [Vault](https://www.vaultproject.io/)
 - [Kubernetes](https://kubernetes.io/)
     - https://kubernetes.io/docs/home/
     - https://github.com/godaddy/kubernetes-client
