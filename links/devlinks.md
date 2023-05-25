@@ -44,7 +44,7 @@ Collection of URL's
 - [Chat GPT](https://chat.openai.com/)
   - Discord https://discord.com/channels/974519864045756446/1047565374645870743
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
-- [Claude - Anthropic](https://www.anthropic.com/index/introducing-claude)
+- [Claude - Anthropic](https://www.anthropic.com/product)
 - [God Mode](https://godmode.space/)
 - [AutoGPT](https://autogpt.net/)
 
