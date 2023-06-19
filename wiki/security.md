@@ -9,6 +9,7 @@ General Security requirements
 - [7 Cryptography Concepts EVERY Developer Should Know](https://www.youtube.com/watch?v=NuyzuNBFWxQ)
 - https://www.heise.de/hintergrund/Cyberangriffe-Gefahr-durch-Hackbacks-6007526.html?seite=all
 - https://www.it-daily.net/shortnews/33692-welche-phishing-mails-verleiten-mitarbeiter-besonders-zum-klicken
+- https://www.heise.de/news/c-t-3003-Die-gefaehrlichste-Malware-aller-Zeiten-8661099.html
 
 ## Tracking
 https://www.heise.de/news/Browser-Fingerprinting-Installierte-Apps-als-Tracking-Komplizen-6071347.html
@@ -21,7 +22,8 @@ https://www.heise.de/hintergrund/Sichere-Kommunikation-Wie-Messenger-versuchen-M
 - https://www.heise.de/news/Gehackt-trotz-2-Faktor-Login-Wie-man-sich-dagegen-schuetzt-c-t-uplink-48-2c-8970929.html
 - https://www.heise.de/ratgeber/IT-Security-Wie-Angreifer-die-Zwei-Faktor-Authentifizierung-aushebeln-8973846.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 - https://www.heise.de/ratgeber/2FA-absichern-So-schuetzen-Sie-sich-vor-Angriffen-auf-den-zweiten-Faktor-8977133.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
-- 
+- https://www.heise.de/ratgeber/Wie-Telefonbetrueger-die-Zwei-Faktor-Autorisierung-aushebeln-9061644.html?seite=all
+- https://www.heise.de/ratgeber/FAQ-Einloggen-mit-Passkeys-statt-Passwoertern-9067746.html
 
 ## Crypto
 

@@ -6,6 +6,7 @@ Every SSI founds its personal cloud. It acts now in a network, not on a platform
 see also 
 - [SSI](./ssi.md)
 - [Passkeys](https://www.heise.de/hintergrund/Passkeys-Was-sie-ausmacht-und-wie-sie-funktionieren-7366497.html)
+  - https://www.heise.de/hintergrund/Bestandsaufnahme-Passwort-Nachfolger-Passkeys-9048722.html
 - [ActivityPub](https://activitypub.rocks/)
   - https://www.wienerzeitung.at/nachrichten/kultur/medien/2187093-Der-dezentrale-soziale-Mensch.html
   - https://de.wikipedia.org/wiki/ActivityPub#:~:text=ActivityPub%20ist%20ein%202018%20ver%C3%B6ffentlichtes,API%20f%C3%BCr%20eine%20dezentrale%20Kommunikation.
@@ -69,7 +70,8 @@ Service Agent - duplicate self (friend harvey)
 - https://www.heise.de/news/Elektronische-Identitaet-Eine-staatliche-Digitalverfassung-soll-s-richten-7067800.html
 - https://www.heise.de/hintergrund/Passkeys-Was-sie-ausmacht-und-wie-sie-funktionieren-7366497.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 - https://www.heise.de/news/Passkeys-nachruesten-Bitwarden-schluckt-Open-Source-Start-up-Passwordless-dev-7465327.html
-- 
+- https://bitwarden.com/blog/bitwarden-passwordless-dev-hits-general-availability/
+
 ## Securtiy
 
 best would be to use an SE (Secure Element) and 2FA (two factor authentication)
