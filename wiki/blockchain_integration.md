@@ -7,6 +7,8 @@ Blockchain Integration
 - https://t3n.de/news/oracles-off-chain-daten-smart-contract-1465490/
 - https://www.computerwoche.de/a/das-proof-of-abc,3612715
 - https://www.computerwoche.de/a/crypto-wallets-zukunft-der-identitaet,3612775
+- ! https://www.diepresse.com/13435075/forscher-entwickeln-einfaches-tauschprotokoll-fuer-kryptowaehrungen
+
 
 ## Considerations & Pitfalls  
 

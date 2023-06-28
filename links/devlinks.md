@@ -53,6 +53,8 @@ Collection of URL's
 - https://www.heise.de/news/Anonymer-Google-Entwickler-Open-Source-wird-Google-und-OpenAI-den-Rang-ablaufen-8989179.html
 - https://www.heise.de/hintergrund/Macherqualitaeten-ChatGPT-Co-steuern-autonome-Agenten-8983394.html
 
+- https://www.computerwoche.de/a/wenn-gen-ai-zur-sackgasse-wird,3614710
+- https://www.computerwoche.de/a/was-sind-llms,3614567
 
 ## Dev Methods
 
