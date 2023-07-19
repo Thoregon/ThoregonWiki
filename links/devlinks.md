@@ -43,9 +43,12 @@ Collection of URL's
 
 - [Chat GPT](https://chat.openai.com/)
   - Discord https://discord.com/channels/974519864045756446/1047565374645870743
-- [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
-- [Claude - Anthropic](https://www.anthropic.com/product)
+- [Bard](https://bard.google.com/) 
+- [Claude - Anthropic](https://claude.ai/login)
+  - https://www.anthropic.com/index/claude-2
+  - https://www.anthropic.com/product
   - https://www.heise.de/news/Anthropics-KI-System-Claude-liest-Buecher-und-lange-Dokumente-binnen-Sekunden-9013344.html
+- [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
 - [God Mode](https://godmode.space/)
 - [AutoGPT](https://autogpt.net/)
 
@@ -55,6 +58,14 @@ Collection of URL's
 
 - https://www.computerwoche.de/a/wenn-gen-ai-zur-sackgasse-wird,3614710
 - https://www.computerwoche.de/a/was-sind-llms,3614567
+
+### NLP (Natural Language Processing)
+
+- https://www.computerwoche.de/a/3-quelloffene-nlp-tools,3614836
+
+- https://github.com/nltk/nltk
+- https://spacy.io/
+- https://nlp.johnsnowlabs.com/  (!)
 
 ## Dev Methods
 
@@ -171,6 +182,13 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - [Electron](https://www.electronjs.org/de/)
 - Alternatives: https://www.slant.co/options/10828/alternatives/~electron-alternatives
 
+## Browsers
+
+- [Ladybird](https://github.com/SerenityOS/serenity/tree/master/Ladybird)
+- [Brave](https://brave.com/de/)
+- see also Chromium based browsers https://en.wikipedia.org/wiki/Chromium_(web_browser)
+
+
 ## HTML
 - https://developer.mozilla.org/de/docs/Web/HTML/Element/datalist
 - https://developer.mozilla.org/de/docs/Web/HTML/Element/optgroup
@@ -243,6 +261,7 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - https://johnresig.com/blog/pure-javascript-html-parser/
 
 - [Browser Compatibility](https://github.com/mdn/browser-compat-data)
+- [CanIuse](https://can)
 
 #### Lockscreen Widgets
 
