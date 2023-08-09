@@ -111,3 +111,4 @@ https://www.heise.de/news/Britischer-Geheimdienst-MI5-hat-massenhaft-Daten-recht
 https://www.heise.de/news/Fahndung-mit-Gesichtserkennung-Bricht-die-Regierung-ihren-Koalitionsvertrag-7523130.html
 https://www.heise.de/news/Albtraumszenario-US-Dienste-kaufen-massenhaft-Handydaten-fuer-Ueberwachung-9185517.html
 https://www.heise.de/news/Digitale-Beweismittel-EU-Parlament-verabschiedet-E-Evidence-Verordnung-9186427.html
+https://www.heise.de/news/Mastodon-FBI-und-Admins-in-der-Kritik-nach-Server-Beschlagnahme-9227813.html

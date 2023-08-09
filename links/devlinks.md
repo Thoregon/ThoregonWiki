@@ -39,10 +39,27 @@ Collection of URL's
 - https://itwelt.at/news/absurd-schneller-algorithmus-fuer-den-netzwerkdurchfluss/
 - https://www.heise.de/select/ix/2021/12/softlinks/zx73?wt_mc=pred.red.ix.ix122021.116.softlink.softlink
 
+## Webauthn/Passkey
+- https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API
+- https://www.passkeys.io/
+- https://passkeys.dev/docs/reference/terms/
+- https://passkeys.dev/device-support/
+- https://caniuse.com/passkeys
+
+- https://web.dev/passkey-registration/
+- https://www.hanko.io/blog/passkeys-part-1
+- https://www.hanko.io/blog/on-passkeys
+- https://fidoalliance.org/white-paper-multi-device-fido-credentials/
+- https://developers.google.com/identity/passkeys?hl=de
+- https://www.heise.de/ratgeber/Passkey-Logins-in-eigenen-Webdiensten-ergaenzen-9224988.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+- https://www.heise.de/ratgeber/Andrew-Shikiar-im-Interview-Die-Erfolgsaussichten-von-Passkeys-9225952.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+- https://www.heise.de/hintergrund/Kryptografie-in-der-Praxis-Anmelden-ohne-Passwort-Teil-1-9218716.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+
 ## AI (KI) & machine learning
 
 - [Chat GPT](https://chat.openai.com/)
   - Discord https://discord.com/channels/974519864045756446/1047565374645870743
+  - https://www.google.com/search?q=create+a+chatgpt+prompt&rlz=1C9BKJA_enAT726AT726&oq=create+a+chatgpt+prom&gs_lcrp=EgZjaHJvbWUqCwgAEAAYDRgTGIAEMgsIABAAGA0YExiABDILCAEQABgNGBMYgAQyBggCEEUYOTIMCAMQABgKGBMYFhge0gEJMTU5MjhqMGo3qAIAsAIA&hl=de&sourceid=chrome-mobile&ie=UTF-8
 - [Bard](https://bard.google.com/) 
 - [Claude - Anthropic](https://claude.ai/login)
   - https://www.anthropic.com/index/claude-2
@@ -55,6 +72,8 @@ Collection of URL's
 - https://futurezone.at/b2b/internes-google-dokument-leak-keine-chance-gegen-open-source-ki-kuenstliche-intelligenz/402437466
 - https://www.heise.de/news/Anonymer-Google-Entwickler-Open-Source-wird-Google-und-OpenAI-den-Rang-ablaufen-8989179.html
 - https://www.heise.de/hintergrund/Macherqualitaeten-ChatGPT-Co-steuern-autonome-Agenten-8983394.html
+- https://www.heise.de/hintergrund/Plug-ins-fuer-ChatGPT-Welche-es-gibt-und-was-sie-koennen-9218218.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+- 
 
 - https://www.computerwoche.de/a/wenn-gen-ai-zur-sackgasse-wird,3614710
 - https://www.computerwoche.de/a/was-sind-llms,3614567
@@ -78,6 +97,10 @@ Collection of URL's
 ### Hints
 
 - https://www.heise.de/meinung/Kommentar-zu-log4j-Es-funktioniert-wie-spezifiziert-6294476.html
+
+Change Favicon in browser tab
+- https://stackoverflow.com/questions/260857/changing-website-favicon-dynamically
+- https://stackoverflow.com/questions/8139009/can-we-control-the-loading-icon-in-the-browser-tab
 
 ## Tutorials & Anleitungen & Erklärungen
 
@@ -170,6 +193,7 @@ https://www.computerwoche.de/a/wie-jedes-unternehmen-cloud-nativ-werden-kann,355
 https://www.computerwoche.de/a/14-brandheisse-webassembly-projekte,3613425
 
 - https://emscripten.org/
+
 
 ## Law
 

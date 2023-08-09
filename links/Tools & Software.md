@@ -9,6 +9,7 @@
 - https://vercel.com/
 - https://www.netlify.com/
 - https://rapidapi.com/hub
+- Static Webpages: https://www.gatsbyjs.com/docs/
 
 - https://www.computerwoche.de/a/wie-sie-integrationsprojekte-automatisieren-und-beschleunigen,3553986?utm_source=sponsoredPostParking
 - https://www.computerwoche.de/a/12-kostenlose-schnittstellen-tools,3553539

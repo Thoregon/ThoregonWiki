@@ -21,6 +21,9 @@ Distributed ID
 - https://www.youtube.com/watch?v=6O_iJnhIh5o
 - https://medium.com/dev-channel/sign-in-on-the-web-credential-management-api-and-best-practices-d21aed14b6fe
 
+Inkscape
+- https://www.heise.de/ratgeber/Inkscape-Tutorial-Wie-Sie-skalierbare-Diagramme-erstellen-9228164.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+
 IPFS
 - [Hottest IPFS Answers - stackoverflow](https://stackoverflow.com/tags/ipfs/hot?filter=year)
 - https://docs.ipfs.io/
