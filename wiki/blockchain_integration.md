@@ -96,6 +96,8 @@ Articles
 - https://computerwelt.at/news/central-bank-digital-currency-was-sie-ueber-cbdc-wissen-muessen-3/
 - https://t3n.de/news/cardanos-sundaeswap-erreicht-1451449/
 - https://t3n.de/news/avalanche-potential-smart-contract-chain-1435738/
+- https://www.diepresse.com/14399569/ist-bitcoin-gut-fuer-die-umwelt-die-stimmung-schlaegt-um
+
 
 ## Coins
 

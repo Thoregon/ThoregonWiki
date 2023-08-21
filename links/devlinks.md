@@ -73,7 +73,7 @@ Collection of URL's
 - https://www.heise.de/news/Anonymer-Google-Entwickler-Open-Source-wird-Google-und-OpenAI-den-Rang-ablaufen-8989179.html
 - https://www.heise.de/hintergrund/Macherqualitaeten-ChatGPT-Co-steuern-autonome-Agenten-8983394.html
 - https://www.heise.de/hintergrund/Plug-ins-fuer-ChatGPT-Welche-es-gibt-und-was-sie-koennen-9218218.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
-- 
+- https://www.heise.de/news/Autonome-KI-Agenten-Smallville-Experiment-ist-jetzt-Open-Source-9240006.html
 
 - https://www.computerwoche.de/a/wenn-gen-ai-zur-sackgasse-wird,3614710
 - https://www.computerwoche.de/a/was-sind-llms,3614567

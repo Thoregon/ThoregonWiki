@@ -112,3 +112,5 @@ https://www.heise.de/news/Fahndung-mit-Gesichtserkennung-Bricht-die-Regierung-ih
 https://www.heise.de/news/Albtraumszenario-US-Dienste-kaufen-massenhaft-Handydaten-fuer-Ueberwachung-9185517.html
 https://www.heise.de/news/Digitale-Beweismittel-EU-Parlament-verabschiedet-E-Evidence-Verordnung-9186427.html
 https://www.heise.de/news/Mastodon-FBI-und-Admins-in-der-Kritik-nach-Server-Beschlagnahme-9227813.html
+https://www.heise.de/news/EU-Projekt-Exfiles-Hunderte-Krypto-Handys-geknackt-und-Durchbrueche-erzielt-9244925.html
+
