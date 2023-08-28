@@ -105,6 +105,9 @@ Articles
 - Monero
 - Zcash
 
+### bitcoin
+- https://www.google.com/search?q=brc-20&rlz=1C9BKJA_enAT726AT726&oq=brc-2&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIJCAIQABgKGIAEMgkIAxAAGAoYgAQyBwgEEAAYgAQyCQgFEAAYChiABDIJCAYQABgKGIAEMgkIBxAAGAoYgAQyCQgIEAAYChiABDIJCAkQABgKGIAE0gEIOTc4NmowajeoAgCwAgA&hl=de&sourceid=chrome-mobile&ie=UTF-8
+
 ## Interledger/Bridge/Sidechain
 
 - https://de.wikipedia.org/wiki/Lightning-Netzwerk
