@@ -68,6 +68,8 @@ Collection of URL's
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
 - [God Mode](https://godmode.space/)
 - [AutoGPT](https://autogpt.net/)
+- [GPT4All](https://github.com/nomic-ai/gpt4all)
+  - https://gpt4all.io/index.html
 
 - https://futurezone.at/b2b/internes-google-dokument-leak-keine-chance-gegen-open-source-ki-kuenstliche-intelligenz/402437466
 - https://www.heise.de/news/Anonymer-Google-Entwickler-Open-Source-wird-Google-und-OpenAI-den-Rang-ablaufen-8989179.html

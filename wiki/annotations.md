@@ -3,7 +3,7 @@ Annotations
 
 annotations are used to declare information and also behavior.
 
-## Webhooks
+## Webhook
 
 ### Class Annotations
 
@@ -12,13 +12,26 @@ annotations are used to declare information and also behavior.
 ### Attribute Annotations
 
 
-## Services
+## Service
 
 ### Class Annotations
 
 ### Method Annotations
 
+## AutomationService
+
+### Class Annotations
+
+@AutomationService
+  params: { callLimit: <int>, interval: <String> }
+    call limit per interval
+    values for interval: 'S', 'second', 'M', 'minute', 'H', 'hour', 'D', 'day'
+  e.g. @AutomationService({ callLimit: 5, interval: 'minute' }) -> max 5 calls per minute
+
+### Method Annotations
+
 @OnMessage
+  params: channel, eventtype, conditionfn, conditionfn2, ... 
 
 condition params: (evt, handle, appinstance, home)
 
@@ -27,11 +40,14 @@ condition params: (evt, handle, appinstance, home)
 
 ## Future - runntime Annotations:
 
+Method/function param annotations:
+print(/*@NotNull(ignore) @Is(String)*/ text) { ... }
+
 Instance creation Annotations
 new /*@abc*/ Class()
 
 Type cast Annotations
-x = /*@NotNull String*/ y;
+x = /*@NotNull @Is(String)*/ y;
 
 Exception Annotations
 throw /*@Critical*/ Error();

@@ -1,7 +1,7 @@
-new gun
+Neuland
 =======
 
-Name: neuland
+synonym for 'new gun'
 
 ## TL;DR
 
@@ -16,6 +16,14 @@ Name: neuland
 
 consensus means one of the changes will be picked by the consensus protocol
 collaboration means the changes will be merged to get convergence
+
+## Automerge Links
+
+[Automerge](https://automerge.org/docs/tsapi/index/)
+
+Examples
+- https://snyk.io/advisor/npm-package/automerge/example
+
 
 ## entities
 

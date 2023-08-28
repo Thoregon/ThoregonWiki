@@ -33,6 +33,8 @@ https://www.heise.de/hintergrund/Sichere-Kommunikation-Wie-Messenger-versuchen-M
 https://www.heise.de/hintergrund/Sicher-kommunizieren-Wie-moderne-Kommunikationsverschluesselung-funktioniert-5023121.html
 https://www.heise.de/developer/artikel/Was-man-ueber-Kryptografie-wissen-sollte-5001908.html
 
+https://www.heise.de/news/Google-veroeffentlicht-erste-Quantencomputer-resistente-Fido2-Implementierung-9283078.html
+
 ! https://blog.engelke.com/2014/09/19/saving-cryptographic-keys-in-the-browser/
 ! https://pomcor.com/2017/06/02/keys-in-browser/
 Webworker for memory separation: https://auth0.com/blog/secure-browser-storage-the-facts/#Secure-Browser-Storage-in-Auth0-SDKs
