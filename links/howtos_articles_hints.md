@@ -70,6 +70,9 @@ Javascript
     - https://javascript.info/async-iterators-generators
     - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for-await...of
 
+- new.target ... check if constructor is called with new 
+  - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new.target?retiredLocale=de
+
 Browser JS
 - Capture 'click' anywhere: https://stackoverflow.com/questions/8054429/how-do-i-handle-a-click-anywhere-in-the-page-even-when-a-certain-element-stops
 - Streams in Browser

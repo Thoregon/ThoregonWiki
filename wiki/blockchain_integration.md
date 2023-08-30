@@ -66,6 +66,17 @@ Blockchain Integration
             - use a hash from this signature as pepper (or salt) for ALL PoW hashes
             - provide browser plugin for security check 
 
+## Offline Private Side Chain
+
+- Move and amount to a (new) private side chain
+  - only on one device
+- amount on the side chain can now be used offline
+- receiver references to original on chain tx
+  - adds a withdrawal tx 
+- secure a full offline tx with zero knowledge proofs
+
+--> check with lightning network
+
 ## Dev 
 
 - https://infura.io/
