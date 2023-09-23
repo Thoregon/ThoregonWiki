@@ -132,6 +132,10 @@
 - The mathematical danger of democracy https://www.youtube.com/watch?app=desktop&v=goQ4ii-zBMw
 - https://www.diepresse.com/6269736/wie-die-eu-kommission-laestige-fragen-abwimmelt
 - https://www.heise.de/news/Mit-der-Chatkontrolle-kehrt-die-Vorratsdatenspeicherung-zurueck-8474890.html
+- https://www.heise.de/news/Offenes-WLAN-Die-Angst-vor-einem-Comeback-der-Stoererhaftung-geht-um-9293044.html
+- https://www.heise.de/news/USA-Verbindliche-Standards-duerfen-frei-veroeffentlicht-werden-9306039.html
+- https://www.heise.de/news/UN-Bericht-Hunderttausende-werden-zu-Internetbetrug-gezwungen-9288984.html
+- 
 
 ## Community, Cooperation, Wealth
 

@@ -13,6 +13,8 @@ Biometrische Generalschlüssel
 !!! https://www.heise.de/security/meldung/Generalschluessel-fuer-Fingerabdruckscanner-Master-Prints-entsperren-Smartphones-4220782.html
 https://www.heise.de/hintergrund/Fake-Face-Generatoren-verraten-Ausgangsbilder-6212347.html
 
+https://www.heise.de/hintergrund/Notruf-112-So-ortet-die-Leitstelle-Ihr-Mobiltelefon-7490400.html
+
 Apple Photo Scann
     https://www.heise.de/news/iPhone-Scanning-auf-Kinderpornos-Apple-nennt-Abdrehmoeglichkeit-6157178.html
 
@@ -113,4 +115,6 @@ https://www.heise.de/news/Albtraumszenario-US-Dienste-kaufen-massenhaft-Handydat
 https://www.heise.de/news/Digitale-Beweismittel-EU-Parlament-verabschiedet-E-Evidence-Verordnung-9186427.html
 https://www.heise.de/news/Mastodon-FBI-und-Admins-in-der-Kritik-nach-Server-Beschlagnahme-9227813.html
 https://www.heise.de/news/EU-Projekt-Exfiles-Hunderte-Krypto-Handys-geknackt-und-Durchbrueche-erzielt-9244925.html
+https://www.heise.de/news/China-Informationspflicht-gibt-Hackern-womoeglich-Zugriff-auf-Sicherheitsluecken-9297913.html
+https://www.heise.de/news/Verschluesselung-bedroht-Digitalwirtschaft-laeuft-Sturm-gegen-Chatkontrolle-9297460.html
 

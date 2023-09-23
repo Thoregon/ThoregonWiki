@@ -52,8 +52,9 @@ Thoregon
 - [Nginx](https://www.nginx.com/) HTTP Proxy
     - [Nginx Proxy Manager](https://nginxproxymanager.com/guide/)
         - https://www.youtube.com/watch?v=aRURfnY2ikg
-        - https://www.nginx.com/products/nginx/live-activity-monitoring/
+          - https://www.youtube.com/watch?v=B40TQcOzsNU
         - https://github.com/NginxProxyManager/nginx-proxy-manager
+        - https://www.nginx.com/products/nginx/live-activity-monitoring/
         - https://github.com/schenkd/nginx-ui
 - [Proxmox](https://www.proxmox.com/de/) Open Source Infrastucture
 - [IPFS Container](https://docs.ipfs.io/how-to/run-ipfs-inside-docker/#set-up)
@@ -72,7 +73,26 @@ Thoregon
     - world4you
         - https://github.com/NerLOR/World4YouApi
         - https://www.world4you.com/faq/de/domains/faq.dns-verwaltung-kundenbereich.html
-        
+
+- [Swag](https://docs.linuxserver.io/general/swag)
+- [Caddy](https://caddyserver.com/)
+  - https://caddyserver.com/docs/quick-starts/reverse-proxy
+  - https://www.youtube.com/watch?v=qj45uHP7Jmo
+- [Traefik](https://doc.traefik.io/traefik/getting-started/quick-start/)
+
+
+## Provisioning
+
+Access Docker API:
+- https://agustincb.github.io/docker-api
+- https://github.com/apocas/dockerode-compose
+
+## Authentication
+- 
+- [keycloak](https://www.keycloak.org/)
+- [Authelia](https://www.authelia.com/)
+
+
 ### DevOps
 - [FLUX](https://github.com/fluxcd/flux2) deploy to Kubernetes Clusters
 - [Krius](https://github.com/infracloudio/krius) manage Prometheus, Thanos & friends across multiple clusters easily for scale
@@ -82,6 +102,11 @@ Info:
 - https://logz.io/blog/prometheus-vs-nagios-metrics/
 - https://www.educba.com/prometheus-vs-nagios/
 - https://www.metricfire.com/blog/prometheus-vs-nagios/
+
+## VPN & DDNS
+
+- https://timknowsbest.com/free-dynamic-dns
+    - https://github.com/timothymiller/cloudflare-ddns
 
 ## V Server
 

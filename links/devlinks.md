@@ -71,6 +71,9 @@ Collection of URL's
 - [GPT4All](https://github.com/nomic-ai/gpt4all)
   - https://gpt4all.io/index.html
 
+deepfake abwehr:
+- https://www.scinexx.de/news/technik/neues-verfahren-gegen-ki-generierte-deepfakes/
+
 - https://futurezone.at/b2b/internes-google-dokument-leak-keine-chance-gegen-open-source-ki-kuenstliche-intelligenz/402437466
 - https://www.heise.de/news/Anonymer-Google-Entwickler-Open-Source-wird-Google-und-OpenAI-den-Rang-ablaufen-8989179.html
 - https://www.heise.de/hintergrund/Macherqualitaeten-ChatGPT-Co-steuern-autonome-Agenten-8983394.html
@@ -265,6 +268,8 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
     - https://www.yoctoproject.org/
 - https://www.nushell.sh/
 - the fuck: correct errors in previous console commands     https://github.com/nvbn/thefuck
+- https://en.wikipedia.org/wiki/BusyBox
+
 
 ### Terminal
 
@@ -404,6 +409,9 @@ Cart with Credentials Management API
 - [peertube](https://joinpeertube.org/de/)
 - [veezee.tube](https://veezee.tube/)
 
+- https://blog.hubspot.de/marketing/youtube-alternative
+- https://www.acquisa.de/magazin/youtube-alternativen
+
 ### Video Editing in Browser
 - https://www.heise.de/select/ix/2022/7/2202510170179106872
   - https://docs.opencv.org/3.4/d5/d10/tutorial_js_root.html
@@ -488,3 +496,4 @@ Cart with Credentials Management API
 ## NFC
 
 - https://www.techstage.de/ratgeber/nfc-tags-fur-android-und-iphone-ab-20-cent/sg34e54?wt_mc=intern.red.techstage.newsticker.7-tage-news.teaser.teaser
+

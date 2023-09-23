@@ -98,6 +98,7 @@ Ethereum    https://consensys.github.io/smart-contract-best-practices/known_atta
 
 - [Velid](https://www.heise.de/news/Hackerkollektiv-cDc-kuendigt-quelloffenes-Verschluesselungsframework-an-9240518.html)
   - https://gitlab.com/veilid/veilid
+  - https://www.heise.de/news/Hackerkollektiv-Cult-of-the-Dead-Cow-veroeffentlicht-Privacy-Framework-9304796.html
 
 
 https://www.schlager-news.at/markt-kommerzielle-verschlusselungssoftware-kapazitaten/

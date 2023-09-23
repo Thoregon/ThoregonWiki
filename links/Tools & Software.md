@@ -1,6 +1,11 @@
 ## Developer Tools
 
+## Android
 
+- [ReVanced](https://revanced.app/) patch and customize APK's
+  - https://github.com/revanced
+  - https://github.com/revanced/revanced-manager
+  - 
 
 ## Platforms
 
