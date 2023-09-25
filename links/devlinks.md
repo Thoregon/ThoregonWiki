@@ -434,6 +434,10 @@ Cart with Credentials Management API
     - https://code.briarproject.org/briar/briar/-/wikis/home
     - https://www.heise.de/ratgeber/Darknet-So-funktioniert-der-ausfallsichere-Messenger-Briar-7141420.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 
+## DynDNS
+
+- https://ipv64.net/
+
 ## Distibuted Storage & Systems
 
 - [IPFS](https://ipfs.io/)
