@@ -20,6 +20,7 @@ collaboration means the changes will be merged to get convergence
 ## Automerge Links
 
 [Automerge](https://automerge.org/docs/tsapi/index/)
+[Slack](https://app.slack.com/client/T61MVPYP5/browse-channels)
 
 Examples
 - https://snyk.io/advisor/npm-package/automerge/example
