@@ -135,6 +135,7 @@
 - https://www.heise.de/news/Offenes-WLAN-Die-Angst-vor-einem-Comeback-der-Stoererhaftung-geht-um-9293044.html
 - https://www.heise.de/news/USA-Verbindliche-Standards-duerfen-frei-veroeffentlicht-werden-9306039.html
 - https://www.heise.de/news/UN-Bericht-Hunderttausende-werden-zu-Internetbetrug-gezwungen-9288984.html
+- https://www.heise.de/news/Lobbygeflecht-bei-Chatkontrolle-Schlimmste-Befuerchtungen-bestaetigt-9318337.html
 - 
 
 ## Community, Cooperation, Wealth
