@@ -10,7 +10,8 @@ General Security requirements
 - https://www.heise.de/hintergrund/Cyberangriffe-Gefahr-durch-Hackbacks-6007526.html?seite=all
 - https://www.it-daily.net/shortnews/33692-welche-phishing-mails-verleiten-mitarbeiter-besonders-zum-klicken
 - https://www.heise.de/news/c-t-3003-Die-gefaehrlichste-Malware-aller-Zeiten-8661099.html
-
+- https://futurezone.at/digital-life/hacker-salzburg-nfc-tesla-smartphone-it-sicherheit-security-forschung/402095128
+- 
 ## Tracking
 https://www.heise.de/news/Browser-Fingerprinting-Installierte-Apps-als-Tracking-Komplizen-6071347.html
 --> see https://schemeflood.com/

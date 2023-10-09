@@ -87,6 +87,15 @@ Access Docker API:
 - https://agustincb.github.io/docker-api
 - https://github.com/apocas/dockerode-compose
 
+## WebRTC
+- https://stackoverflow.com/questions/54766128/can-a-pwa-run-a-webrtc-connection-in-the-background
+- https://github.com/w3c/ServiceWorker/issues/1522
+- WebRTC in Serviceworkers https://www.google.com/search?q=serviceworker+webrtc&oq=serviceworker+webrtc&aqs=chrome..69i57j0i13i19i512.6447j0j1&sourceid=chrome&ie=UTF-8
+Containers
+- https://idomagor.medium.com/how-to-dockerize-a-rtc-app-or-service-41368ea7b31
+- https://habr.com/en/companies/flashphoner/articles/562244/
+- https://hub.docker.com/r/spreed/webrtc/
+
 ## Authentication
 - 
 - [keycloak](https://www.keycloak.org/)

@@ -190,6 +190,7 @@ https://www.heise.de/blog/Variable-Fonts-und-wie-man-sie-nicht-einsetzen-sollte-
 
 https://github.com/fermyon/spin
 
+x ??= y   ->  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_assignment
 https://www.heise.de/developer/artikel/Nullreferenzen-So-vermeiden-Sie-den-Billion-Dollar-Mistake-in-JavaScript-und-TypeScript-6221457.html
 https://www.heise.de/developer/artikel/Dependency-Injection-in-JavaScript-5992734.html
 https://www.heise.de/developer/artikel/Das-Adapter-Pattern-in-JavaScript-5073865.html
@@ -294,6 +295,9 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - [Browser Compatibility](https://github.com/mdn/browser-compat-data)
 - [CanIuse](https://can)
 
+HATEOS (Hypermedia)
+- [ketting](https://github.com/badgateway/ketting)
+
 #### Lockscreen Widgets
 
 - Android
@@ -309,7 +313,12 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - https://github.com/google/zx
 
 #### QR Code
-- Reader [jsQR](https://github.com/cozmo/jsQR)
+- Reader
+  - [Html5-QRCode](https://github.com/mebjas/html5-qrcode)
+    - https://github.com/mebjas/html5-qrcode#supported-code-formats
+    - https://blog.minhazav.dev/research/html5-qrcode.html
+    - https://github.com/scanapp-org/imagecodes
+  - [jsQR](https://github.com/cozmo/jsQR)
 - Generator 
     - https://github.com/janantala/qrcode.js
     - https://github.com/soldair/node-qrcode
@@ -492,6 +501,9 @@ Cart with Credentials Management API
 - https://github.com/prabhatsharma/zinc
 - https://github.com/meilisearch/meilisearch
 - Apache Solr/Lucene    https://solr.apache.org/ 
+
+Meta Search Engine
+- https://github.com/neon-mmd/websurfx
 
 ## Linux
 

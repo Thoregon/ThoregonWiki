@@ -118,3 +118,7 @@ https://www.heise.de/news/EU-Projekt-Exfiles-Hunderte-Krypto-Handys-geknackt-und
 https://www.heise.de/news/China-Informationspflicht-gibt-Hackern-womoeglich-Zugriff-auf-Sicherheitsluecken-9297913.html
 https://www.heise.de/news/Verschluesselung-bedroht-Digitalwirtschaft-laeuft-Sturm-gegen-Chatkontrolle-9297460.html
 https://www.heise.de/news/Kritik-an-Vorratsdatenspeicherung-Regierung-will-fokussiertere-Finanzkontrolle-9316200.html
+https://www.heise.de/news/Chatkontrolle-Europol-will-ungefilterten-Zugriff-auf-Daten-von-WhatsApp-Co-9322413.html
+https://www.heise.de/news/Online-Ausweis-und-VPN-Verbot-Streit-ueber-Anonymitaet-im-Netz-kocht-wieder-hoch-9327812.html
+https://www.heise.de/news/Predator-Files-Wie-deutsche-Geldgeber-und-der-Staat-maechtige-Spyware-foerdern-9327419.html
+
