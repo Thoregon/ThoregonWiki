@@ -46,6 +46,8 @@ Collection of URL's
 - https://passkeys.dev/device-support/
 - https://caniuse.com/passkeys
 
+- https://t3n.de/news/google-passkeys-standard-anmeldung-fuer-alle-1581392/
+- 
 - https://web.dev/passkey-registration/
 - https://www.hanko.io/blog/passkeys-part-1
 - https://www.hanko.io/blog/on-passkeys
