@@ -136,6 +136,7 @@
 - https://www.heise.de/news/USA-Verbindliche-Standards-duerfen-frei-veroeffentlicht-werden-9306039.html
 - https://www.heise.de/news/UN-Bericht-Hunderttausende-werden-zu-Internetbetrug-gezwungen-9288984.html
 - https://www.heise.de/news/Lobbygeflecht-bei-Chatkontrolle-Schlimmste-Befuerchtungen-bestaetigt-9318337.html
+- https://t3n.de/news/gpt-4-anonym-datenschutz-llm-1582860/
 - 
 
 ## Community, Cooperation, Wealth
