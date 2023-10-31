@@ -73,6 +73,12 @@ Collection of URL's
 - [GPT4All](https://github.com/nomic-ai/gpt4all)
   - https://gpt4all.io/index.html
 
+Neuronales Netz kann Verallgemeinern (Rückschluss)
+- https://www.scinexx.de/news/technik/ki-lernt-das-verallgemeinern/
+
+KI Haluzinationen beseitigen:
+- https://t3n.de/news/woodpecker-ki-halluzinieren-1584803/
+
 deepfake abwehr:
 - https://www.scinexx.de/news/technik/neues-verfahren-gegen-ki-generierte-deepfakes/
 
