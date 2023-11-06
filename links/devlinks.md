@@ -73,6 +73,9 @@ Collection of URL's
 - [GPT4All](https://github.com/nomic-ai/gpt4all)
   - https://gpt4all.io/index.html
 
+- [Sprach-KI selber betreiben](https://www.heise.de/news/Sprach-KI-selber-betreiben-c-t-uplink-9326997.html)
+- [Complete chat protocol between Pina Merkert and ChatGPT](https://gist.github.com/pinae/8ff20958f2774843b753812b0faa7514)
+
 Neuronales Netz kann Verallgemeinern (Rückschluss)
 - https://www.scinexx.de/news/technik/ki-lernt-das-verallgemeinern/
 
@@ -248,6 +251,7 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - https://jsfiddle.net/
 - http://sqlfiddle.com/
 - https://nightwatchjs.org/
+- https://github.com/chaos-mesh/chaos-mesh
 
 ### JS Unit Test FW's
 
@@ -410,6 +414,8 @@ Cart with Credentials Management API
 - https://docute.org/
 - https://www.mkdocs.org/
 - https://docusaurus.io/
+
+-> https://www.jetbrains.com/writerside/
 
 ## Auth
 

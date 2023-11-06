@@ -145,6 +145,10 @@ Info:
 
 - https://aws.amazon.com/de/lightsail/
 
+## Mailserver
+
+- https://www.heise.de/ratgeber/Mailserver-in-Eigenregie-Was-Sie-heute-brauchen-9329490.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+
 ## Terminal Server (Linux)
 
 - https://www.youtube.com/watch?v=sAllRma_0xc
