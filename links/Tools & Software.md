@@ -1,4 +1,4 @@
-## Developer Tools
+# Developer Tools
 
 ## Android
 
@@ -19,7 +19,7 @@
 - https://www.computerwoche.de/a/wie-sie-integrationsprojekte-automatisieren-und-beschleunigen,3553986?utm_source=sponsoredPostParking
 - https://www.computerwoche.de/a/12-kostenlose-schnittstellen-tools,3553539
 
-# APIs (REST)
+## APIs (REST)
 
 - https://developers.google.com/ml-kit
 - https://cloud.google.com/vision/docs/samples/vision-batch-annotate-files-gcs#vision_batch_annotate_files_gcs-nodejs
@@ -30,10 +30,17 @@
 - https://www.wordsapi.com/
 - https://www.igdb.com/api
  
-## Software
+# Software
 
-- cross-platform audio software https://www.audacityteam.org/
-- cross-platform video editor https://shotcut.org/
-- Open Source 2D-CAD https://librecad.org/
-- free interior design application http://sweethome3d.com/
-- 
+- Audio
+  - cross-platform audio software https://www.audacityteam.org/
+  - https://github.com/TheJoeFin/Text-Grab
+- Video 
+  - cross-platform video editor https://shotcut.org/
+- CAD/Design
+  - Open Source 2D-CAD https://librecad.org/
+  - free interior design application http://sweethome3d.com/
+- Image & OCR
+  - https://github.com/TheJoeFin/Text-Grab
+  - https://github.com/upscayl/upscayl
+

@@ -76,8 +76,15 @@ Collection of URL's
 - [Sprach-KI selber betreiben](https://www.heise.de/news/Sprach-KI-selber-betreiben-c-t-uplink-9326997.html)
 - [Complete chat protocol between Pina Merkert and ChatGPT](https://gist.github.com/pinae/8ff20958f2774843b753812b0faa7514)
 
-Neuronales Netz kann Verallgemeinern (Rückschluss)
-- https://www.scinexx.de/news/technik/ki-lernt-das-verallgemeinern/
+- [kaum Intelligenz in KI-Modellen](https://t3n.de/news/google-deepmind-ki-forscher-wenig-intelligenz-in-modellen-1588135/)
+- [Neuronales Netz kann Verallgemeinern (Rückschluss)](https://www.scinexx.de/news/technik/ki-lernt-das-verallgemeinern/)
+
+Upscale Images
+- https://github.com/upscayl/upscayl
+
+Grab Text
+- https://github.com/TheJoeFin/Text-Grab
+
 
 KI Haluzinationen beseitigen:
 - https://t3n.de/news/woodpecker-ki-halluzinieren-1584803/
