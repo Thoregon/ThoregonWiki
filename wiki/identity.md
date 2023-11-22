@@ -16,6 +16,7 @@ see also
   - https://github.com/supertokens
   - https://www.heise.de/news/Open-Source-Authentifizerung-SuperTokens-laesst-alle-Daten-im-eigenen-RZ-9009631.html
   - https://www.youtube.com/watch?v=EjLxXMRN73I
+- [eID - EU Wallet](https://itwelt.at/news/topmeldung/welche-herausforderungen-bringt-die-neue-eu-wallet-mit-sich/) ist nicht gut umgesetzt und wird wenig verwendet
 
 To access content in the universe, the SSI needs a claim for each content or content collection.
 Content is not just a data structure anymore, it comes with behavior. 
