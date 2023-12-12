@@ -72,7 +72,8 @@ Collection of URL's
 - [AutoGPT](https://autogpt.net/)
 - [GPT4All](https://github.com/nomic-ai/gpt4all)
   - https://gpt4all.io/index.html
-
+- [Mistral AI](https://mistral.ai/news/mixtral-of-experts/)
+  - Mixtral 8x7B
 - [Sprach-KI selber betreiben](https://www.heise.de/news/Sprach-KI-selber-betreiben-c-t-uplink-9326997.html)
 - [Complete chat protocol between Pina Merkert and ChatGPT](https://gist.github.com/pinae/8ff20958f2774843b753812b0faa7514)
 
