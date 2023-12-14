@@ -25,6 +25,7 @@ https://www.heise.de/news/Unverschluesselte-Access-Tokens-Sicherheitsluecke-in-t
 https://www.golem.de/news/wlan-sicherheitsluecke-fuer-eine-spezialdrohne-sind-massive-waende-wie-glas-2211-169475.html
 https://www.heise.de/hintergrund/Wie-ein-Pentester-ein-Maschinenbauunternehmen-hackte-7313697.html?seite=all
 https://www.heise.de/news/Versteckte-Tabellenzeile-kostet-Kryptoprojekt-120-000-Dollar-7545772.html
+https://www.heise.de/news/Windows-Hello-Sicherheitsforscher-faelschen-Fingerabdruck-mit-Raspberry-Pi-4-9537812.html
 
 https://www.sofie-iot.eu/
 
