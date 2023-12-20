@@ -80,6 +80,8 @@ Collection of URL's
 - [kaum Intelligenz in KI-Modellen](https://t3n.de/news/google-deepmind-ki-forscher-wenig-intelligenz-in-modellen-1588135/)
 - [Neuronales Netz kann Verallgemeinern (Rückschluss)](https://www.scinexx.de/news/technik/ki-lernt-das-verallgemeinern/)
 
+- [MatheKI FunSearch](https://www.scinexx.de/news/technik/ki-als-mathematiker/)
+
 Upscale Images
 - https://github.com/upscayl/upscayl
 
