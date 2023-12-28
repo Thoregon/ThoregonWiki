@@ -1,6 +1,9 @@
 Security Links Collection
 -------------------------
 
+Top Level Certs (Stammzertifikate)
+- https://www.heise.de/ratgeber/Sicherheit-Wo-sich-ueberall-Stammzertifikate-verstecken-9568002.html
+
 !! Log4Shell: 
     - https://www.youtube.com/watch?app=desktop&v=JYiagUpmxXo&feature=youtu.be
     - https://github.com/predic8/log4j-log4shell-exploit
@@ -26,7 +29,8 @@ https://www.golem.de/news/wlan-sicherheitsluecke-fuer-eine-spezialdrohne-sind-ma
 https://www.heise.de/hintergrund/Wie-ein-Pentester-ein-Maschinenbauunternehmen-hackte-7313697.html?seite=all
 https://www.heise.de/news/Versteckte-Tabellenzeile-kostet-Kryptoprojekt-120-000-Dollar-7545772.html
 https://www.heise.de/news/Windows-Hello-Sicherheitsforscher-faelschen-Fingerabdruck-mit-Raspberry-Pi-4-9537812.html
-
+https://www.heise.de/news/Alternatives-Erscheinungsbild-Face-ID-Komfortfunktion-als-Sicherheitsproblem-9580217.html
+    
 https://www.sofie-iot.eu/
 
 https://www.derstandard.at/story/2000125783121/sicherheitsforscher-warnen-whatsapp-konten-koennen-kinderleicht-von-anderen-gesperrt-werden
