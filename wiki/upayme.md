@@ -5,9 +5,7 @@
     - Chrome   ok
     - Safari
     - Firefox
-
-## ThoregonEntity
-    - full init
+    - Edge
 
 ## Images
     - error during saving
@@ -25,6 +23,9 @@
     - local default not set
     - Payment Plan - Texte erstellen
     - TAX i18n Texte
+
+## ThoregonEntity
+    - full init
 
 
 ## Aurora
