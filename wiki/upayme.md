@@ -10,6 +10,8 @@
 ## Images
     - error during saving
     - feature to load image without cropping - keep original ratio  ( Logo ) -> keep original Ratio
+    - images are not saved
+    - images are not replaced
 
 ## TAX Calculation 
     - tax calculation models !!!
