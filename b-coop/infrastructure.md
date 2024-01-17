@@ -12,18 +12,25 @@ Thoregon
 
 --> [storj](https://www.storj.io/)
 
+### Pack Deploy Test
+
+- [Kamal](https://kamal-deploy.org/)  Depoly apps
+- [Turbopack](https://turbo.build/pack)  App packer
+- [Devpod](https://devpod.sh/) Dev environments in a container, use anywhere
+  - https://devpod.sh/docs/what-is-devpod
+
 ### System
 
 - [Hashicorp](https://www.hashicorp.com/)
   - https://github.com/hashicorp
   - [Terraform](https://www.terraform.io/)
-  - [Nomad](https://www.nomadproject.io/)
+  - [Nomad](https://www.nomadproject.io/) -> USE!
     - https://www.youtube.com/watch?v=SSfuhOLfJUg
       - https://github.com/schmichael?tab=repositories&q=nomad&type=&language=&sort=
     - https://www.youtube.com/watch?v=6GShFLUcdUA
   - [Consul](https://www.consul.io/)
   - [Vault](https://www.vaultproject.io/)
-- [Kubernetes](https://kubernetes.io/)
+- [Kubernetes](https://kubernetes.io/) -> don't use!
     - https://kubernetes.io/docs/home/
     - https://github.com/godaddy/kubernetes-client
     - https://github.com/kubernetes-client/javascript/tree/master/examples
@@ -44,6 +51,10 @@ Thoregon
         - How to scale docker containers using Nginx as reverse proxy and load balancer
             -> https://www.youtube.com/watch?v=9aOpRhm33oM
         - https://www.youtube.com/watch?v=spbkCihFpQ8
+- [Ansible](https://www.ansible.com/) Automation for everyone
+  - Event-Driven Ansible
+    - https://www.redhat.com/en/technologies/management/ansible/event-driven-ansible
+    - https://www.heise.de/select/ix/2023/10/2316607093159260949)
 - [Podman](https://podman.io/)
     - https://docs.podman.io/en/latest/Commands.html
 - [Prometeus](https://prometheus.io/) Appliance Monitoring    
@@ -100,7 +111,7 @@ Containers
 - 
 - [keycloak](https://www.keycloak.org/)
 - [Authelia](https://www.authelia.com/)
-
+- [Bitwarden](https://bitwarden.com/de-DE/)
 
 ### DevOps
 - [FLUX](https://github.com/fluxcd/flux2) deploy to Kubernetes Clusters

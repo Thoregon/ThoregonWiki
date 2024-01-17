@@ -3,6 +3,8 @@ Surveillance links collection
 
 !! https://www.heise.de/ratgeber/FAQ-Verschluesselte-DNS-Anfragen-6207567.html
 
+!! Datenhändler: https://datarade.ai/
+
 Cookies via DNS CNAME
 https://fm4.orf.at/stories/3012370/
 

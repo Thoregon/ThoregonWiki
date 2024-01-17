@@ -56,6 +56,15 @@ Collection of URL's
 - https://www.heise.de/ratgeber/Passkey-Logins-in-eigenen-Webdiensten-ergaenzen-9224988.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 - https://www.heise.de/ratgeber/Andrew-Shikiar-im-Interview-Die-Erfolgsaussichten-von-Passkeys-9225952.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 - https://www.heise.de/hintergrund/Kryptografie-in-der-Praxis-Anmelden-ohne-Passwort-Teil-1-9218716.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+- https://www.heise.de/news/Bitwarden-legt-Passkey-Unterstuetzung-fuer-Web-App-nach-9595697.html
+- 
+## MFA, 2FA, FIDO, Passkey
+
+- [FIDO Javascript API](https://fidoalliance.org/specs/fido-u2f-v1.0-nfc-bt-amendment-20150514/fido-u2f-javascript-api.html)
+
+- FIDO-Tokens: Login ohne Smartphone https://help.orf.at/stories/3222650/
+  - für die Nutzung mit der ID Austria geeignet https://geizhals.at/?fs=FIDO+Token+ID+Austria&hloc=at
+
 
 ## AI (KI) & machine learning
 
@@ -81,6 +90,14 @@ Collection of URL's
 - [Neuronales Netz kann Verallgemeinern (Rückschluss)](https://www.scinexx.de/news/technik/ki-lernt-das-verallgemeinern/)
 
 - [MatheKI FunSearch](https://www.scinexx.de/news/technik/ki-als-mathematiker/)
+
+- [Eigene Coding-Assistenten trainieren und nutzen](https://www.heise.de/select/ix/2023/10/2322914314881870737)
+  - https://www.heise.de/select/ix/2023/10/softlinks/zrqf?wt_mc=pred.red.ix.ix102023.044.softlink.softlink
+- [Sprachmodelle verstehen und einsetzen](https://www.heise.de/select/ix/2023/13/2302013462923862371)
+- [Feintuning großer Sprachmodelle – so gehts](https://www.heise.de/select/ix/2023/10/2322914442478696032)
+- [Code Llama: Ein Llama lernt programmieren](https://www.heise.de/hintergrund/Code-Llama-Ein-Llama-lernt-programmieren-9537794.html)
+
+- [KI-Bildbearbeitung: Diese Web-Tools verbessern Fotos ohne Aufwand](https://www.heise.de/ratgeber/KI-Bildbearbeitung-Diese-Web-Tools-verbessern-Fotos-ohne-Aufwand-9590816.html?seite=all)
 
 Upscale Images
 - https://github.com/upscayl/upscayl
@@ -302,6 +319,10 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 
 ### JS
 
+- [bestofjs](https://bestofjs.org/)
+  - https://bestofjs.org/projects?tags=util
+- [33 JS Concepts](https://github.com/leonardomso/33-js-concepts)
+
 - [🦄 magic-regexp](https://regexp.dev/)
 - [voca](https://vocajs.com/)                  The ultimate JavaScript string library
 - has-values            value classification
@@ -313,6 +334,10 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
     - https://github.com/Turfjs/turf/tree/master/packages
 - https://github.com/RubenVerborgh/AsyncIterator
 - https://johnresig.com/blog/pure-javascript-html-parser/
+- [ZIP](https://gildas-lormeau.github.io/zip.js/)
+- [Hono](https://hono.dev/) replacement for express
+- [microdiff](https://github.com/AsyncBanana/microdiff) fast Object/Array deep diff
+- [ClipboardJS](https://clipboardjs.com/)
 
 - [Browser Compatibility](https://github.com/mdn/browser-compat-data)
 - [CanIuse](https://can)
@@ -346,13 +371,19 @@ HATEOS (Hypermedia)
     - https://github.com/soldair/node-qrcode
 - https://github.com/manuelottlik/ct-js-qr
 
-### UI Utils
+### UI Utils  UX
+
+- [Modernes UX-Design: Equity-focused Design](https://www.heise.de/select/ix/2023/11/2313211435578161442)
 
 #### Frameworks
 
 - https://alpinejs.dev/     https://github.com/alpinejs/alpine/tree/main/packages/alpinejs/src 
 - https://riot.js.org/
 - https://mantine.dev/
+
+#### UI Components
+
+- https://github.com/shadcn-ui/ui
 
 #### Workflow
 
@@ -397,6 +428,10 @@ HATEOS (Hypermedia)
     - https://github.com/fengyuanchen/compressorjs
 - https://donaldcwl.github.io/browser-image-compression/example/basic.html
     - https://github.com/Donaldcwl/browser-image-compression
+
+#### PDF
+
+- https://github.com/gotenberg/gotenberg
 
 ## 3D, VR, AR
 
@@ -537,3 +572,6 @@ Meta Search Engine
 
 - https://www.techstage.de/ratgeber/nfc-tags-fur-android-und-iphone-ab-20-cent/sg34e54?wt_mc=intern.red.techstage.newsticker.7-tage-news.teaser.teaser
 
+# Functionality
+
+- [IPM - harbour in port manning](https://docs.oracle.com/cd/F44421_01/doc.202/f44436/c_safety.htm#CRCRW-c_emergency_duties_tab-50B1F70E)
