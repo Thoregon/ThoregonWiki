@@ -91,6 +91,7 @@ Collection of URL's
 
 - [MatheKI FunSearch](https://www.scinexx.de/news/technik/ki-als-mathematiker/)
 
+- [Webentwicklung: Neuronale Netze mit JavaScript im Browser trainieren](https://www.heise.de/ratgeber/Webentwicklung-Neuronale-Netze-mit-JavaScript-im-Browser-trainieren-9594750.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser)
 - [Eigene Coding-Assistenten trainieren und nutzen](https://www.heise.de/select/ix/2023/10/2322914314881870737)
   - https://www.heise.de/select/ix/2023/10/softlinks/zrqf?wt_mc=pred.red.ix.ix102023.044.softlink.softlink
 - [Sprachmodelle verstehen und einsetzen](https://www.heise.de/select/ix/2023/13/2302013462923862371)
@@ -98,6 +99,7 @@ Collection of URL's
 - [Code Llama: Ein Llama lernt programmieren](https://www.heise.de/hintergrund/Code-Llama-Ein-Llama-lernt-programmieren-9537794.html)
 
 - [KI-Bildbearbeitung: Diese Web-Tools verbessern Fotos ohne Aufwand](https://www.heise.de/ratgeber/KI-Bildbearbeitung-Diese-Web-Tools-verbessern-Fotos-ohne-Aufwand-9590816.html?seite=all)
+
 
 Upscale Images
 - https://github.com/upscayl/upscayl
