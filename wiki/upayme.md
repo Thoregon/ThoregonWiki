@@ -18,14 +18,15 @@
     - manual mode???
 
 ## Checkoutpage
-    - performance
-    - Payment Options - Card not loaded first time  -> could be the activated option????
-    - which price should be shown when !!!
-    - i18n Placeholders for payment period  - PaymentFrequency - Martin
-    - local default not set
-    - Payment Plan - Texte erstellen
-    - TAX i18n Texte
 
+- performance
+- Payment Options - Card not loaded first time  -> could be the activated option????
+- which price should be shown when !!!
+- ~~i18n Placeholders for payment period  - PaymentFrequency~~
+- local default not set
+- Payment Plan - Texte erstellen
+- TAX i18n Texte
+- PAY Button  -> Mit Karte zahlen -> mit Paypal zahlen ...etc...
 ## ThoregonEntity
     - full init
 
