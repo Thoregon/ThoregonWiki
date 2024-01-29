@@ -65,6 +65,17 @@ Collection of URL's
 - FIDO-Tokens: Login ohne Smartphone https://help.orf.at/stories/3222650/
   - für die Nutzung mit der ID Austria geeignet https://geizhals.at/?fs=FIDO+Token+ID+Austria&hloc=at
 
+- [FIDO2 Smartcard](https://www.heise.de/tests/Getestet-FIDO-Smartcard-mit-Fingerabdrucksensor-9599895.html)
+
+- [onlykey](https://onlykey.io/de)
+
+**Host card emulation**
+- https://en.wikipedia.org/wiki/Host_card_emulation
+- https://developer.android.com/develop/connectivity/nfc/hce
+- https://www.austriacard.com/digital-security/card-payment-solutions/host-card-emulation-hce/
+- https://kreditkarte.net/lexikon/hce/
+- https://cpl.thalesgroup.com/encryption/host-card-emulation
+
 
 ## AI (KI) & machine learning
 
@@ -100,11 +111,18 @@ Collection of URL's
 
 - [KI-Bildbearbeitung: Diese Web-Tools verbessern Fotos ohne Aufwand](https://www.heise.de/ratgeber/KI-Bildbearbeitung-Diese-Web-Tools-verbessern-Fotos-ohne-Aufwand-9590816.html?seite=all)
 
+**Document AI**
+- https://www.heise.de/select/ix/2023/12/2325711044274032582
+  - https://www.heise.de/select/ix/2023/12/softlinks/zy7m?wt_mc=pred.red.ix.ix122023.140.softlink.softlink
 
-Upscale Images
-- https://github.com/upscayl/upscayl
+**Upscale Images**
+- https://www.upscayl.org/
+  - https://github.com/upscayl/upscayl
+- https://www.pixelcut.ai/
+- https://dgb.lol/
+  - https://dgb.lol/ai-image-upscaler
 
-Grab Text
+**Grab Text**
 - https://github.com/TheJoeFin/Text-Grab
 
 
