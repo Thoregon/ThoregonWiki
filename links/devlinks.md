@@ -149,6 +149,20 @@ deepfake abwehr:
 - https://spacy.io/
 - https://nlp.johnsnowlabs.com/  (!)
 
+## XML Rechnung
+
+- [Pflicht zur XML-E-Rechnung](https://www.heise.de/select/ix/2024/2/2330510331487261336)
+  - https://www.heise.de/select/ix/2024/2/softlinks/zvew?wt_mc=pred.red.ix.ix022024.080.softlink.softlink
+  - https://www.part.de/blog/ein-kleines-lexikon-zum-w%C3%B6rterdschungel-zur-xrechnung-peppol-und-co
+  - https://mind-forms.de/e-rechnung/die-sprache-von-zugferd-und-xrechnung-der-unterschied-zwischen-ubl-und-cii/
+  - https://www.e-rechnung-bund.de/faq/xrechnung/
+
+- [Cross Industry Invoice (CII)](https://unece.org/trade/uncefact/e-invoice)
+  - https://www.gs1.org/standards/gs1-un-cefact-xml-profiles/gs1-un-cefact-xml-cross-industry-invoice/2012
+  - https://en.wikipedia.org/wiki/UN/CEFACT
+
+- [Universal Business Language (UBL](https://de.wikipedia.org/wiki/Universal_Business_Language)
+
 ## Dev Methods
 
 - https://refactoring.com/
