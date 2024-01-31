@@ -1,6 +1,18 @@
 ToDo
 ====
 
+## Thoregon
+
+- Multiverse
+  - gateway between universes
+    - transform/recode entity as a reflection/image of the original 
+    - strangeness for entities from another universe
+
+### Apps
+
+- enable views on app.root 
+  - see GraphQL and supergraph (https://www.apollographql.com/blog/the-supergraph-a-new-way-to-think-about-graphql)
+
 ## Aurora
 
 - AuroraElement
@@ -23,11 +35,11 @@ ToDo
 
 - Queues with invitation
 
-## Gun/Everblack
+## Neuland DB
 
 move completely to a shared worker, shield access from app js
 
-matter (GUN) interface 
+matter interface 
 - access shared worker with messages
 - not existing nodes
     - create all parents on write
