@@ -43,4 +43,20 @@
 - Image & OCR
   - https://github.com/TheJoeFin/Text-Grab
   - https://github.com/upscayl/upscayl
+- Web Scrapping
+  - https://scrapy.org/
+  - https://apify.com/
+  - https://pptr.dev/
+    - https://github.com/puppeteer
+  - https://playwright.dev/
+  - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+  - https://www.selenium.dev/
+  - http://crawler.archive.org/index.html
+  - https://github.com/janih/web-harvest
+  - https://mechanicalsoup.readthedocs.io/en/stable/
 
+  - Links:
+    - https://www.computerwoche.de/a/was-ist-scraping,3551081
+    - https://www.octoparse.de/blog/10-beste-open-source-web-scraper-im-jahr-2020
+    - https://sourceforge.net/directory/web-scrapers/mac/
+    - https://www.forloop.ai/blog/top-5-open-source

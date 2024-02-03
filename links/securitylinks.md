@@ -8,6 +8,8 @@ Top Level Certs (Stammzertifikate)
     - https://www.youtube.com/watch?app=desktop&v=JYiagUpmxXo&feature=youtu.be
     - https://github.com/predic8/log4j-log4shell-exploit
 
+https://www.heise.de/hintergrund/Nullchiffre-Wie-man-Botschaften-verschleiert-9604838.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+
 LUKS
 Server über SSH entsperren: https://www.heise.de/ratgeber/LUKS-Verschluesselte-Linux-Systeme-ueber-SSH-entsperren-6157460.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 

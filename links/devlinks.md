@@ -83,6 +83,7 @@ Collection of URL's
   - Discord https://discord.com/channels/974519864045756446/1047565374645870743
   - https://www.google.com/search?q=create+a+chatgpt+prompt&rlz=1C9BKJA_enAT726AT726&oq=create+a+chatgpt+prom&gs_lcrp=EgZjaHJvbWUqCwgAEAAYDRgTGIAEMgsIABAAGA0YExiABDILCAEQABgNGBMYgAQyBggCEEUYOTIMCAMQABgKGBMYFhge0gEJMTU5MjhqMGo3qAIAsAIA&hl=de&sourceid=chrome-mobile&ie=UTF-8
 - [Bard](https://bard.google.com/) 
+- [perplexity](https://www.perplexity.ai/)
 - [Claude - Anthropic](https://claude.ai/login)
   - https://www.anthropic.com/index/claude-2
   - https://www.anthropic.com/product

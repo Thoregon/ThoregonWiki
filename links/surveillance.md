@@ -125,3 +125,4 @@ https://www.heise.de/news/Online-Ausweis-und-VPN-Verbot-Streit-ueber-Anonymitaet
 https://www.heise.de/news/Predator-Files-Wie-deutsche-Geldgeber-und-der-Staat-maechtige-Spyware-foerdern-9327419.html
 https://www.heise.de/news/Hunderte-Wissenschaftler-warnen-vor-staatlichen-Root-Zertifikaten-9355165.html
 https://www.heise.de/hintergrund/Auslegungssache-99-eIDAS-und-die-Folgen-9573994.html
+https://www.heise.de/news/Apple-warnt-vor-Auswirkungen-von-britischem-Spionagegesetz-9615270.html
