@@ -273,6 +273,7 @@ https://www.computerwoche.de/a/14-brandheisse-webassembly-projekte,3613425
 
 - https://emscripten.org/
 
+- [CheerpJ - JavaVM WASM](https://www.heise.de/news/CheerpJ-3-0-WebAssembly-JVM-fuer-nahtlose-Java-Ausfuehrung-im-Browser-9618883.html)
 
 ## Law
 
