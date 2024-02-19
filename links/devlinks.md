@@ -82,7 +82,9 @@ Collection of URL's
 - [Chat GPT](https://chat.openai.com/)
   - Discord https://discord.com/channels/974519864045756446/1047565374645870743
   - https://www.google.com/search?q=create+a+chatgpt+prompt&rlz=1C9BKJA_enAT726AT726&oq=create+a+chatgpt+prom&gs_lcrp=EgZjaHJvbWUqCwgAEAAYDRgTGIAEMgsIABAAGA0YExiABDILCAEQABgNGBMYgAQyBggCEEUYOTIMCAMQABgKGBMYFhge0gEJMTU5MjhqMGo3qAIAsAIA&hl=de&sourceid=chrome-mobile&ie=UTF-8
-- [Bard](https://bard.google.com/) 
+- [Gemini](https://gemini.google.com/app)
+- [RTX - NVIDIA bringt eigenen KI-Chatbot](https://www.nvidia.com/de-de/ai-on-rtx/chat-with-rtx-generative-ai/)
+  - https://www.computerwoche.de/a/nvidia-bringt-eigenen-ki-chatbot,3698392
 - [perplexity](https://www.perplexity.ai/)
 - [Claude - Anthropic](https://claude.ai/login)
   - https://www.anthropic.com/index/claude-2
@@ -97,9 +99,11 @@ Collection of URL's
   - Mixtral 8x7B
 - [Sprach-KI selber betreiben](https://www.heise.de/news/Sprach-KI-selber-betreiben-c-t-uplink-9326997.html)
 - [Complete chat protocol between Pina Merkert and ChatGPT](https://gist.github.com/pinae/8ff20958f2774843b753812b0faa7514)
+- [Quadkopter lernt in Sekunden Fliegen durch Curriculum-Lernen](https://www.heise.de/news/Mini-Quadkopter-lernt-Fliegen-in-Sekunden-9623443.html)
 
 - [kaum Intelligenz in KI-Modellen](https://t3n.de/news/google-deepmind-ki-forscher-wenig-intelligenz-in-modellen-1588135/)
 - [Neuronales Netz kann Verallgemeinern (Rückschluss)](https://www.scinexx.de/news/technik/ki-lernt-das-verallgemeinern/)
+- !![Retrieval Augmented Generation - So dämmen Sie KI-Bullshit ein](https://www.computerwoche.de/a/so-daemmen-sie-ki-bullshit-ein,3697927)
 
 - [MatheKI FunSearch](https://www.scinexx.de/news/technik/ki-als-mathematiker/)
 
@@ -316,6 +320,15 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - https://nightwatchjs.org/
 - https://github.com/chaos-mesh/chaos-mesh
 
+### Browser Environments
+
+- https://www.browserstack.com/
+  - https://www.capterra.at/alternatives/162900/browserstack
+
+- https://www.lambdatest.com/
+- https://saucelabs.com/
+- https://www.zeuz.ai/
+
 ### JS Unit Test FW's
 
 - https://webdriver.io/
@@ -343,9 +356,13 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - yocto - create custom linux distros 
     - https://www.yoctoproject.org/
 - https://www.nushell.sh/
+- Elvish https://elv.sh/
+  - https://www.heise.de/ratgeber/Elvish-Eine-maechtige-POSIX-inkompatible-Shell-9622775.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 - the fuck: correct errors in previous console commands     https://github.com/nvbn/thefuck
 - https://en.wikipedia.org/wiki/BusyBox
 
+- https://nixos.org/
+  - https://gist.github.com/vfarcic/8ebbf4943c5c012c8c98e1967fa7f33b
 
 ### Terminal
 
@@ -385,9 +402,17 @@ HATEOS (Hypermedia)
 
 - Android
   - https://www.howtogeek.com/811705/how-to-get-lock-screen-widgets-on-android/
-  - https://www.stechies.com/android-widget-home-screen-lockscreen/
+  - ! https://www.stechies.com/android-widget-home-screen-lockscreen/
+  - https://github.com/android/views-widgets-samples
+  - https://github.com/topics/android-widgets
+
 - iOS
   - https://developer.apple.com/documentation/widgetkit/creating-lock-screen-widgets-and-watch-complications
+  - https://github.com/topics/widgetkit
+  - https://github.com/topics/ios14-widget
+  - https://github.com/ThisIsBenny/iOS-Widgets
+  - https://github.com/pawello2222/WidgetExamples
+  - ! https://github.com/orgs/community/discussions/33841
 
 
 #### CLI

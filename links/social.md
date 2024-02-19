@@ -137,7 +137,7 @@
 - https://www.heise.de/news/UN-Bericht-Hunderttausende-werden-zu-Internetbetrug-gezwungen-9288984.html
 - https://www.heise.de/news/Lobbygeflecht-bei-Chatkontrolle-Schlimmste-Befuerchtungen-bestaetigt-9318337.html
 - https://t3n.de/news/gpt-4-anonym-datenschutz-llm-1582860/
-- 
+- https://www.heise.de/hintergrund/Ploetzlich-kriminell-Warum-Hackerparagrafen-im-Strafgesetzbuch-bedenklich-sind-9611989.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 
 ## Community, Cooperation, Wealth
 

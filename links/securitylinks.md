@@ -32,7 +32,8 @@ https://www.heise.de/hintergrund/Wie-ein-Pentester-ein-Maschinenbauunternehmen-h
 https://www.heise.de/news/Versteckte-Tabellenzeile-kostet-Kryptoprojekt-120-000-Dollar-7545772.html
 https://www.heise.de/news/Windows-Hello-Sicherheitsforscher-faelschen-Fingerabdruck-mit-Raspberry-Pi-4-9537812.html
 https://www.heise.de/news/Alternatives-Erscheinungsbild-Face-ID-Komfortfunktion-als-Sicherheitsproblem-9580217.html
-    
+https://www.heise.de/news/Digitaler-Euro-BSI-raet-fuer-anonymes-Bezahlen-zu-verschiedenen-Wallets-9626222.html
+
 https://www.sofie-iot.eu/
 
 https://www.derstandard.at/story/2000125783121/sicherheitsforscher-warnen-whatsapp-konten-koennen-kinderleicht-von-anderen-gesperrt-werden
