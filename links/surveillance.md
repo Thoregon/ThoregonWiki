@@ -126,3 +126,4 @@ https://www.heise.de/news/Predator-Files-Wie-deutsche-Geldgeber-und-der-Staat-ma
 https://www.heise.de/news/Hunderte-Wissenschaftler-warnen-vor-staatlichen-Root-Zertifikaten-9355165.html
 https://www.heise.de/hintergrund/Auslegungssache-99-eIDAS-und-die-Folgen-9573994.html
 https://www.heise.de/news/Apple-warnt-vor-Auswirkungen-von-britischem-Spionagegesetz-9615270.html
+https://www.heise.de/news/Telegram-vs-Russland-Verschluesselung-muss-nicht-aufgebrochen-werden-9629561.html

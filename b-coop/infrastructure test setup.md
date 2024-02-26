@@ -133,6 +133,8 @@ Containers
 - make directory for portainer container (change useranme!)
     > mkdir -p /home/lucky/containers/portainer
 
+  -> https://portainer.bernhard-lukassen.com/
+
 - reverse proxy (caddy) with portainer
     - setup with network and portainer
         - https://gist.github.com/BlueHippoGithub/1a6b6569cea8520ea5b6119e8877c70a (edit)
@@ -149,6 +151,8 @@ Resource Server
 ---------------
 
 - copy testresourceserver -> /home/lucky/compose/resourceserver
+  - https://resource.thoregon.io
+
 $ mkdir -p /home/lucky/containers/resourceserver/www
 $ cd /home/lucky/compose/resourceserver
 $ docker compose build
@@ -194,6 +198,7 @@ $ docker compose up -d
 Production (Part 2)
 ===================
 
+**HashiCorp**
 - terraform
 - consul
 - vault

@@ -47,8 +47,8 @@ Collection of URL's
 - https://caniuse.com/passkeys
 
 - https://t3n.de/news/google-passkeys-standard-anmeldung-fuer-alle-1581392/
-- 
 - https://web.dev/passkey-registration/
+- https://www.corbado.com/blog/webauthn-conditional-ui-passkeys-autofill
 - https://www.hanko.io/blog/passkeys-part-1
 - https://www.hanko.io/blog/on-passkeys
 - https://fidoalliance.org/white-paper-multi-device-fido-credentials/
@@ -79,6 +79,11 @@ Collection of URL's
 
 ## AI (KI) & machine learning
 
+**Coding**
+- https://magic.dev/
+- https://www.jetbrains.com/de-de/ai/?map=4
+
+**General**
 - [Chat GPT](https://chat.openai.com/)
   - Discord https://discord.com/channels/974519864045756446/1047565374645870743
   - https://www.google.com/search?q=create+a+chatgpt+prompt&rlz=1C9BKJA_enAT726AT726&oq=create+a+chatgpt+prom&gs_lcrp=EgZjaHJvbWUqCwgAEAAYDRgTGIAEMgsIABAAGA0YExiABDILCAEQABgNGBMYgAQyBggCEEUYOTIMCAMQABgKGBMYFhge0gEJMTU5MjhqMGo3qAIAsAIA&hl=de&sourceid=chrome-mobile&ie=UTF-8
@@ -113,6 +118,8 @@ Collection of URL's
 - [Sprachmodelle verstehen und einsetzen](https://www.heise.de/select/ix/2023/13/2302013462923862371)
 - [Feintuning großer Sprachmodelle – so gehts](https://www.heise.de/select/ix/2023/10/2322914442478696032)
 - [Code Llama: Ein Llama lernt programmieren](https://www.heise.de/hintergrund/Code-Llama-Ein-Llama-lernt-programmieren-9537794.html)
+
+- [14 ChatGPT Alternativen](https://www.computerwoche.de/a/14-gpt-alternativen,3614780)
 
 - [KI-Bildbearbeitung: Diese Web-Tools verbessern Fotos ohne Aufwand](https://www.heise.de/ratgeber/KI-Bildbearbeitung-Diese-Web-Tools-verbessern-Fotos-ohne-Aufwand-9590816.html?seite=all)
 
@@ -153,6 +160,10 @@ deepfake abwehr:
 - https://github.com/nltk/nltk
 - https://spacy.io/
 - https://nlp.johnsnowlabs.com/  (!)
+
+### Bots
+
+- https://www.computerwoche.de/a/sieben-fehler-bei-der-bot-entwicklung,3615497
 
 ## XML Rechnung
 
@@ -369,6 +380,10 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - https://xtermjs.org/
 - https://github.com/butlerx/wetty
 - https://tabby.sh/
+
+### Editors
+
+- https://zed.dev/
 
 ### JS
 
