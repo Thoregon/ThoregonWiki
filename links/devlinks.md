@@ -308,6 +308,11 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - see also Chromium based browsers https://en.wikipedia.org/wiki/Chromium_(web_browser)
 
 
+## Web-Push
+
+- https://web.dev/articles/sending-messages-with-web-push-libraries?hl=de
+- https://www.youtube.com/watch?v=c25PDH7ZJfk
+
 ## HTML
 - https://developer.mozilla.org/de/docs/Web/HTML/Element/datalist
 - https://developer.mozilla.org/de/docs/Web/HTML/Element/optgroup
