@@ -8,6 +8,7 @@ Surveillance links collection
 Cookies via DNS CNAME
 https://fm4.orf.at/stories/3012370/
 
+!! https://www.heise.de/hintergrund/Anlasslose-Massenueberwachung-Warum-mathematische-Gesetze-dagegen-sprechen-9636381.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 !! Manipulationsschutz für Versand https://www.heise.de/news/Random-Mosaic-Fremdzugriffe-mit-Bohnen-Linsen-oder-buntem-Reis-erkennen-7155080.html
 
 Biometrische Generalschlüssel
@@ -127,3 +128,4 @@ https://www.heise.de/news/Hunderte-Wissenschaftler-warnen-vor-staatlichen-Root-Z
 https://www.heise.de/hintergrund/Auslegungssache-99-eIDAS-und-die-Folgen-9573994.html
 https://www.heise.de/news/Apple-warnt-vor-Auswirkungen-von-britischem-Spionagegesetz-9615270.html
 https://www.heise.de/news/Telegram-vs-Russland-Verschluesselung-muss-nicht-aufgebrochen-werden-9629561.html
+https://www.heise.de/news/EU-Parlament-beschliesst-Online-Ausweis-beschraenkt-staatliche-Root-Zertifikate-9643681.html

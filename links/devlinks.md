@@ -20,8 +20,6 @@ Collection of URL's
 
 ## IDE
 
-- https://github.com/theonedev/onedev
-    - https://www.heise.de/news/DevOps-Software-OneDev-jetzt-mit-Issue-Linking-6293424.html
 
 ## Sources
 
@@ -102,6 +100,7 @@ Collection of URL's
   - https://gpt4all.io/index.html
 - [Mistral AI](https://mistral.ai/news/mixtral-of-experts/)
   - Mixtral 8x7B
+- 
 - [Sprach-KI selber betreiben](https://www.heise.de/news/Sprach-KI-selber-betreiben-c-t-uplink-9326997.html)
 - [Complete chat protocol between Pina Merkert and ChatGPT](https://gist.github.com/pinae/8ff20958f2774843b753812b0faa7514)
 - [Quadkopter lernt in Sekunden Fliegen durch Curriculum-Lernen](https://www.heise.de/news/Mini-Quadkopter-lernt-Fliegen-in-Sekunden-9623443.html)
@@ -122,6 +121,9 @@ Collection of URL's
 - [14 ChatGPT Alternativen](https://www.computerwoche.de/a/14-gpt-alternativen,3614780)
 
 - [KI-Bildbearbeitung: Diese Web-Tools verbessern Fotos ohne Aufwand](https://www.heise.de/ratgeber/KI-Bildbearbeitung-Diese-Web-Tools-verbessern-Fotos-ohne-Aufwand-9590816.html?seite=all)
+
+- [Musik generierung KI's](https://www.heise.de/tests/Songs-auf-Knopfdruck-generieren-Drei-kostenlose-Musik-KIs-im-Test-9632582.html)
+
 
 **Document AI**
 - https://www.heise.de/select/ix/2023/12/2325711044274032582
@@ -172,6 +174,9 @@ deepfake abwehr:
   - https://www.part.de/blog/ein-kleines-lexikon-zum-w%C3%B6rterdschungel-zur-xrechnung-peppol-und-co
   - https://mind-forms.de/e-rechnung/die-sprache-von-zugferd-und-xrechnung-der-unterschied-zwischen-ubl-und-cii/
   - https://www.e-rechnung-bund.de/faq/xrechnung/
+  - [Obligatorisches Versenden von E-Rechnungen](https://www.heise.de/select/ix/2024/3/2402513203286027543)
+    - Links: https://www.heise.de/select/ix/2024/3/softlinks/zukt?wt_mc=pred.red.ix.ix032024.082.softlink.softlink
+  - [Deep neural network to extract intelligent information from invoice documents](https://github.com/naiveHobo/InvoiceNet)
 
 - [Cross Industry Invoice (CII)](https://unece.org/trade/uncefact/e-invoice)
   - https://www.gs1.org/standards/gs1-un-cefact-xml-profiles/gs1-un-cefact-xml-cross-industry-invoice/2012
@@ -325,8 +330,12 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 
 ## Org
 
-- https://cloudogu.com/de/glossar/gitops/
+- https://github.com/theonedev/onedev
+  - https://www.heise.de/news/DevOps-Software-OneDev-jetzt-mit-Issue-Linking-6293424.html
+- https://www.heise.de/hintergrund/DevOps-das-steckt-wirklich-dahinter-9585334.html
 
+- https://cloudogu.com/de/glossar/gitops/
+- https://www.heise.de/hintergrund/Versionierung-und-Agenten-Vor-und-Nachteile-von-GitOps-9601403.html
 
 ## Testing
 

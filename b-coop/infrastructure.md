@@ -24,6 +24,7 @@ Thoregon
 - [Hashicorp](https://www.hashicorp.com/)
   - https://github.com/hashicorp
   - [Terraform](https://www.terraform.io/)
+    - https://www.heise.de/hintergrund/Modularisierte-Infrastructure-as-Code-in-Terraform-9629194.html
   - [Nomad](https://www.nomadproject.io/) -> USE!
     - https://www.youtube.com/watch?v=SSfuhOLfJUg
       - https://github.com/schmichael?tab=repositories&q=nomad&type=&language=&sort=
