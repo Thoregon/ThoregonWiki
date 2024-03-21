@@ -123,6 +123,13 @@ Containers
 
 -> https://towardsdatascience.com/the-complete-guide-to-docker-volumes-1a06051d2cce
 
+# Join docker container shell
+# - start any container installed shell
+# - get name from > docker ps
+```
+> docker exec -it <container_name> sh
+```
+
 - make directory for caddy container (change useranme!)
     > mkdir -p /home/lucky/containers/caddy
     - copy 'Caddyfile'
@@ -144,7 +151,10 @@ Containers
     > docker compose up -d
 
 - peerjs signaling server
-    > docker run --name peer-signaling -p 9000:9000 -d peerjs/peerjs-server
+  - compose/peerjssignalin  
+  - docker compose up -d
+
+(previous: > docker run --name peer-signaling -p 9000:9000 -d peerjs/peerjs-server)
 
 
 Resource Server
@@ -190,9 +200,39 @@ $ cd /home/lucky/compose/stripereceiver
 $ docker compose build
 $ docker compose up -d
 
+UI uPayMe
+-----------
 
+UI webroots must be mapped in the 'docker-compose.yaml' as volume  
+here are **all** docroots available as subdirectories 
+````
+volumes:
+  ....
+  - /home/lucky/www:/www
+````
+use in Caddyfile  
+map the subdirectory of the docroot to the domain  
+also rewrite the config files to the vendors config
+````
+upayme.thoregon.io {
+    root * /www/upaymeui
+    rewrite universe.prod.mjs .cust/<vendorid>/universe.prod.mjs      # config for domain
+    file_server
+    handle_errors {
+        rewrite * /404-notfound.html
+        file_server
+    }
+}
+````
 
+Vendor uPayMe SA
+----------------
 
+UI Admin uPayMe
+---------------
+
+Admin uPayMe SA
+---------------
 
 
 Production (Part 2)

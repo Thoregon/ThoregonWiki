@@ -28,6 +28,10 @@ https://www.heise.de/hintergrund/Sichere-Kommunikation-Wie-Messenger-versuchen-M
 - https://www.heise.de/ratgeber/Wie-Telefonbetrueger-die-Zwei-Faktor-Autorisierung-aushebeln-9061644.html?seite=all
 - https://www.heise.de/ratgeber/FAQ-Einloggen-mit-Passkeys-statt-Passwoertern-9067746.html
 
+- https://2fa.directory/at/
+  - https://www.scinexx.de/businessnews/neuer-ansatz-um-den-prozess-der-zwei-faktor-authentifizierung-auf-websites-zu-vergleichen/
+
+
 ## Crypto
 
 - https://www.heise.de/tests/Anbieter-Uebersicht-Kryptocoins-mit-Hardware-Wallets-sichern-8969077.html

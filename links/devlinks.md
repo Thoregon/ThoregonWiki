@@ -31,6 +31,11 @@ Collection of URL's
 - https://codepen.io/
 - https://jsfiddle.net/
 - http://sqlfiddle.com/
+- https://codesandbox.io/
+- https://replit.com/
+- https://stackblitz.com/
+
+- [Other online Code Tools](https://alternativeto.net/software/jsfiddle/)
 
 ## Network Protocols & Routing
 
@@ -80,6 +85,10 @@ Collection of URL's
 **Coding**
 - https://magic.dev/
 - https://www.jetbrains.com/de-de/ai/?map=4
+- https://www.cognition-labs.com/introducing-devin
+- https://github.com/features/copilot/plans
+- https://github.com/didalgolab/chatgpt-intellij-plugin
+- https://github.com/Exafunction/CodeiumJetBrains
 
 **General**
 - [Chat GPT](https://chat.openai.com/)
@@ -109,6 +118,8 @@ Collection of URL's
 - [Neuronales Netz kann Verallgemeinern (Rückschluss)](https://www.scinexx.de/news/technik/ki-lernt-das-verallgemeinern/)
 - !![Retrieval Augmented Generation - So dämmen Sie KI-Bullshit ein](https://www.computerwoche.de/a/so-daemmen-sie-ki-bullshit-ein,3697927)
 
+- [Stephen Wolfram über die Rolle der KI in der Forschung (Teil 1)](https://www.heise.de/hintergrund/Missing-Link-Stephen-Wolfram-ueber-die-Rolle-der-KI-in-der-Forschung-Teil-1-9649315.html?seite=all)
+
 - [MatheKI FunSearch](https://www.scinexx.de/news/technik/ki-als-mathematiker/)
 
 - [Webentwicklung: Neuronale Netze mit JavaScript im Browser trainieren](https://www.heise.de/ratgeber/Webentwicklung-Neuronale-Netze-mit-JavaScript-im-Browser-trainieren-9594750.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser)
@@ -123,6 +134,12 @@ Collection of URL's
 - [KI-Bildbearbeitung: Diese Web-Tools verbessern Fotos ohne Aufwand](https://www.heise.de/ratgeber/KI-Bildbearbeitung-Diese-Web-Tools-verbessern-Fotos-ohne-Aufwand-9590816.html?seite=all)
 
 - [Musik generierung KI's](https://www.heise.de/tests/Songs-auf-Knopfdruck-generieren-Drei-kostenlose-Musik-KIs-im-Test-9632582.html)
+
+**Reverse Engineering**
+- https://docs.kanaries.net/topics/ChatGPT/reverse-prompt-engineering
+
+**Advancing creativity with artificial intelligence**
+- https://runwayml.com/
 
 
 **Document AI**
@@ -177,7 +194,8 @@ deepfake abwehr:
   - [Obligatorisches Versenden von E-Rechnungen](https://www.heise.de/select/ix/2024/3/2402513203286027543)
     - Links: https://www.heise.de/select/ix/2024/3/softlinks/zukt?wt_mc=pred.red.ix.ix032024.082.softlink.softlink
   - [Deep neural network to extract intelligent information from invoice documents](https://github.com/naiveHobo/InvoiceNet)
-
+  - https://www.heise.de/meinung/Pflicht-zur-E-Rechnung-Trojanisches-ZUGFeRD-9646385.html
+  
 - [Cross Industry Invoice (CII)](https://unece.org/trade/uncefact/e-invoice)
   - https://www.gs1.org/standards/gs1-un-cefact-xml-profiles/gs1-un-cefact-xml-cross-industry-invoice/2012
   - https://en.wikipedia.org/wiki/UN/CEFACT
@@ -212,6 +230,8 @@ Change Favicon in browser tab
 
 ## API's
 --> Tools & Software (MD)
+
+!! [GitHub Public API's](https://github.com/public-apis/public-apis)
 
 ### Open Data
 
@@ -304,6 +324,8 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - [tauri.app](https://tauri.app/)    Electron replacement?
 - [NW.js](https://nwjs.io)
 - [Electron](https://www.electronjs.org/de/)
+- [webintoapp](https://www.webintoapp.com/)
+
 - Alternatives: https://www.slant.co/options/10828/alternatives/~electron-alternatives
 
 ## Browsers
@@ -584,6 +606,7 @@ Cart with Credentials Management API
 
 - https://github.com/getlantern
 - https://www.torproject.org/
+  - https://www.heise.de/news/Tor-Anonymisierungsdienst-bringt-Webtunnel-gegen-Zensur-9655111.html
 - https://geti2p.net/en/
 - https://freenetproject.org/index.html
 - https://www.gnunet.org/en/index.html
@@ -665,3 +688,6 @@ Meta Search Engine
 # Functionality
 
 - [IPM - harbour in port manning](https://docs.oracle.com/cd/F44421_01/doc.202/f44436/c_safety.htm#CRCRW-c_emergency_duties_tab-50B1F70E)
+
+
+media stream track info playlist -> [media stream links](./media stream links.md)

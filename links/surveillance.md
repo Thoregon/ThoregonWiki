@@ -129,3 +129,4 @@ https://www.heise.de/hintergrund/Auslegungssache-99-eIDAS-und-die-Folgen-9573994
 https://www.heise.de/news/Apple-warnt-vor-Auswirkungen-von-britischem-Spionagegesetz-9615270.html
 https://www.heise.de/news/Telegram-vs-Russland-Verschluesselung-muss-nicht-aufgebrochen-werden-9629561.html
 https://www.heise.de/news/EU-Parlament-beschliesst-Online-Ausweis-beschraenkt-staatliche-Root-Zertifikate-9643681.html
+https://www.heise.de/news/Wichtiges-Mittel-oder-Totgeburt-Streit-ueber-Gesichtserkennung-bei-RAF-Fahndung-9646900.html
