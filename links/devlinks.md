@@ -90,6 +90,8 @@ Collection of URL's
 - https://github.com/didalgolab/chatgpt-intellij-plugin
 - https://github.com/Exafunction/CodeiumJetBrains
 
+- https://www.heise.de/meinung/Analyse-KI-als-Ende-des-Software-Engineerings-Wohl-kaum-9668031.html?seite=all
+
 **General**
 - [Chat GPT](https://chat.openai.com/)
   - Discord https://discord.com/channels/974519864045756446/1047565374645870743
