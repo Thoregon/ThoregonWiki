@@ -111,12 +111,12 @@ Collection of URL's
   - https://gpt4all.io/index.html
 - [Mistral AI](https://mistral.ai/news/mixtral-of-experts/)
   - Mixtral 8x7B
-- 
 - [Sprach-KI selber betreiben](https://www.heise.de/news/Sprach-KI-selber-betreiben-c-t-uplink-9326997.html)
 - [Complete chat protocol between Pina Merkert and ChatGPT](https://gist.github.com/pinae/8ff20958f2774843b753812b0faa7514)
 - [Quadkopter lernt in Sekunden Fliegen durch Curriculum-Lernen](https://www.heise.de/news/Mini-Quadkopter-lernt-Fliegen-in-Sekunden-9623443.html)
 
 - [kaum Intelligenz in KI-Modellen](https://t3n.de/news/google-deepmind-ki-forscher-wenig-intelligenz-in-modellen-1588135/)
+- [Erwartungen an die Technologie sind viel zu hoch](https://www.heise.de/news/KI-Experte-Investitionen-in-KI-um-ein-Tausendfaches-zu-hoch-9674984.html)
 - [Neuronales Netz kann Verallgemeinern (Rückschluss)](https://www.scinexx.de/news/technik/ki-lernt-das-verallgemeinern/)
 - !![Retrieval Augmented Generation - So dämmen Sie KI-Bullshit ein](https://www.computerwoche.de/a/so-daemmen-sie-ki-bullshit-ein,3697927)
 
@@ -197,6 +197,12 @@ deepfake abwehr:
     - Links: https://www.heise.de/select/ix/2024/3/softlinks/zukt?wt_mc=pred.red.ix.ix032024.082.softlink.softlink
   - [Deep neural network to extract intelligent information from invoice documents](https://github.com/naiveHobo/InvoiceNet)
   - https://www.heise.de/meinung/Pflicht-zur-E-Rechnung-Trojanisches-ZUGFeRD-9646385.html
+  - https://www.heise.de/hintergrund/FAQ-Die-E-Rechnung-kommt-das-muessen-Firmen-beachten-9669823.html
+
+- Software
+  - https://www.fakturama.info/
+    - https://bitbucket.org/fakturamadev/fakturama-2/src/master/
+  - [ZUGFeRD Community](https://github.com/ZUGFeRD)
   
 - [Cross Industry Invoice (CII)](https://unece.org/trade/uncefact/e-invoice)
   - https://www.gs1.org/standards/gs1-un-cefact-xml-profiles/gs1-un-cefact-xml-cross-industry-invoice/2012

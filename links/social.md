@@ -138,6 +138,9 @@
 - https://www.heise.de/news/Lobbygeflecht-bei-Chatkontrolle-Schlimmste-Befuerchtungen-bestaetigt-9318337.html
 - https://t3n.de/news/gpt-4-anonym-datenschutz-llm-1582860/
 - https://www.heise.de/hintergrund/Ploetzlich-kriminell-Warum-Hackerparagrafen-im-Strafgesetzbuch-bedenklich-sind-9611989.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+- https://www.heise.de/news/In-App-Browser-als-Spitzel-Aktivisten-fordern-Aenderungen-in-Android-und-iOS-9671930.html
+- https://www.heise.de/news/Studie-Altersverifikation-im-Netz-ist-noetig-in-Demokratien-aber-nicht-machbar-9670768.html
+- 
 
 ## Community, Cooperation, Wealth
 

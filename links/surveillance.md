@@ -1,28 +1,44 @@
 Surveillance links collection
------------------------------
+=============================
 
 !! https://www.heise.de/ratgeber/FAQ-Verschluesselte-DNS-Anfragen-6207567.html
 
 !! Datenhändler: https://datarade.ai/
 
-Cookies via DNS CNAME
+## Cookies via DNS CNAME
 https://fm4.orf.at/stories/3012370/
 
 !! https://www.heise.de/hintergrund/Anlasslose-Massenueberwachung-Warum-mathematische-Gesetze-dagegen-sprechen-9636381.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 !! Manipulationsschutz für Versand https://www.heise.de/news/Random-Mosaic-Fremdzugriffe-mit-Bohnen-Linsen-oder-buntem-Reis-erkennen-7155080.html
 
-Biometrische Generalschlüssel
+## Silent SMS & Silent Calls
+
+https://www.heise.de/news/Stille-SMS-Co-Regierung-erklaert-heimliche-Ueberwachung-komplett-fuer-geheim-9674437.html
+https://www.heise.de/tipps-tricks/Stille-SMS-erkennen-so-funktioniert-s-5019856.html
+https://praxistipps.chip.de/stille-sms-erkennen-infos-zur-geheimen-staatsueberwachung_94938
+https://www.messagecentral.com/blog/silent-sms-attacks-and-security
+https://www.wintotal.de/stille-sms/
+https://www.zeit.de/digital/datenschutz/2017-08/imsi-catcher-apps-helfen-nicht/seite-2
+https://us.norton.com/blog/privacy/how-to-tell-if-your-cell-phone-is-tracked-tapped-or-monitored-by-spy-software
+
+https://github.com/MatejKovacic/silent-sms-ping
+https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Special-SMS
+
+
+
+## Biometrische Generalschlüssel
 !!! https://www.heise.de/news/Forscher-entdecken-Generalschluessel-fuer-Systeme-zur-Gesichtserkennung-6156605.html
 !!! https://www.heise.de/security/meldung/Generalschluessel-fuer-Fingerabdruckscanner-Master-Prints-entsperren-Smartphones-4220782.html
 https://www.heise.de/hintergrund/Fake-Face-Generatoren-verraten-Ausgangsbilder-6212347.html
 
 https://www.heise.de/hintergrund/Notruf-112-So-ortet-die-Leitstelle-Ihr-Mobiltelefon-7490400.html
 
-Apple Photo Scann
+## Apple Photo Scann
     https://www.heise.de/news/iPhone-Scanning-auf-Kinderpornos-Apple-nennt-Abdrehmoeglichkeit-6157178.html
 
 ! https://itwelt.at/news/so-verwischen-sie-ihren-digitalen-fussabdruck-2/
 
+## Articles & Links
 ! https://www.derstandard.at/story/2000128373445/jedes-land-hat-cyberstreitkraefte-warum-pegasus-nur-ein-teil-des
 https://www.heise.de/news/Gutachten-Aufnahme-von-Fingerabdruecken-in-Ausweis-ist-rechtswidrig-5076241.html
 https://www.heise.de/hintergrund/Mobiltelefonie-soll-privater-werden-5072562.html
@@ -130,3 +146,4 @@ https://www.heise.de/news/Apple-warnt-vor-Auswirkungen-von-britischem-Spionagege
 https://www.heise.de/news/Telegram-vs-Russland-Verschluesselung-muss-nicht-aufgebrochen-werden-9629561.html
 https://www.heise.de/news/EU-Parlament-beschliesst-Online-Ausweis-beschraenkt-staatliche-Root-Zertifikate-9643681.html
 https://www.heise.de/news/Wichtiges-Mittel-oder-Totgeburt-Streit-ueber-Gesichtserkennung-bei-RAF-Fahndung-9646900.html
+https://www.nrl.navy.mil/Media/News/Article/2883592/proteus-provides-global-maritime-domain-awareness/
