@@ -89,6 +89,8 @@ Collection of URL's
 - https://github.com/features/copilot/plans
 - https://github.com/didalgolab/chatgpt-intellij-plugin
 - https://github.com/Exafunction/CodeiumJetBrains
+- https://cloud.google.com/products/gemini/code-assist?hl=de
+- https://sourcegraph.com/cody?utm_campaign=cody_ga_alex_ziskind&utm_medium=social&utm_source=youtube
 
 - https://www.heise.de/meinung/Analyse-KI-als-Ende-des-Software-Engineerings-Wohl-kaum-9668031.html?seite=all
 
@@ -358,6 +360,15 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 
 - https://stackoverflow.com/questions/47675549/how-do-i-cache-bust-imported-modules-in-es6
 
+## Things
+
+- https://yamlscript.org/posts/apr-16-2024/
+  - https://github.com/yaml/yamlscript
+- https://dev.to/this-is-learning/the-evolution-of-signals-in-javascript-8ob
+  - https://github.com/tc39/proposal-signals
+
+- [Puter](https://github.com/HeyPuter/puter) ... OS inside browser
+
 ## Org
 
 - https://github.com/theonedev/onedev
@@ -568,6 +579,12 @@ HATEOS (Hypermedia)
 - https://developers.google.com/web/fundamentals/security/credential-management?hl=de
 - https://credential-management-sample.appspot.com/
 - https://github.com/agektmr/shop/tree/credential-payment
+
+### Salt'n'Pepper
+
+- https://www.dr-datenschutz.de/passwoerter-hashen-sicherer-mit-salt-and-pepper/
+- https://medium.com/@berto168/salt-pepper-spice-up-your-hash-b48328caa2af
+- https://www.youtube.com/watch?v=YLCoDK0OwYM&ab_channel=SunnyClassroom
 
 Cart with Credentials Management API
 - https://polykart-credential-payment.appspot.com/account

@@ -44,6 +44,7 @@ Elements of a DID
 - Set of service endpoints (for interactions)
 - timestamp (for audit history)
 - signature (for integrity)
+  - https://www.w3.org/TR/vc-di-bbs/
 
 resolving DID to DID Document
     did:ipid:Qme5bsBSdt8FDbv7AJan5GDTwTWAzhdmn8vLcDfhrNgerc

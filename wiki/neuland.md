@@ -224,6 +224,7 @@ bc.postMessage("This is a test message.");
   - [Zero Trust](https://www.paloaltonetworks.com/cyberpedia/what-is-a-zero-trust-architecture)
 
 - Encryption & Signatures
+  https://www.w3.org/TR/vc-di-bbs/
 
 - Verifiable Claims
 
