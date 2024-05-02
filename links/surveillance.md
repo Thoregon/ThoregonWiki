@@ -151,3 +151,5 @@ Surveillance links collection
 - https://www.diepresse.com/18378677/urteil-zu-waechtermodus-eines-tesla-kameras-als-haftungsfalle
 - https://www.heise.de/news/Europol-warnt-Industrie-und-Regierungen-vor-Ende-zu-Ende-Verschluesselung-9692849.html
 - https://www.heise.de/news/Chatkontrolle-Verschluesselte-Messenger-Dienste-sollen-prioritaer-gescannt-werden-9688673.html
+- https://www.heise.de/news/EuGH-Nationale-Gerichte-duerfen-Encrochat-Daten-gegebenenfalls-nicht-verwenden-9704229.html
+- https://www.heise.de/news/Urheberrechtsverstoesse-EuGH-gestattet-Vorratsdatenspeicherung-grundsaetzlich-9704193.html

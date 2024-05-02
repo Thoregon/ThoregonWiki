@@ -25,7 +25,9 @@ Thoregon
   - https://github.com/hashicorp
   - [Terraform](https://www.terraform.io/)
     - https://www.heise.de/hintergrund/Modularisierte-Infrastructure-as-Code-in-Terraform-9629194.html
+    - OpenSource Ersatz: https://opentofu.org/
   - [Nomad](https://www.nomadproject.io/) -> USE!
+    - https://www.heise.de/ratgeber/Container-Umgebungen-mit-Nomad-So-gelingt-der-Einstieg-9687659.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
     - https://www.youtube.com/watch?v=SSfuhOLfJUg
       - https://github.com/schmichael?tab=repositories&q=nomad&type=&language=&sort=
     - https://www.youtube.com/watch?v=6GShFLUcdUA
@@ -58,7 +60,8 @@ Thoregon
     - https://www.heise.de/select/ix/2023/10/2316607093159260949)
 - [Podman](https://podman.io/)
     - https://docs.podman.io/en/latest/Commands.html
-- [Prometeus](https://prometheus.io/) Appliance Monitoring    
+- [Prometeus](https://prometheus.io/) Appliance Monitoring
+  - https://www.heise.de/news/iX-Workshop-Echtzeitueberwachung-mit-Prometheus-und-Grafana-9691078.html
 - [Grafana](https://grafana.com/) UI for monitoring
 - [Nagios](https://www.nagios.org/) Network Monitoring
 - [Nginx](https://www.nginx.com/) HTTP Proxy

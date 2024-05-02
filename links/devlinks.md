@@ -427,6 +427,8 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - the fuck: correct errors in previous console commands     https://github.com/nvbn/thefuck
 - https://en.wikipedia.org/wiki/BusyBox
 
+- [Run Win VMs on Mac](https://www.intego.com/mac-security-blog/how-to-run-windows-11-for-free-on-an-m1-or-m2-mac/)
+
 - https://nixos.org/
   - https://gist.github.com/vfarcic/8ebbf4943c5c012c8c98e1967fa7f33b
 

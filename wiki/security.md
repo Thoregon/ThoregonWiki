@@ -12,6 +12,7 @@ General Security requirements
 - https://www.heise.de/news/c-t-3003-Die-gefaehrlichste-Malware-aller-Zeiten-8661099.html
 - https://futurezone.at/digital-life/hacker-salzburg-nfc-tesla-smartphone-it-sicherheit-security-forschung/402095128
 - [OSINT: Sammeln öffentlich verfügbarer Information](https://www.heise.de/select/ix/2023/11/2218211510993730614)
+- https://www.heise.de/news/Okta-warnt-vor-vermehrten-Credential-Stuffing-Angriffen-9703174.html
 
 ## Tracking
 https://www.heise.de/news/Browser-Fingerprinting-Installierte-Apps-als-Tracking-Komplizen-6071347.html
