@@ -31,81 +31,94 @@ Infrastructure
 
 - mc (MidnightCommander)
 
-    $ sudo install mc -y
+```
+$ sudo install mc -y
+```
 
 - sshd
     - https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-22-04
     - ports:
 
-    $ sudo vi /etc/ssh/sshd_config
-    #    Port 22
-    #    Port 2022
-    $ sudo systemctl restart ssh.service
+```
+$ sudo vi /etc/ssh/sshd_config
+#    Port 22
+#    Port 2022
+$ sudo systemctl restart ssh.service
+```
 
 - ufw
     - https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands
     - https://phoenixnap.com/kb/configure-firewall-with-ufw-on-ubuntu
 
-    $ sudo apt install -y ufw
-    $ sudo ufw allow ssh
-    $ sudo ufw allow 2022/tcp
-    $ sudo ufw allow http
-    $ sudo ufw allow https
-    $ sudo ufw allow 9000/tcp  # peerjs signaling server
-    $ sudo ufw allow 8000/tcp  # portainer tunnel server
+```
+$ sudo apt install -y ufw
+$ sudo ufw allow ssh
+$ sudo ufw allow 2022/tcp
+$ sudo ufw allow http
+$ sudo ufw allow https
+$ sudo ufw allow 9000/tcp  # peerjs signaling server
+$ sudo ufw allow 8000/tcp  # portainer tunnel server
 
-    $ sudo ufw enable
-    $ sudo ufw status numbered
+$ sudo ufw enable
+$ sudo ufw status numbered
 
-    $ sudo ufw delete <num>
+$ sudo ufw delete <num>
+```
 
-- docker
-    - https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04
+  - docker
+      - https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04
 
-    $ sudo apt update
-    $ sudo apt install -y apt-transport-https ca-certificates curl software-properties-common
-    $ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
-    $ echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
-    $ sudo apt update
-    $ apt-cache policy docker-ce
-    $ sudo apt install -y docker-ce
-    $ sudo systemctl status docker
-    # add your username to the docker group (logout/login to have it effective)
-    $ sudo usermod -aG docker ${USER}
+```
+$ sudo apt update
+$ sudo apt install -y apt-transport-https ca-certificates curl software-properties-common
+$ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+$ echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+$ sudo apt update
+$ apt-cache policy docker-ce
+$ sudo apt install -y docker-ce
+$ sudo systemctl status docker
+# add your username to the docker group (logout/login to have it effective)
+$ sudo usermod -aG docker ${USER}
 
-    # join shell of a running container
-    $ docker exec -it <container_name> sh
+# join shell of a running container
+$ docker exec -it <container_name> sh
 
-    # info
-    $ docker compose ls                 # list available compose projects with status
-    $ docker image ls                   # list images
-    $ docker image rm <imagename>       # remove image, not auto by docker compose down, must be made manually
-    $ docker container ls               # list containers
-    $ docker container rm <imagename>   # remove container (auto by docker compose down)
-    $ docker network ls                 # list networks
-    $ docker network rm <imagename>     # remove network (auto by docker compose down)
+# info
+$ docker compose ls                     # list available compose projects with status
+$ docker image ls                       # list images
+$ docker image rm <imagename>           # remove image, not auto by docker compose down, must be made manually
+$ docker container ls                   # list containers
+$ docker container rm <containername>   # remove container (auto by docker compose down)
+$ docker network ls                     # list networks
+$ docker network rm <networkname>       # remove network (auto by docker compose down)
+$ docker logs <containername> | more    # show logs of a container
+```
 
 
 - docker compose
     - https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-22-04
     - https://www.youtube.com/watch?v=DM65_JyGxCo
 
-    $ mkdir -p ~/.docker/cli-plugins/
-    $ curl -SL https://github.com/docker/compose/releases/download/v2.3.3/docker-compose-linux-x86_64 -o ~/.docker/cli-plugins/docker-compose
-    $ chmod +x ~/.docker/cli-plugins/docker-compose
-    $ docker compose version
+```
+$ mkdir -p ~/.docker/cli-plugins/
+$ curl -SL https://github.com/docker/compose/releases/download/v2.3.3/docker-compose-linux-x86_64 -o ~/.docker/cli-plugins/docker-compose
+$ chmod +x ~/.docker/cli-plugins/docker-compose
+$ docker compose version
+```
 
 - node environments
     - https://tecadmin.net/how-to-install-nvm-on-ubuntu-22-04/
 
-    # nvm
-    $ curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
+```
+# nvm
+$ curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
 
-    # node
-    $ nvm install 18.7.0
+# node
+$ nvm install 18.7.0
 
-    # node gyp
-    $ npm i -g node-pre-gyp
+# node gyp
+$ npm i -g node-pre-gyp
+```
 
 DNS
 ---
@@ -147,8 +160,10 @@ Containers
         - https://gist.github.com/BlueHippoGithub/1a6b6569cea8520ea5b6119e8877c70a (edit)
         - https://www.youtube.com/watch?v=qj45uHP7Jmo
 
-    > cd ~/compose/caddy
-    > docker compose up -d
+```
+> cd ~/compose/caddy
+> docker compose up -d
+```
 
 - peerjs signaling server
   - compose/peerjssignalin  
@@ -163,10 +178,12 @@ Resource Server
 - copy testresourceserver -> /home/lucky/compose/resourceserver
   - https://resource.thoregon.io
 
+```
 $ mkdir -p /home/lucky/containers/resourceserver/www
 $ cd /home/lucky/compose/resourceserver
 $ docker compose build
 $ docker compose up -d
+```
 
 todo:
     - add domain 'resource.thoregon.id'
@@ -176,7 +193,9 @@ todo:
     - ufw delete rules for 7779
 
 join container bash
+```
 $ docker exec -it <containerid> bash
+```
 
 Thoregon
 --------
@@ -189,16 +208,20 @@ Containers
 - copy stripecollector -> /home/lucky/compose/stripecollector
 # network connects to external caddy_neuland!
 
+```
 $ mkdir -p /home/lucky/containers/stripecollector/data
 $ sudo chown -R root:root /home/lucky/containers/stripecollector/data
+```
 - !! copy neuland.tdb -> /home/lucky/containers/stripecollector/data
 
+```
 $ mkdir -p /home/lucky/containers/stripecollector/.thoregon
 $ sudo chown -R root:root /home/lucky/containers/stripecollector/.thoregon
 
 $ cd /home/lucky/compose/stripereceiver
 $ docker compose build
 $ docker compose up -d
+```
 
 UI uPayMe
 -----------

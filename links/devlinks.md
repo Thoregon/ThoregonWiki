@@ -325,6 +325,15 @@ https://www.computerwoche.de/a/14-brandheisse-webassembly-projekte,3613425
 
 - [CheerpJ - JavaVM WASM](https://www.heise.de/news/CheerpJ-3-0-WebAssembly-JVM-fuer-nahtlose-Java-Ausfuehrung-im-Browser-9618883.html)
 
+#### Node x86 on Apple Silicon
+
+- Needs Rosetta
+- Open Terminal (iTerm) with Rosetta
+- install target version with nvm
+- this specific node version will then run with x86
+
+- https://gist.github.com/LeZuse/bf838718ff2689c5fc035c5a6825a11c
+
 ## Law
 
 https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Hacking-Werkzeug-6234994.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
