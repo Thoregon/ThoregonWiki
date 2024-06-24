@@ -153,3 +153,4 @@ Surveillance links collection
 - https://www.heise.de/news/Chatkontrolle-Verschluesselte-Messenger-Dienste-sollen-prioritaer-gescannt-werden-9688673.html
 - https://www.heise.de/news/EuGH-Nationale-Gerichte-duerfen-Encrochat-Daten-gegebenenfalls-nicht-verwenden-9704229.html
 - https://www.heise.de/news/Urheberrechtsverstoesse-EuGH-gestattet-Vorratsdatenspeicherung-grundsaetzlich-9704193.html
+- https://www.heise.de/news/Hunderttausende-Router-eines-US-Providers-zerstoert-9742582.html
