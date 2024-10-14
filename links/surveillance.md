@@ -154,3 +154,5 @@ Surveillance links collection
 - https://www.heise.de/news/EuGH-Nationale-Gerichte-duerfen-Encrochat-Daten-gegebenenfalls-nicht-verwenden-9704229.html
 - https://www.heise.de/news/Urheberrechtsverstoesse-EuGH-gestattet-Vorratsdatenspeicherung-grundsaetzlich-9704193.html
 - https://www.heise.de/news/Hunderttausende-Router-eines-US-Providers-zerstoert-9742582.html
+- https://www.heise.de/news/SORM-Co-Russland-bei-digitaler-Massenueberwachung-an-vorderster-Front-9769990.html
+- https://www.heise.de/news/Buergerrechtler-EU-darf-geplanter-UN-Cybercrime-Konvention-nicht-zustimmen-9807101.html

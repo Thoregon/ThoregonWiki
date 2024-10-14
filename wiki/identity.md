@@ -5,6 +5,7 @@ Every SSI founds its personal cloud. It acts now in a network, not on a platform
 
 see also 
 - [SSI](./ssi.md)
+- [Personhood Credentials (PHCs)](https://www.heise.de/news/KI-Update-kompakt-Desinformation-Mensch-Nachweis-Copilot-Fail-Procreate-9840721.html)
 - [Passkeys](https://www.heise.de/hintergrund/Passkeys-Was-sie-ausmacht-und-wie-sie-funktionieren-7366497.html)
   - https://www.heise.de/hintergrund/Bestandsaufnahme-Passwort-Nachfolger-Passkeys-9048722.html
 - [ActivityPub](https://activitypub.rocks/)

@@ -2,6 +2,10 @@
 Collection of URL's
 ===================
 
+## Whitepapers
+
+- https://whitepaper.computerwoche.de/
+
 ## Freelance Platforms etc.
 
 - https://www.heise.de/news/US-Regierung-warnt-vor-versehentlicher-Anstellung-von-IT-Experten-aus-Nordkorea-7096548.html
@@ -43,6 +47,9 @@ Collection of URL's
 - https://www.heise.de/select/ix/2021/12/softlinks/zx73?wt_mc=pred.red.ix.ix122021.116.softlink.softlink
 
 ## Webauthn/Passkey
+- https://passkey.org/
+
+- https://www.heise.de/hintergrund/Deep-Dive-So-nutzt-man-Passkeys-per-QR-Code-9789117.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 - https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API
 - https://www.passkeys.io/
 - https://passkeys.dev/docs/reference/terms/

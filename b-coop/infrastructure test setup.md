@@ -131,6 +131,27 @@ define following subdomains:
     A       185.11.139.203
     AAAA    fe80::216:ff:fe00:9861
 
+Network
+-------
+define a common docker network
+```
+$ docker network create upayme-net
+```
+Use in docker-compose.yml
+```
+services:
+  service1:
+    image: myimage
+    networks:
+      - upayme-net
+
+networks:
+  upayme-net:
+    external: true
+```
+
+
+
 Containers
 ----------
 

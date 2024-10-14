@@ -1,6 +1,14 @@
 Security Links Collection
 -------------------------
 
+https://cqure.pl/
+
+VPN's
+-----
+
+- https://www.heise.de/tipps-tricks/VPN-unter-Android-einrichten-so-klappt-s-4455738.html
+
+
 Top Level Certs (Stammzertifikate)
 - https://www.heise.de/ratgeber/Sicherheit-Wo-sich-ueberall-Stammzertifikate-verstecken-9568002.html
 
@@ -34,7 +42,8 @@ Server über SSH entsperren: https://www.heise.de/ratgeber/LUKS-Verschluesselte-
 - https://www.heise.de/news/Alternatives-Erscheinungsbild-Face-ID-Komfortfunktion-als-Sicherheitsproblem-9580217.html
 - https://www.heise.de/news/Digitaler-Euro-BSI-raet-fuer-anonymes-Bezahlen-zu-verschiedenen-Wallets-9626222.html
 - https://www.heise.de/news/2-8-Millionen-Docker-Hub-Repositories-mit-Malware-oder-Phishing-verseucht-9705402.html
-
+- https://itwelt.at/news/dora-diktiert-das-pflichtenheft-fuer-cyberresilienz/
+- https://itwelt.at/news/selbst-isolierte-computer-sind-nicht-sicher-vor-angriffen/
 - https://www.sofie-iot.eu/
 
 - https://www.derstandard.at/story/2000125783121/sicherheitsforscher-warnen-whatsapp-konten-koennen-kinderleicht-von-anderen-gesperrt-werden
