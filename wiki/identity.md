@@ -105,6 +105,7 @@ see: https://www.heise.de/news/Umfrage-Mehrheit-der-Internetnutzer-fuerchtet-Ide
 - Password managers
     - https://www.vaultproject.io/  (hashicorp)
     - https://bitwarden.com
+    - https://www.vaultwarden.net/
     - https://1password.com
 
 ## Basic structure of an identity (SSI)

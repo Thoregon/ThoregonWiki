@@ -18,6 +18,10 @@ Top Level Certs (Stammzertifikate)
 
 - https://www.heise.de/hintergrund/Nullchiffre-Wie-man-Botschaften-verschleiert-9604838.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 
+Firewall
+- https://www.pfsense.org/
+
+
 LUKS
 Server über SSH entsperren: https://www.heise.de/ratgeber/LUKS-Verschluesselte-Linux-Systeme-ueber-SSH-entsperren-6157460.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 

@@ -105,6 +105,9 @@ Collection of URL's
 - [Chat GPT](https://chat.openai.com/)
   - Discord https://discord.com/channels/974519864045756446/1047565374645870743
   - https://www.google.com/search?q=create+a+chatgpt+prompt&rlz=1C9BKJA_enAT726AT726&oq=create+a+chatgpt+prom&gs_lcrp=EgZjaHJvbWUqCwgAEAAYDRgTGIAEMgsIABAAGA0YExiABDILCAEQABgNGBMYgAQyBggCEEUYOTIMCAMQABgKGBMYFhge0gEJMTU5MjhqMGo3qAIAsAIA&hl=de&sourceid=chrome-mobile&ie=UTF-8
+- [Nemotron - Nvidia](https://build.nvidia.com/nvidia/llama-3_1-nemotron-70b-instruct)
+  - https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct
+  - https://www.youtube.com/watch?v=53m1AySFBrw&ab_channel=MervinPraison
 - [Gemini](https://gemini.google.com/app)
 - [RTX - NVIDIA bringt eigenen KI-Chatbot](https://www.nvidia.com/de-de/ai-on-rtx/chat-with-rtx-generative-ai/)
   - https://www.computerwoche.de/a/nvidia-bringt-eigenen-ki-chatbot,3698392
