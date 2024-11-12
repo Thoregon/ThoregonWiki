@@ -15,6 +15,39 @@ pubkey:
 
 ! no password login, only with keypairs
 
+### Environment Variables
+
+following envorinment variables are defined in ~/.profile
+```
+#
+# upay.me environment
+#
+
+export UPAYMEHOME="$HOME"
+export UPAYMEBIN="$UPAYMEHOME/bin"
+export UPAYMEDEV="$UPAYMEHOME/dev"
+export UPAYMETEST="$UPAYMEHOME/upaymetest"
+export UPAYMEPROD="$UPAYMEHOME/upaymeprod"
+export THOREGONGITROOT="$UPAYMEDEV"
+export UPAYMEGITROOT="$UPAYMEDEV/thatsme/thoregon/easypay"
+
+export UPAYMETESTCLI="$UPAYMETEST/cli"
+export UPAYMETESTAGENTS="$UPAYMETEST/agent"
+export UPAYMETESTMODULES="$UPAYMETESTAGENTS/modules"
+export UPAYMETESTSITES="$UPAYMETESTAGENTS/caddy"
+export UPAYMETESTWWW="$UPAYMETEST/www"
+export UPAYMETESTPACKS="$UPAYMETESTWWW/dist"
+
+export UPAYMEPRODCLI="$UPAYMEPROD/cli"
+export UPAYMEPRODAGENTS="$UPAYMEPROD/agent"
+export UPAYMEPRODMODULES="$UPAYMEPRODAGENTS/modules"
+export UPAYMEPRODSITES="$UPAYMEPRODAGENTS/caddy"
+export UPAYMEPRODWWW="$UPAYMEPROD/www"
+export UPAYMEPRODPACKS="$UPAYMEPRODWWW/dist"
+
+# export UPAYME_TEST=1
+```
+
 root
 ----
 M17ytl$6m
@@ -95,6 +128,7 @@ $ docker logs <containername> | more    # show logs of a container
 ```
 
 
+
 - docker compose
     - https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-22-04
     - https://www.youtube.com/watch?v=DM65_JyGxCo
@@ -134,9 +168,27 @@ define following subdomains:
 Network
 -------
 define a common docker network
+
 ```
-$ docker network create upayme-net
+$ docker network create --attachable upayme-net
+$ docker network create --attachable upayme-test-net
 ```
+
+CAUTION:
+- containers within the network can be reached directly by the port they open from other containers in the network
+- the mapped ports (e.g. in docker-compose.yml) can not be accessed from containers in the same network!
+
+e.g. if there is a port mapping:
+    ports:
+        - 1234:5678
+to check if a container can be reached:
+
+```
+docker exec caddy ping upaymetestupayme
+```
+
+the containers in the same docker network must open 5678 !
+
 Use in docker-compose.yml
 ```
 services:
@@ -150,10 +202,85 @@ networks:
     external: true
 ```
 
+upay.me 
+-------
+
+upayme structure in HOME
+```
+dev                         git repos
+
+~/upaymetest    ~/upaymeprod
+    cli                     thoregon command line tools
+        modules             module sources -> in ~/upaymetest/cli: ln -s ~/upaymetest/agent/modules/ modules, ln -s ~/upaymeprod/agent/modules/ modules
+    agent                   
+        caddy               caddy configs for agents (domains). name = caddy_<containername>
+        modules             module sources -> target for copy modules from git 
+        instances
+            <containername>
+                etc             agent config
+                log             agent log
+                data            agent data
+    www                     copy files from /Client
+        dist    
+        .etc
+            <containername>     caddy rewrite target for /etc/* for each container
+        .pub 
+            <containername>     caddy rewrite target for /pub/* for each container
+```
+
+### Scripts
+
+```
+~/.scripts
+    makemodules.sh
+    makewww.sh
+    
+# make executable
+$ chmod +x * 
+```
+
+create symlinks
+```
+$ ln -s  /home/lucky/.scripts/makewww.sh /home/lucky/bin/makewww
+...
+```
 
 
 Containers
 ----------
+
+### Test
+following test containers exist
+- nexus     ... upayme nexus  
+- upayme    ... upayme as vendor
+- vendor    ... arbitrary test vendor
+
+domains: 
+- nexus.bernhard-lukassen.com
+- upayme.bernhard-lukassen.com
+- vendor.bernhard-lukassen.com
+
+
+Create users:
+```
+let ups = await app.current.services.nexus_upayme.consumer();
+
+// upayme user, valid for upayme and nexus test: user: upayme@bernhard-lukassen.com, pwd: KH2VvSbky
+await ups.createCard4SSI({ id: 'upayme', email: 'upayme@bernhard-lukassen.com', firstName: 'Test', lastName: 'Upayme', domain: 'upayme.bernhard-lukassen.com', company: 'upay.me', alias: 'upayme', salt: 'FCD889fxWTCtBGBG', anchor: 'GJB3qdeO2q8kllNOlvDDPa6xJi31Qtx4PH3NsckZ8aI1b7s0HX0SeVPLCSGsA6e8', password: 'KH2VvSbky' });
+await ups.addVendorInstance({ vendorid, 'upayme', containername: 'upayme', domain: 'upayme.bernhard-lukassen.com', port: 30101, main: true });
+
+// testvendor, valid for vendor test instane: user: vendor@bernhard-lukassen.com, pwd: 5lC5r1bS2
+await ups.createCard4SSI({ id: 'vendor', email: 'vendor@bernhard-lukassen.com', firstName: 'Test', lastName: 'Vendor', domain: 'vendor.bernhard-lukassen.com', company: 'vendor', alias: 'vendor', salt: 'I0jJyyi68', anchor: 'RVgw3fIxTTbPsm9hnIWgAwwyuK1Y5cSRNVM9x2Em48YEDB8o4dcPDkzf6KVhN48T', password: '5lC5r1bS2' });
+await ups.addVendorInstance({ vendorid, 'vendor', containername: 'vendor', domain: 'vendor.bernhard-lukassen.com', port: 30102, main: true });
+```
+
+### Prod
+following production containers exist
+- nexus     ... upayme nexus
+- upayme    ... upayme as vendor
+
+- erikawest  ... ernährenswert LLC
+- vivian
 
 -> https://towardsdatascience.com/the-complete-guide-to-docker-volumes-1a06051d2cce
 
@@ -195,6 +322,7 @@ Containers
 
 Resource Server
 ---------------
+**OLD**, not used anymore
 
 - copy testresourceserver -> /home/lucky/compose/resourceserver
   - https://resource.thoregon.io
@@ -222,33 +350,20 @@ Thoregon
 --------
 
 
-Containers
-- image upload server!
-- peerjs signaling server!
+# Containers
+# - image upload server!
+# - peerjs signaling server!
 
-- copy stripecollector -> /home/lucky/compose/stripecollector
 # network connects to external caddy_neuland!
 
-```
-$ mkdir -p /home/lucky/containers/stripecollector/data
-$ sudo chown -R root:root /home/lucky/containers/stripecollector/data
-```
-- !! copy neuland.tdb -> /home/lucky/containers/stripecollector/data
-
-```
-$ mkdir -p /home/lucky/containers/stripecollector/.thoregon
-$ sudo chown -R root:root /home/lucky/containers/stripecollector/.thoregon
-
-$ cd /home/lucky/compose/stripereceiver
-$ docker compose build
-$ docker compose up -d
-```
 
 UI uPayMe
 -----------
 
 UI webroots must be mapped in the 'docker-compose.yaml' as volume  
-here are **all** docroots available as subdirectories 
+here are **all** docroots available as subdirectories
+
+copy /Client content to ~/upaymetest/www and (after testing) ~/upaymeprod/www 
 ````
 volumes:
   ....

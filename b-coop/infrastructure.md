@@ -6,7 +6,7 @@ Infrastructure
 ### Container
 
 Thoregon
-- GUN Relay (..../gun/examples/http.js)     (see: wss://matter.thoregon.io)
+X GUN Relay (..../gun/examples/http.js)     (see: wss://matter.thoregon.io)
 - OIDC SIOP     (https://openid.net/specs/openid-connect-self-issued-v2-1_0.html)
     - OpenID Provider for existing and other legacy services 
 
@@ -33,6 +33,8 @@ Thoregon
     - https://www.youtube.com/watch?v=6GShFLUcdUA
   - [Consul](https://www.consul.io/)
   - [Vault](https://www.vaultproject.io/)
+- CI/CD
+  - [TeamCity](https://www.jetbrains.com/teamcity/ci-cd-tools/teamcity-vs-jenkins/)
 - [Kubernetes](https://kubernetes.io/) -> don't use!
     - https://kubernetes.io/docs/home/
     - https://github.com/godaddy/kubernetes-client
@@ -60,6 +62,7 @@ Thoregon
     - https://www.heise.de/select/ix/2023/10/2316607093159260949)
 - [Podman](https://podman.io/)
     - https://docs.podman.io/en/latest/Commands.html
+- [OpenTelemetry](https://opentelemetry.io/)
 - [Prometeus](https://prometheus.io/) Appliance Monitoring
   - https://www.heise.de/news/iX-Workshop-Echtzeitueberwachung-mit-Prometheus-und-Grafana-9691078.html
 - [Grafana](https://grafana.com/) UI for monitoring

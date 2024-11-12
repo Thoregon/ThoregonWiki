@@ -90,6 +90,10 @@ Collection of URL's
 ## AI (KI) & machine learning
 
 **Coding**
+- [Aider AI](https://aider.chat/)
+  - https://github.com/Aider-AI/aider
+- [bolt.new](https://bolt.new/)
+  - https://github.com/stackblitz/bolt.new
 - https://magic.dev/
 - https://www.jetbrains.com/de-de/ai/?map=4
 - https://www.cognition-labs.com/introducing-devin
@@ -100,6 +104,13 @@ Collection of URL's
 - https://sourcegraph.com/cody?utm_campaign=cody_ga_alex_ziskind&utm_medium=social&utm_source=youtube
 
 - https://www.heise.de/meinung/Analyse-KI-als-Ende-des-Software-Engineerings-Wohl-kaum-9668031.html?seite=all
+- https://www.computerwoche.de/article/3600032/11-open-source-ki-tools-fur-entwickler.html
+
+**Tools**
+- https://github.com/trynyro/nyro-app
+
+**Own Docs in LLM**
+- https://github.com/Mintplex-Labs/anything-llm
 
 **General**
 - [Chat GPT](https://chat.openai.com/)
@@ -210,7 +221,8 @@ deepfake abwehr:
   - [Deep neural network to extract intelligent information from invoice documents](https://github.com/naiveHobo/InvoiceNet)
   - https://www.heise.de/meinung/Pflicht-zur-E-Rechnung-Trojanisches-ZUGFeRD-9646385.html
   - https://www.heise.de/hintergrund/FAQ-Die-E-Rechnung-kommt-das-muessen-Firmen-beachten-9669823.html
-
+  - [PDF24 Tools - Elektronische Rechnung](https://www.pdf24.org/de/)
+  - 
 - Software
   - https://www.fakturama.info/
     - https://bitbucket.org/fakturamadev/fakturama-2/src/master/

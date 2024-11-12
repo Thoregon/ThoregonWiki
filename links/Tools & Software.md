@@ -30,6 +30,10 @@
 - https://www.wordsapi.com/
 - https://www.igdb.com/api
  
+## System Tools
+
+- https://github.com/junegunn/fzf
+
 # Software
 
 - Audio
@@ -43,6 +47,7 @@
 - Image & OCR
   - https://github.com/TheJoeFin/Text-Grab
   - https://github.com/upscayl/upscayl
+  - https://github.com/ksnip/ksnip   (cross-platform screenshot tool)
 - Web Scrapping
   - https://scrapy.org/
   - https://apify.com/
