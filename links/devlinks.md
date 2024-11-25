@@ -212,6 +212,8 @@ deepfake abwehr:
 ## XML Rechnung
 
 - [Pflicht zur XML-E-Rechnung](https://www.heise.de/select/ix/2024/2/2330510331487261336)
+  - [Deutschland Bund Standard XRechnung 3.0.1](https://www.e-rechnung-bund.de/standard-xrechnung-3-0-1/)
+  - [Kleinunternehmerreglung Deutschland](https://www.heise.de/news/Bundesrat-Kleinunternehmer-von-E-Rechnungspflicht-teilweise-befreit-10129342.html)
   - https://www.heise.de/select/ix/2024/2/softlinks/zvew?wt_mc=pred.red.ix.ix022024.080.softlink.softlink
   - https://www.part.de/blog/ein-kleines-lexikon-zum-w%C3%B6rterdschungel-zur-xrechnung-peppol-und-co
   - https://mind-forms.de/e-rechnung/die-sprache-von-zugferd-und-xrechnung-der-unterschied-zwischen-ubl-und-cii/
@@ -222,7 +224,7 @@ deepfake abwehr:
   - https://www.heise.de/meinung/Pflicht-zur-E-Rechnung-Trojanisches-ZUGFeRD-9646385.html
   - https://www.heise.de/hintergrund/FAQ-Die-E-Rechnung-kommt-das-muessen-Firmen-beachten-9669823.html
   - [PDF24 Tools - Elektronische Rechnung](https://www.pdf24.org/de/)
-  - 
+  - [Neue Version Standard XRechnung 3.0.1 verfügbar](https://www.e-rechnung-bund.de/standard-xrechnung-3-0-1/)
 - Software
   - https://www.fakturama.info/
     - https://bitbucket.org/fakturamadev/fakturama-2/src/master/

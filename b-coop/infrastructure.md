@@ -124,7 +124,10 @@ Containers
 - [FLUX](https://github.com/fluxcd/flux2) deploy to Kubernetes Clusters
 - [Krius](https://github.com/infracloudio/krius) manage Prometheus, Thanos & friends across multiple clusters easily for scale
     - https://www.infracloud.io/blogs/krius-accelerating-monitoring-adoption/
-        
+- [Dokku](https://dokku.com/)
+  - https://www.heise.de/select/ix/2024/11/2424808571629173125
+  - https://github.com/dokku/dokku
+
 Info:
 - https://logz.io/blog/prometheus-vs-nagios-metrics/
 - https://www.educba.com/prometheus-vs-nagios/

@@ -125,6 +125,11 @@ $ docker container rm <containername>   # remove container (auto by docker compo
 $ docker network ls                     # list networks
 $ docker network rm <networkname>       # remove network (auto by docker compose down)
 $ docker logs <containername> | more    # show logs of a container
+$ docker exec -ti <container1> ping <container2)    # check if container1 can reach container 2 
+$ docker exec -ti <containername> ss -l             # list open ports from container
+
+$ docker network instpect <networkname>
+$ docker container instpect <containername>
 ```
 
 
@@ -263,7 +268,8 @@ domains:
 
 Create users:
 ```
-let ups = await app.current.services.nexus_upayme.consumer();
+// let ups = await app.current.services.nexus_upayme.consumer();
+let ups = agent.current.consumer('upayme')
 
 // upayme user, valid for upayme and nexus test: user: upayme@bernhard-lukassen.com, pwd: KH2VvSbky
 await ups.createCard4SSI({ id: 'upayme', email: 'upayme@bernhard-lukassen.com', firstName: 'Test', lastName: 'Upayme', domain: 'upayme.bernhard-lukassen.com', company: 'upay.me', alias: 'upayme', salt: 'FCD889fxWTCtBGBG', anchor: 'GJB3qdeO2q8kllNOlvDDPa6xJi31Qtx4PH3NsckZ8aI1b7s0HX0SeVPLCSGsA6e8', password: 'KH2VvSbky' });

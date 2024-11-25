@@ -25,6 +25,8 @@ Firewall
 LUKS
 Server über SSH entsperren: https://www.heise.de/ratgeber/LUKS-Verschluesselte-Linux-Systeme-ueber-SSH-entsperren-6157460.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 
+BSI Grundschutz++: https://www.heise.de/meinung/Kommentar-Das-BSI-liefert-ein-tolles-Konzept-fuer-einen-neuen-IT-Grundschutz-10035748.html
+
 - https://www.heise.de/news/NAT-Slipstreaming-Angriffe-Es-kommt-noch-schlimmer-5078104.html
 - https://www.heise.de/news/Kontopluenderung-per-geklautem-iPhone-Brasilianische-Polizei-verraet-Methode-6132832.html
 - https://www.heise.de/news/l-f-Zero-Day-Exploits-Selbstbedienungsladen-NSA-5064197.html
