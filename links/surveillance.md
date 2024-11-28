@@ -5,6 +5,8 @@ Surveillance links collection
 
 - !! Datenhändler: https://datarade.ai/
 
+- [US-Sanktionen gegen Kryptowährungsmixer Tornado Cash waren rechtswidrig](https://www.heise.de/news/US-Sanktionen-gegen-Kryptowaehrungsmixer-Tornado-Cash-waren-rechtswidrig-10178510.html)
+
 ## Cookies via DNS CNAME
 - https://fm4.orf.at/stories/3012370/
 
