@@ -248,6 +248,10 @@ deepfake abwehr:
 
 - https://www.heise.de/meinung/Kommentar-zu-log4j-Es-funktioniert-wie-spezifiziert-6294476.html
 
+Get IP Client Info:
+- [https://ipinfo.io/json](detailed)
+- [https://api.ipify.org/?format=json](ip address only)
+
 Change Favicon in browser tab
 - https://stackoverflow.com/questions/260857/changing-website-favicon-dynamically
 - https://stackoverflow.com/questions/8139009/can-we-control-the-loading-icon-in-the-browser-tab
@@ -549,7 +553,14 @@ HATEOS (Hypermedia)
 
 #### UI Components
 
+- https://quasar.dev/
 - https://github.com/shadcn-ui/ui
+- https://www.syncfusion.com/
+- https://www.primefaces.org/
+- https://magicui.design/
+
+--> https://wpshout.com/vue-ui-component-libraries/#gref
+--> https://medium.com/@emperorbrains/10-vue-js-ui-libraries-trends-in-2024-4ae6a9f653f5
 
 #### Workflow
 

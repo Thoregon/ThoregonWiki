@@ -159,4 +159,7 @@ Surveillance links collection
 - https://www.heise.de/news/SORM-Co-Russland-bei-digitaler-Massenueberwachung-an-vorderster-Front-9769990.html
 - https://www.heise.de/news/Buergerrechtler-EU-darf-geplanter-UN-Cybercrime-Konvention-nicht-zustimmen-9807101.html
 - https://www.heise.de/news/EU-Strafverfolger-fordern-Datensparsame-Messenger-Dienste-sanktionieren-10179828.html
+- https://www.heise.de/news/Offener-Brief-EU-Ermittler-wollen-Verschluesselung-umgehen-und-die-Mathematik-10196456.html
+- https://www.heise.de/news/Datenmissbrauch-Niederlaendische-Polizei-macht-Aktivisten-zum-Terroristen-10221108.html
+- https://www.heise.de/news/IGF-Riad-Massive-Kritik-an-UN-Cybercrime-Konvention-10217890.html
 - 

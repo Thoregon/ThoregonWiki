@@ -3,6 +3,10 @@ Infrastructure
 
 ## Software
 
+### Collaboration
+
+- [NextCloud mit Teams Functioen](https://itwelt.at/news/open-source-alternative-zu-microsoft-teams/)
+
 ### Container
 
 Thoregon
@@ -97,7 +101,8 @@ X GUN Relay (..../gun/examples/http.js)     (see: wss://matter.thoregon.io)
   - https://caddyserver.com/docs/quick-starts/reverse-proxy
   - https://www.youtube.com/watch?v=qj45uHP7Jmo
 - [Traefik](https://doc.traefik.io/traefik/getting-started/quick-start/)
-
+- [Wazuh](https://github.com/wazuh) The Open Source Security Platform
+  - https://www.heise.de/select/ix/2024/12/softlinks/zf99?wt_mc=pred.red.ix.ix122024.130.softlink.softlink
 
 ## Provisioning
 
