@@ -63,7 +63,8 @@ add service:
                                 { cmd: 'CREATE UNIQUE INDEX IF NOT EXISTS busevtidx ON transactions (business_index)' },
                                 { cmd: 'CREATE UNIQUE INDEX IF NOT EXISTS txid ON transactions (transaction_id)' },
                             ]
-                        }
+                        },
+                        { sql: 'CREATE OR REPLACE VIEW tx_analysis AS SELECT year(txdate) as year, month(txdate) as month, week(txdate) as week, * FROM transactions' }
                     ]
                 },
             }
