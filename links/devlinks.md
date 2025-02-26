@@ -24,6 +24,7 @@ Collection of URL's
 
 ## IDE
 
+Pair Programming: JetBrains CodeWithMe https://www.youtube.com/watch?v=Lq0fCMCK-Yw&ab_channel=JetBrains
 
 ## Sources
 
@@ -243,6 +244,8 @@ deepfake abwehr:
 ### Articles
 
 - https://computerwelt.at/news/ohne-low-code-keine-prozessdigitalisierung/
+- https://chriskiehl.com/article/thoughts-after-10-years
+
 
 ### Hints
 
@@ -628,7 +631,9 @@ HATEOS (Hypermedia)
 
 ### Salt'n'Pepper
 
+- https://www.heise.de/hintergrund/Secure-Coding-Sicherere-Passwoerter-mit-Salt-Pepper-und-Hashing-10274977.html
 - https://www.dr-datenschutz.de/passwoerter-hashen-sicherer-mit-salt-and-pepper/
+- https://medium.com/@berto168/salt-pepper-spice-up-your-hash-b48328caa2af
 - https://medium.com/@berto168/salt-pepper-spice-up-your-hash-b48328caa2af
 - https://www.youtube.com/watch?v=YLCoDK0OwYM&ab_channel=SunnyClassroom
 

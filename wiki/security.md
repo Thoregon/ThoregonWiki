@@ -22,6 +22,9 @@ https://www.heise.de/hintergrund/Sichere-Kommunikation-Wie-Messenger-versuchen-M
 
 ## MFA 2FA
 
+- https://www.computerwoche.de/article/3813492/authentifizierungs-how-to-fur-entwickler.html
+- https://xkcd.com/936/
+
 - https://www.heise.de/ratgeber/2FAuth-Zwei-Faktor-Authentifizierung-selbst-gemacht-9352960.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 - https://www.heise.de/news/Gehackt-trotz-2-Faktor-Login-Wie-man-sich-dagegen-schuetzt-c-t-uplink-48-2c-8970929.html
 - https://www.heise.de/ratgeber/IT-Security-Wie-Angreifer-die-Zwei-Faktor-Authentifizierung-aushebeln-8973846.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
