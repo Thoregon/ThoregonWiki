@@ -3,7 +3,7 @@ SQL DB Migration
 
 Applies for SQL Databases defined with OlapService (thoregon.neuland)
 
-Back DB use is [DuckDB](https://duckdb.org/).
+DB used is [DuckDB](https://duckdb.org/)
 
 Find [reference and documentation](https://duckdb.org/docs/) here. 
 
@@ -36,7 +36,7 @@ services: {
 }
 ```
 
-current DB version is stored etc/olap.mjs
+current DB version is stored etc/olap.mjs. this file is maintained automatically.
 ```
 export default { version: 1 }
 ```
@@ -93,7 +93,7 @@ be imlemented as SQL commands.
 ## SQL Command
 Simple SQL command which will be executed. the result will **not** be passed to the next 
 migration step. 
-When createing or altering tables and other DB objects keep in mind to use 'IF EXISTS' respectively 'IF NOT EXISTS'
+When creating or altering tables and other DB objects keep in mind to use 'IF EXISTS' respectively 'IF NOT EXISTS'
 to avoid error messages in the log. 
 A failed migration step does not stop the migration.
 
@@ -127,6 +127,14 @@ here is a useless example
 
 ## Define table
 
+Defined tables will be created or replaced. 
+
+Fields are defined with 'name' and 'def' which is the type with specifications e.g. default value etc.  
+Additional specifications like a primary key for the table can be added with 'def'  
+
+Enclosed can be commands, which will be executed after the CREATE TABLE statement.  
+Keep in mind, when creating indices with 'cmd', the index name must be unique within the DB catalog,
+not within the table only! 
 ```
 {
     table: 'testtable', columns: [
@@ -140,6 +148,18 @@ here is a useless example
         { cmd: 'CREATE INDEX IF NOT EXISTS idx_b ON testtable (field_b)' },
     ]
 }
+```
+
+Caution: if the table exists already it will be dropped.   
+If the content needs to be migrated do the following steps  
+Before the table definition: 
+```
+{ sql: 'ALTER TABLE testtable RENAME TO testtable_old;' }
+```
+After table definition: 
+```
+{ sql: 'INSERT INTO testtable SELECT <* or fieldnames> FROM testtable_old;' }
+{ sql: 'DROP TABLE testtable_old;' }
 ```
 
 ## Insert command
