@@ -371,7 +371,8 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 
 ## Native Apps
 
-- [tauri.app](https://tauri.app/)    Electron replacement?
+- [tauri.app](https://tauri.app/)    Electron replacement
+  - https://github.com/tauri-apps/tauri
 - [NW.js](https://nwjs.io)
 - [Electron](https://www.electronjs.org/de/)
 - [webintoapp](https://www.webintoapp.com/)
@@ -451,6 +452,11 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 
 --> Software BOM https://www.heise.de/hintergrund/SBOMs-Wie-Stuecklisten-fuer-Software-funktionieren-7265763.html?seite=all
 
+### Full Stack
+
+- [RedwoodJS](https://redwoodjs.com/) The Single-Dev Framework that Just Works
+- [Prisma](https://www.prisma.io/) 
+
 ### Dev Environments
 
 - https://bit.dev/docs/getting-started/installing-bit/installing-bit
@@ -514,6 +520,12 @@ currently used for analysis
 - [CrateDB](https://github.com/crate/crate)
 - [FoundationDB](https://www.foundationdb.org/)
 
+### SQL Pivot
+
+- mysql_pivot.sql 
+  - https://gist.github.com/chappy84/f9b5105263b10c9c6a63
+  - https://mysql.rjweb.org/doc.php/pivot
+  - https://dzone.com/articles/build-pivot-tables-in-mysql-using-user-variables
 
 ### JS
 
