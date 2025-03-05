@@ -482,6 +482,39 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 
 - https://zed.dev/
 
+### DBs
+
+currently used for analysis
+- [DuckDB](https://duckdb.org/) fast DB für analysis
+
+#### SQL DBs
+- [PostgreSQL](https://www.postgresql.org/)
+- [SQLite](https://www.sqlite.org/)
+- [MySQL](https://mysql.com/)
+- [MariaDB](https://mariadb.com/)
+
+#### NoSQL DBs
+
+- [MongoDB](https://www.mongodb.com/) Document DB
+- [Redis](https://github.com/redis/redis)   Key Value Store
+- [Neo4j](https://neo4j.com/)  Graph DB
+- [CouchDB](https://couchdb.apache.org/) Document DB
+- [OrientDB](https://orientdb.org/)
+
+#### Distributed DBs
+
+**SQL**
+- [Apache Ignite](https://ignite.apache.org/) Distributed SQL Database For High‑Performance Applications
+- [CockroachDB](https://github.com/cockroachdb/cockroach)
+
+**NoSQL**
+- [Apache Kvrocks](https://kvrocks.apache.org/) distributed key value NoSQL database that uses RocksDB as storage engine
+- [Apache Cassandra](https://cassandra.apache.org/)
+- [Couchbase Server](https://www.couchbase.com/)
+- [CrateDB](https://github.com/crate/crate)
+- [FoundationDB](https://www.foundationdb.org/)
+
+
 ### JS
 
 - [bestofjs](https://bestofjs.org/)
