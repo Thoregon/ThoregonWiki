@@ -198,6 +198,11 @@ deepfake abwehr:
 - https://www.computerwoche.de/a/wenn-gen-ai-zur-sackgasse-wird,3614710
 - https://www.computerwoche.de/a/was-sind-llms,3614567
 
+#### Articles
+
+- https://www.heise.de/hintergrund/Anthropic-erforscht-LLMs-und-entdeckt-dabei-unerwartet-bizarre-Ergebnisse-10334400.html
+
+
 ### NLP (Natural Language Processing)
 
 - https://www.computerwoche.de/a/3-quelloffene-nlp-tools,3614836
@@ -213,6 +218,7 @@ deepfake abwehr:
 ## XML Rechnung
 
 - [Pflicht zur XML-E-Rechnung](https://www.heise.de/select/ix/2024/2/2330510331487261336)
+  - [Neue EU Regeln zur E-Rechnung](https://www.heise.de/news/Neue-EU-Regeln-zur-E-Rechnung-und-gegen-Mehrwertsteuerbetrug-beschlossen-10313955.html)
   - [Deutschland Bund Standard XRechnung 3.0.1](https://www.e-rechnung-bund.de/standard-xrechnung-3-0-1/)
   - [Kleinunternehmerreglung Deutschland](https://www.heise.de/news/Bundesrat-Kleinunternehmer-von-E-Rechnungspflicht-teilweise-befreit-10129342.html)
   - https://www.heise.de/select/ix/2024/2/softlinks/zvew?wt_mc=pred.red.ix.ix022024.080.softlink.softlink
@@ -264,7 +270,8 @@ Change Favicon in browser tab
 - https://www.heise.de/ratgeber/ESP32-Daten-austauschen-mit-dem-offenen-Netzwerkprotokoll-MQTT-7269469.html?seite=all
 - https://www.codementor.io/@tiagolopesferreira/asynchronous-iterators-in-javascript-jl1yg8la1
 - https://www.heise.de/hintergrund/Wie-Objekte-in-JavaScript-funktionieren-7325258.html?seite=all
-- 
+- https://github.com/codecrafters-io/build-your-own-x   Software Technology Examples to learn
+
 ### Comparisions
 
 - https://www.youtube.com/watch?v=cuHDQhDhvPE
@@ -352,8 +359,11 @@ https://t3n.de/news/web3-entwicklung-solidity-blockchain-lernen-1454211/
 https://www.computerwoche.de/a/wie-jedes-unternehmen-cloud-nativ-werden-kann,3552891
 https://www.computerwoche.de/a/14-brandheisse-webassembly-projekte,3613425
 
-- https://emscripten.org/
+#### WASM
 
+- https://emscripten.org/
+  https://github.com/hyperlight-dev/hyperlight-wasm
+- 
 - [CheerpJ - JavaVM WASM](https://www.heise.de/news/CheerpJ-3-0-WebAssembly-JVM-fuer-nahtlose-Java-Ausfuehrung-im-Browser-9618883.html)
 
 #### Node x86 on Apple Silicon
@@ -373,6 +383,7 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 
 - [tauri.app](https://tauri.app/)    Electron replacement
   - https://github.com/tauri-apps/tauri
+- [LynxJS](https://lynxjs.org/)    Native Apps like Electron
 - [NW.js](https://nwjs.io)
 - [Electron](https://www.electronjs.org/de/)
 - [webintoapp](https://www.webintoapp.com/)
@@ -483,6 +494,15 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 - https://xtermjs.org/
 - https://github.com/butlerx/wetty
 - https://tabby.sh/
+
+### Terminal Multiplexer
+
+- https://github.com/tmux/tmux/wiki
+- https://zellij.dev/
+  - https://typecraft.dev/tutorial/zellij-vs-tmux
+- https://wezterm.org/index.html
+- https://alacritty.org/
+- https://www.gnu.org/software/screen/
 
 ### Editors
 

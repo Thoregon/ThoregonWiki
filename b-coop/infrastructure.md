@@ -6,6 +6,17 @@ Infrastructure
 ### Collaboration
 
 - [NextCloud mit Teams Functioen](https://itwelt.at/news/open-source-alternative-zu-microsoft-teams/)
+- [openDesk](https://opendesk.eu/)
+  - https://www.heise.de/select/ix/2025/1/softlinks/z6yj?wt_mc=pred.red.ix.ix012025.110.softlink.softlink
+- [Notion](https://www.notion.com/) The happier workspace
+
+**DEV**
+- [Youtrack](https://upayme.youtrack.cloud/) ticketsystem
+
+#### Project Management
+
+- [TeamCity](https://www.jetbrains.com/teamcity/ci-cd-tools/teamcity-vs-jenkins/)
+- [OpenProject](https://www.openproject.org/)
 
 ### Container
 
@@ -30,6 +41,7 @@ X GUN Relay (..../gun/examples/http.js)     (see: wss://matter.thoregon.io)
   - [Terraform](https://www.terraform.io/)
     - https://www.heise.de/hintergrund/Modularisierte-Infrastructure-as-Code-in-Terraform-9629194.html
     - OpenSource Ersatz: https://opentofu.org/
+    - https://www.computerwoche.de/article/3853753/opentofu-der-killer-fork.html
   - [Nomad](https://www.nomadproject.io/) -> USE!
     - https://www.heise.de/ratgeber/Container-Umgebungen-mit-Nomad-So-gelingt-der-Einstieg-9687659.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
     - https://www.youtube.com/watch?v=SSfuhOLfJUg
@@ -67,6 +79,7 @@ X GUN Relay (..../gun/examples/http.js)     (see: wss://matter.thoregon.io)
 - [Podman](https://podman.io/)
     - https://docs.podman.io/en/latest/Commands.html
 - [OpenTelemetry](https://opentelemetry.io/)
+  - https://opentelemetry.io/ecosystem/
 - [Prometeus](https://prometheus.io/) Appliance Monitoring
   - https://www.heise.de/news/iX-Workshop-Echtzeitueberwachung-mit-Prometheus-und-Grafana-9691078.html
 - [Grafana](https://grafana.com/) UI for monitoring
@@ -103,6 +116,8 @@ X GUN Relay (..../gun/examples/http.js)     (see: wss://matter.thoregon.io)
 - [Traefik](https://doc.traefik.io/traefik/getting-started/quick-start/)
 - [Wazuh](https://github.com/wazuh) The Open Source Security Platform
   - https://www.heise.de/select/ix/2024/12/softlinks/zf99?wt_mc=pred.red.ix.ix122024.130.softlink.softlink
+- API Gateways
+  - [Drei API Gateways im Vergleich](https://www.heise.de/tests/Drei-API-Gateways-im-Vergleich-10301399.html?seite=all)
 
 ## Provisioning
 

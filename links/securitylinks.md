@@ -53,3 +53,4 @@ BSI Grundschutz++: https://www.heise.de/meinung/Kommentar-Das-BSI-liefert-ein-to
 - https://www.sofie-iot.eu/
 
 - https://www.derstandard.at/story/2000125783121/sicherheitsforscher-warnen-whatsapp-konten-koennen-kinderleicht-von-anderen-gesperrt-werden
+- https://www.heise.de/news/Passwort-Folge-26-Homomorphe-Verschluesselung-10282388.html
