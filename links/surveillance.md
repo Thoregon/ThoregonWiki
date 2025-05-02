@@ -26,6 +26,7 @@ Surveillance links collection
 - https://github.com/MatejKovacic/silent-sms-ping
 - https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Special-SMS
 
+- https://www.heise.de/hintergrund/Notruf-112-So-ortet-die-Leitstelle-Ihr-Mobiltelefon-7490400.html
 
 
 ## Biometrische Generalschlüssel
@@ -33,7 +34,8 @@ Surveillance links collection
 - !!! https://www.heise.de/security/meldung/Generalschluessel-fuer-Fingerabdruckscanner-Master-Prints-entsperren-Smartphones-4220782.html
 - https://www.heise.de/hintergrund/Fake-Face-Generatoren-verraten-Ausgangsbilder-6212347.html
 
-- https://www.heise.de/hintergrund/Notruf-112-So-ortet-die-Leitstelle-Ihr-Mobiltelefon-7490400.html
+- https://www.heise.de/news/Europol-beleuchtet-Schwachstellen-biometrischer-Identifizierung-10348132.html
+
 
 ## Apple Photo Scann
     https://www.heise.de/news/iPhone-Scanning-auf-Kinderpornos-Apple-nennt-Abdrehmoeglichkeit-6157178.html

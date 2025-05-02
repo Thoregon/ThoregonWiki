@@ -104,8 +104,13 @@ Pair Programming: JetBrains CodeWithMe https://www.youtube.com/watch?v=Lq0fCMCK-
 - https://cloud.google.com/products/gemini/code-assist?hl=de
 - https://sourcegraph.com/cody?utm_campaign=cody_ga_alex_ziskind&utm_medium=social&utm_source=youtube
 
+- https://www.computerwoche.de/article/3854442/vibe-coding-im-selbstversuch.html
+
+- https://www.heise.de/hintergrund/Sprachmodelle-lokal-betreiben-Fuenf-Tools-vorgestellt-10312843.html?seite=all
 - https://www.heise.de/meinung/Analyse-KI-als-Ende-des-Software-Engineerings-Wohl-kaum-9668031.html?seite=all
 - https://www.computerwoche.de/article/3600032/11-open-source-ki-tools-fur-entwickler.html
+- https://www.heise.de/ratgeber/Bildgenerierung-mit-ChatGPT-4o-in-der-Praxis-So-erzeugen-Sie-mehr-als-nur-Memes-10339419.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
+
 
 **Tools**
 - https://github.com/trynyro/nyro-app
@@ -363,7 +368,7 @@ https://www.computerwoche.de/a/14-brandheisse-webassembly-projekte,3613425
 
 - https://emscripten.org/
   https://github.com/hyperlight-dev/hyperlight-wasm
-- 
+- https://github.com/bytecodealliance/javy
 - [CheerpJ - JavaVM WASM](https://www.heise.de/news/CheerpJ-3-0-WebAssembly-JVM-fuer-nahtlose-Java-Ausfuehrung-im-Browser-9618883.html)
 
 #### Node x86 on Apple Silicon
