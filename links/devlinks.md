@@ -251,6 +251,7 @@ deepfake abwehr:
 ## Dev Methods
 
 - https://refactoring.com/
+- https://www.computerwoche.de/article/2793573/was-scrum-von-kanban-unterscheidet.html
 
 ### Articles
 

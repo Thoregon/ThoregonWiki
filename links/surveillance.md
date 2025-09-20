@@ -165,4 +165,7 @@ Surveillance links collection
 - https://www.heise.de/news/Datenmissbrauch-Niederlaendische-Polizei-macht-Aktivisten-zum-Terroristen-10221108.html
 - https://www.heise.de/news/IGF-Riad-Massive-Kritik-an-UN-Cybercrime-Konvention-10217890.html
 - https://www.heise.de/ratgeber/Vor-der-Reise-in-die-USA-So-schuetzen-Sie-ihr-Smartphone-Laptop-und-Co-10361670.html?seite=all
-- 
+- https://www.heise.de/news/Belgisches-Gericht-ordnet-Sperre-der-Open-Library-des-Internet-Archive-an-10507895.html
+
+
+
