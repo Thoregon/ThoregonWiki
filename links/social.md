@@ -140,6 +140,7 @@
 - https://www.heise.de/hintergrund/Ploetzlich-kriminell-Warum-Hackerparagrafen-im-Strafgesetzbuch-bedenklich-sind-9611989.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 - https://www.heise.de/news/In-App-Browser-als-Spitzel-Aktivisten-fordern-Aenderungen-in-Android-und-iOS-9671930.html
 - https://www.heise.de/news/Studie-Altersverifikation-im-Netz-ist-noetig-in-Demokratien-aber-nicht-machbar-9670768.html
+- https://www.telepolis.de/features/Die-dunkle-Seite-von-Interpol-Der-Mann-der-zu-viel-wusste-10671464.html
 - 
 
 ## Community, Cooperation, Wealth

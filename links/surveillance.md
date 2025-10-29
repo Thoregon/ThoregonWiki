@@ -166,6 +166,7 @@ Surveillance links collection
 - https://www.heise.de/news/IGF-Riad-Massive-Kritik-an-UN-Cybercrime-Konvention-10217890.html
 - https://www.heise.de/ratgeber/Vor-der-Reise-in-die-USA-So-schuetzen-Sie-ihr-Smartphone-Laptop-und-Co-10361670.html?seite=all
 - https://www.heise.de/news/Belgisches-Gericht-ordnet-Sperre-der-Open-Library-des-Internet-Archive-an-10507895.html
+- https://www.heise.de/hintergrund/Zahlen-bitte-Die-1000-Augen-des-Dr-Mabuse-Ueberwachungsstaat-vorweg-genommen-10667178.html
 
 
 

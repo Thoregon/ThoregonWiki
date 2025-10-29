@@ -19,3 +19,7 @@
 
 ## Work on Project
 
+## JS
+
+- https://www.npmjs.com/package/brain.js?activeTab=readme
+

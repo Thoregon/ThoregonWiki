@@ -68,7 +68,9 @@ Pair Programming: JetBrains CodeWithMe https://www.youtube.com/watch?v=Lq0fCMCK-
 - https://www.heise.de/ratgeber/Andrew-Shikiar-im-Interview-Die-Erfolgsaussichten-von-Passkeys-9225952.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 - https://www.heise.de/hintergrund/Kryptografie-in-der-Praxis-Anmelden-ohne-Passwort-Teil-1-9218716.html?wt_mc=intern.red.plus.newsticker.7-tage-news.teaser.teaser
 - https://www.heise.de/news/Bitwarden-legt-Passkey-Unterstuetzung-fuer-Web-App-nach-9595697.html
-- 
+- https://www.heise.de/select/ix/2025/8/softlinks/zbyp?wt_mc=pred.red.ix.ix082025.114.softlink.softlink
+
+
 ## MFA, 2FA, FIDO, Passkey
 
 - [FIDO Javascript API](https://fidoalliance.org/specs/fido-u2f-v1.0-nfc-bt-amendment-20150514/fido-u2f-javascript-api.html)
@@ -435,6 +437,9 @@ https://www.heise.de/hintergrund/Hackersoftware-Rechtliche-Unsicherheiten-bei-Ha
 
 - https://cloudogu.com/de/glossar/gitops/
 - https://www.heise.de/hintergrund/Versionierung-und-Agenten-Vor-und-Nachteile-von-GitOps-9601403.html
+
+- https://www.computerwoche.de/article/2799530/die-besten-kanban-tools.html
+- https://kanbanflow.com/
 
 ## Testing
 

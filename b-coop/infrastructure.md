@@ -51,8 +51,9 @@ X GUN Relay (..../gun/examples/http.js)     (see: wss://matter.thoregon.io)
   - [Vault](https://www.vaultproject.io/)
 - CI/CD
   - [TeamCity](https://www.jetbrains.com/teamcity/ci-cd-tools/teamcity-vs-jenkins/)
-- [Kubernetes](https://kubernetes.io/) -> don't use!
+- [Kubernetes](https://kubernetes.io/) -> don't use, use K3S
     - https://kubernetes.io/docs/home/
+    - https://github.com/tomhuang12/awesome-k8s-resources
     - https://github.com/godaddy/kubernetes-client
     - https://github.com/kubernetes-client/javascript/tree/master/examples
     - Kubernetes Automation: https://www.kubermatic.com/
