@@ -169,6 +169,6 @@ Surveillance links collection
 - https://www.heise.de/hintergrund/Zahlen-bitte-Die-1000-Augen-des-Dr-Mabuse-Ueberwachungsstaat-vorweg-genommen-10667178.html
 - https://www.heise.de/news/Praezedenzfall-US-Behoerde-identifiziert-Darknet-Admin-mit-ChatGPT-Daten-10900127.html
 - https://www.heise.de/news/Ueberwachung-Zivilgesellschaft-warnt-vor-Unterzeichnen-der-Cybercrime-Konvention-10900035.html
-
+- https://www.telepolis.de/article/Digitale-Kontrolle-Warum-die-Chatkontrolle-alle-betrifft-11039587.html
 
 
